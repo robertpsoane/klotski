@@ -88,6 +88,7 @@
 #import sys
 #sys.setrecursionlimit(3000)
 import copy
+import time
 
 klotski_board = [
     ['B1', 'R1', 'R1', 'B3'],
@@ -440,6 +441,15 @@ def solve(board_dictionary):
                 dispBoard(new_board)
                 print()
                 printBoards(new_history)
+                end_time = time.time()
+                
+                ### Timing Search
+                total_time = end_time - start_time
+                secs = total_time % 60
+                mins = total_time // 60
+                hours = mins // 60
+                print('Time to solve and output solution: {}:{}:{}'.format(hours, mins, secs))
+
                 input('more?')
             else:
                 new_boards.append(new_board)
@@ -464,7 +474,16 @@ klotski_dict = {
     }
 }
 
+start_time = time.time()
+
 solve(klotski_dict)
+
+end_time = time.time()
+total_time = end_time - start_time
+secs = total_time % 60
+mins = total_time // 60
+hours = mins // 60
+print('Time to solve and output solution: {}:{}:{}'.format(hours, mins, secs))
 
 
 '''

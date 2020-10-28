@@ -1,0 +1,14084 @@
+B R R B 
+B R R B 
+B P P B 
+B X W B 
+W W X W 
+
+B R R B 
+B R R B 
+B P P B 
+B W W B 
+X W X W 
+
+B R R B 
+B R R B 
+B P P B 
+B W X B 
+W X W W 
+
+B R R B 
+B R R B 
+B P P B 
+B W W B 
+W X W X 
+
+B R R B 
+B R R B 
+B P P B 
+B W W B 
+W X X W 
+
+B R R B 
+B R R B 
+B P P B 
+B W X B 
+W W X W 
+
+B R R B 
+B R R B 
+B P P B 
+B X X B 
+W W W W 
+
+B R R B 
+B R R B 
+B P P B 
+B X W B 
+W W W X 
+
+B R R B 
+B R R B 
+B P P B 
+B X W B 
+W X W W 
+
+B R R B 
+B R R B 
+X P P B 
+B W W B 
+B W X W 
+
+B R R B 
+B R R B 
+B P P B 
+B W X B 
+X W W W 
+
+B R R B 
+B R R B 
+B P P B 
+B W W B 
+X W W X 
+
+B R R B 
+B R R B 
+B P P B 
+B W W B 
+X X W W 
+
+B R R B 
+B R R B 
+B P P B 
+B W W B 
+W W X X 
+
+B R R B 
+B R R B 
+B P P X 
+B W W B 
+W X W B 
+
+B R R B 
+B R R B 
+B P P B 
+B W X B 
+W W W X 
+
+B R R B 
+B R R B 
+B X X B 
+B P P B 
+W W W W 
+
+B R R B 
+B R R B 
+B P P X 
+B X W B 
+W W W B 
+
+B R R B 
+B R R B 
+B P P B 
+B X W B 
+X W W W 
+
+X R R B 
+B R R B 
+B P P B 
+B W W B 
+B W X W 
+
+B R R B 
+B R R B 
+P P X B 
+B W W B 
+B W X W 
+
+B R R B 
+B R R B 
+X P P B 
+B W X B 
+B W W W 
+
+B R R B 
+B R R B 
+X P P B 
+B W W B 
+B W W X 
+
+B R R B 
+B R R B 
+X P P B 
+B W W B 
+B X W W 
+
+B R R B 
+B R R B 
+B P P X 
+B W W B 
+X W W B 
+
+B R R B 
+B R R B 
+B P P X 
+B W W B 
+W W X B 
+
+B R R X 
+B R R B 
+B P P B 
+B W W B 
+W X W B 
+
+B R R B 
+B R R B 
+B X P P 
+B W W B 
+W X W B 
+
+B R R B 
+B R R B 
+B P P X 
+B W X B 
+W W W B 
+
+B X X B 
+B R R B 
+B R R B 
+B P P B 
+W W W W 
+
+B R R X 
+B R R B 
+B P P B 
+B X W B 
+W W W B 
+
+B R R B 
+B R R B 
+B X P P 
+B X W B 
+W W W B 
+
+B R R B 
+B R R B 
+X P P B 
+B X W B 
+B W W W 
+
+X R R B 
+B R R B 
+B P P B 
+B W X B 
+B W W W 
+
+X R R B 
+B R R B 
+B P P B 
+B W W B 
+B W W X 
+
+X R R B 
+B R R B 
+B P P B 
+B W W B 
+B X W W 
+
+B R R B 
+B R R B 
+P P W B 
+B W X B 
+B W X W 
+
+B R R B 
+B R R B 
+P P X B 
+B W X B 
+B W W W 
+
+B R R B 
+B R R B 
+P P X B 
+B W W B 
+B W W X 
+
+B R R B 
+B R R B 
+P P X B 
+B W W B 
+B X W W 
+
+B R R B 
+B R R B 
+X P P X 
+B W W B 
+B W W B 
+
+B R R X 
+B R R B 
+B P P B 
+B W W B 
+X W W B 
+
+B R R B 
+B R R B 
+B X P P 
+B W W B 
+X W W B 
+
+B R R X 
+B R R B 
+B P P B 
+B W W B 
+W W X B 
+
+B R R B 
+B R R B 
+B X P P 
+B W W B 
+W W X B 
+
+B R R B 
+B R R B 
+B W P P 
+B X W B 
+W X W B 
+
+B R R X 
+B R R B 
+B P P B 
+B W X B 
+W W W B 
+
+B R R B 
+B R R B 
+B X P P 
+B W X B 
+W W W B 
+
+B R R B 
+B R R B 
+B R R B 
+B P P B 
+W W W W 
+
+B R R B 
+B R R B 
+X B P P 
+X B W B 
+W W W B 
+
+X R R B 
+B R R B 
+B P P B 
+B X W B 
+B W W W 
+
+B R R B 
+B R R B 
+P P X B 
+B X W B 
+B W W W 
+
+X R R B 
+B R R B 
+B P P X 
+B W W B 
+B W W B 
+
+B R R B 
+B R R B 
+P P W B 
+B X W B 
+B W X W 
+
+B R R B 
+B R R B 
+P P W B 
+B W X B 
+B W W X 
+
+B R R B 
+B R R B 
+P P W B 
+B W X B 
+B X W W 
+
+B R R B 
+B R R B 
+P P X X 
+B W W B 
+B W W B 
+
+B R R X 
+B R R B 
+X P P B 
+B W W B 
+B W W B 
+
+B R R B 
+B R R B 
+X X P P 
+B W W B 
+B W W B 
+
+B R R B 
+B R R B 
+B W P P 
+B X W B 
+X W W B 
+
+B R R B 
+B R R B 
+B W P P 
+B X W B 
+W W X B 
+
+B R R B 
+B R R B 
+B W P P 
+B W X B 
+W X W B 
+
+B R R B 
+B R R B 
+B W P P 
+B X X B 
+W W W B 
+
+X R R B 
+B R R B 
+B B P P 
+X B W B 
+W W W B 
+
+B R R B 
+B R R B 
+X B P P 
+W B W B 
+X W W B 
+
+B R R B 
+B R R B 
+P P W B 
+B X X B 
+B W W W 
+
+X R R X 
+B R R B 
+B P P B 
+B W W B 
+B W W B 
+
+X R R B 
+B R R B 
+B X P P 
+B W W B 
+B W W B 
+
+B R R B 
+B R R B 
+P P W B 
+B W W B 
+B X X W 
+
+B R R B 
+B R R B 
+P P W B 
+B X W B 
+B W W X 
+
+B R R B 
+B R R B 
+P P W B 
+B X W B 
+B X W W 
+
+B R R B 
+B R R B 
+P P W B 
+B W W B 
+B W X X 
+
+B R R B 
+B R R B 
+P P W X 
+B W X B 
+B W W B 
+
+B R R X 
+B R R B 
+P P X B 
+B W W B 
+B W W B 
+
+B R R B 
+B R R B 
+X W P P 
+B X W B 
+B W W B 
+
+B R R B 
+B R R B 
+B W P P 
+B W W B 
+X X W B 
+
+B R R B 
+B R R B 
+B W P P 
+B W X B 
+X W W B 
+
+B R R B 
+B R R B 
+B W P P 
+B W W B 
+W X X B 
+
+B R R B 
+B R R B 
+B W P P 
+B W X B 
+W W X B 
+
+X R R B 
+B R R B 
+B B P P 
+W B W B 
+X W W B 
+
+X R R B 
+X R R B 
+B B P P 
+B B W B 
+W W W B 
+
+B R R B 
+B R R B 
+W B P P 
+X B W B 
+X W W B 
+
+B R R B 
+B R R B 
+X B P P 
+W B W B 
+W X W B 
+
+X R R B 
+B R R B 
+B W P P 
+B X W B 
+B W W B 
+
+B R R B 
+B R R B 
+P P W B 
+B W W B 
+B X W X 
+
+B R R B 
+B R R B 
+P P W X 
+B X W B 
+B W W B 
+
+B R R B 
+B R R B 
+P P W B 
+X B W B 
+X B W W 
+
+B R R B 
+B R R B 
+P P W X 
+B W W B 
+B W X B 
+
+B R R X 
+B R R B 
+P P W B 
+B W X B 
+B W W B 
+
+B R R B 
+B R R B 
+P P X W 
+B W X B 
+B W W B 
+
+B R R B 
+B R R B 
+W X P P 
+B X W B 
+B W W B 
+
+B R R B 
+B R R B 
+X W P P 
+B W W B 
+B X W B 
+
+B R R B 
+B R R B 
+X W P P 
+B W X B 
+B W W B 
+
+B R R B 
+B R R B 
+B W P P 
+B W W B 
+X W X B 
+
+X R R B 
+B R R B 
+B B P P 
+W B W B 
+W X W B 
+
+R R X B 
+R R X B 
+B B P P 
+B B W B 
+W W W B 
+
+B R R B 
+B R R B 
+W B P P 
+X B W B 
+W X W B 
+
+B R R B 
+B R R B 
+X X P P 
+W B W B 
+W B W B 
+
+B R R B 
+B R R B 
+X B P P 
+W B W B 
+W W X B 
+
+X R R B 
+B R R B 
+B W P P 
+B W W B 
+B X W B 
+
+X R R B 
+B R R B 
+B W P P 
+B W X B 
+B W W B 
+
+B R R B 
+B R R B 
+P P W X 
+B W W B 
+B X W B 
+
+B R R X 
+B R R B 
+P P W B 
+B X W B 
+B W W B 
+
+B R R B 
+B R R B 
+P P X W 
+B X W B 
+B W W B 
+
+B R R X 
+B R R B 
+P P W B 
+B W W B 
+B W X B 
+
+B R R B 
+B R R B 
+P P X W 
+B W W B 
+B W X B 
+
+B R R B 
+B R R B 
+X P P W 
+B W X B 
+B W W B 
+
+B R R B 
+B R R B 
+W P P X 
+B X W B 
+B W W B 
+
+B R R B 
+B R R B 
+W X P P 
+B W W B 
+B X W B 
+
+B R R B 
+B R R B 
+W X P P 
+B W X B 
+B W W B 
+
+B R R B 
+B R R B 
+X W P P 
+B W W B 
+B W X B 
+
+X R R B 
+B R R B 
+B X P P 
+W B W B 
+W B W B 
+
+X R R B 
+B R R B 
+B B P P 
+W B W B 
+W W X B 
+
+B R R B 
+B R R B 
+W B P P 
+W B W B 
+X X W B 
+
+B R R B 
+B R R B 
+W X P P 
+X B W B 
+W B W B 
+
+B R R B 
+B R R B 
+W B P P 
+X B W B 
+W W X B 
+
+B R R B 
+B R R B 
+X P P X 
+W B W B 
+W B W B 
+
+B R R B 
+B R R B 
+X B P P 
+W B X B 
+W W W B 
+
+X R R B 
+B R R B 
+B W P P 
+B W W B 
+B W X B 
+
+B R R X 
+B R R B 
+P P W B 
+B W W B 
+B X W B 
+
+B R R B 
+B R R B 
+P P X W 
+B W W B 
+B X W B 
+
+B R R B 
+B R R B 
+P P W W 
+B X X B 
+B W W B 
+
+B R R B 
+B R R B 
+X P P W 
+B X W B 
+B W W B 
+
+B R R B 
+B R R B 
+P P W W 
+B W X B 
+B W X B 
+
+B R R B 
+B R R B 
+X P P W 
+B W W B 
+B W X B 
+
+B R R B 
+B R R B 
+B P P W 
+B W X B 
+X W W B 
+
+X R R B 
+B R R B 
+B P P W 
+B W X B 
+B W W B 
+
+B R R B 
+B R R B 
+W P P B 
+B X W B 
+B W W X 
+
+B R R X 
+B R R B 
+W P P B 
+B X W B 
+B W W B 
+
+B R R B 
+B R R B 
+W P P X 
+B W W B 
+B X W B 
+
+B R R B 
+B R R B 
+W P P X 
+B W X B 
+B W W B 
+
+B R R B 
+B R R B 
+W W P P 
+B X W B 
+B X W B 
+
+B R R B 
+B R R B 
+W X P P 
+B W W B 
+B W X B 
+
+B R R B 
+B R R B 
+W W P P 
+B X X B 
+B W W B 
+
+X R R B 
+B R R B 
+B P P X 
+W B W B 
+W B W B 
+
+X R R B 
+B R R B 
+B B P P 
+W B X B 
+W W W B 
+
+B R R B 
+B R R B 
+W X P P 
+W B W B 
+X B W B 
+
+B R R B 
+B R R B 
+W B P P 
+W B W B 
+X W X B 
+
+B R R B 
+B R R B 
+W P P X 
+X B W B 
+W B W B 
+
+B R R B 
+B R R B 
+X W P P 
+X B W B 
+W B W B 
+
+B R R B 
+B R R B 
+W B P P 
+X B X B 
+W W W B 
+
+B R R B 
+B R R B 
+P P X X 
+W B W B 
+W B W B 
+
+B R R B 
+B R R B 
+X P P B 
+W B W B 
+W B W X 
+
+B R R X 
+B R R B 
+X P P B 
+W B W B 
+W B W B 
+
+B R R B 
+B R R B 
+P P W W 
+B W X B 
+B X W B 
+
+B R R B 
+B R R B 
+X P P W 
+B W W B 
+B X W B 
+
+B R R B 
+B R R B 
+P P W W 
+B X W B 
+B W X B 
+
+B R R B 
+B R R B 
+B P P W 
+B X W B 
+X W W B 
+
+X R R B 
+B R R B 
+B P P W 
+B X W B 
+B W W B 
+
+B R R B 
+B R R B 
+B P P W 
+B W W B 
+X W X B 
+
+X R R B 
+B R R B 
+B P P W 
+B W W B 
+B W X B 
+
+B R R B 
+B R R B 
+B P P W 
+B W X B 
+W X W B 
+
+B R R B 
+B R R B 
+W P P B 
+B W W B 
+B X W X 
+
+B R R B 
+B R R B 
+W P P B 
+B W X B 
+B W W X 
+
+B R R B 
+B R R B 
+W P P B 
+B X W B 
+B W X W 
+
+B R R X 
+B R R B 
+W P P B 
+B W W B 
+B X W B 
+
+B R R X 
+B R R B 
+W P P B 
+B W X B 
+B W W B 
+
+B R R B 
+B R R B 
+W P P X 
+B W W B 
+B W X B 
+
+B R R B 
+B R R B 
+W W P P 
+B W X B 
+B X W B 
+
+B R R B 
+B R R B 
+W W P P 
+X B W B 
+X B W B 
+
+B R R B 
+B R R B 
+W W P P 
+B X W B 
+B W X B 
+
+X R R B 
+B R R B 
+B P P B 
+W B W B 
+W B W X 
+
+X R R X 
+B R R B 
+B P P B 
+W B W B 
+W B W B 
+
+B R R B 
+B R R B 
+W P P X 
+W B W B 
+X B W B 
+
+B R R B 
+B R R B 
+X W P P 
+W B W B 
+X B W B 
+
+B R R B 
+B R R B 
+W B P P 
+W B W B 
+W X X B 
+
+B R R B 
+B R R B 
+W B P P 
+W B X B 
+X W W B 
+
+B R R B 
+B R R B 
+W P P B 
+X B W B 
+W B W X 
+
+B R R X 
+B R R B 
+W P P B 
+X B W B 
+W B W B 
+
+X R R B 
+B R R B 
+B W P P 
+X B W B 
+W B W B 
+
+B R R B 
+B R R B 
+P P W X 
+W B X B 
+W B W B 
+
+B R R B 
+B R R B 
+P P X B 
+W B W B 
+W B W X 
+
+B R R X 
+B R R B 
+P P X B 
+W B W B 
+W B W B 
+
+B R R B 
+B R R B 
+X P P B 
+W B W B 
+W B X W 
+
+B R R B 
+B R R B 
+P P W W 
+B W W B 
+B X X B 
+
+B R R B 
+B R R B 
+P P W W 
+B X W B 
+B X W B 
+
+B R R B 
+B R R B 
+B P P W 
+B W W B 
+X X W B 
+
+X R R B 
+B R R B 
+B P P W 
+B W W B 
+B X W B 
+
+B R R B 
+B R R B 
+B P P W 
+B X W B 
+W X W B 
+
+B R R B 
+B R R B 
+B P P W 
+B W W B 
+W X X B 
+
+B R R B 
+B R R B 
+B P P W 
+B X X B 
+W W W B 
+
+B R R B 
+B R R B 
+B P P W 
+B W X B 
+W W X B 
+
+B R R B 
+B R R B 
+W P P B 
+B W W B 
+B W X X 
+
+B R R B 
+B R R B 
+W P P B 
+B W W B 
+B X X W 
+
+B R R B 
+B R R B 
+W P P B 
+B W X B 
+B W X W 
+
+B R R B 
+B R R B 
+W P P B 
+B X X B 
+B W W W 
+
+B R R B 
+B R R B 
+W P P B 
+B X W B 
+B X W W 
+
+B R R X 
+B R R B 
+W P P B 
+B W W B 
+B W X B 
+
+B R R B 
+B R R B 
+W W P P 
+B W W B 
+B X X B 
+
+B R R B 
+B R R B 
+W W P P 
+B W X B 
+B W X B 
+
+X R R B 
+B R R B 
+B P P B 
+W B W B 
+W B X W 
+
+B R R B 
+B R R B 
+W P P B 
+W B W B 
+X B W X 
+
+B R R X 
+B R R B 
+W P P B 
+W B W B 
+X B W B 
+
+X R R B 
+B R R B 
+B W P P 
+W B W B 
+X B W B 
+
+B R R B 
+B R R B 
+W X P P 
+W B W B 
+W B X B 
+
+B R R B 
+B R R B 
+W B P P 
+W B X B 
+W X W B 
+
+B R R B 
+B R R B 
+W P P B 
+X B W B 
+W B X W 
+
+X R R B 
+X R R B 
+B W P P 
+B B W B 
+W B W B 
+
+B R R B 
+B R R B 
+P P W B 
+W B X B 
+W B W X 
+
+B R R X 
+B R R B 
+P P W B 
+W B X B 
+W B W B 
+
+B R R B 
+B R R B 
+P P X W 
+W B X B 
+W B W B 
+
+B R R B 
+B R R B 
+P P W X 
+W B W B 
+W B X B 
+
+B R R B 
+B R R B 
+P P X B 
+W B W B 
+W B X W 
+
+B R R B 
+B R R B 
+X P P B 
+W B X B 
+W B W W 
+
+B R R B 
+B R R B 
+P P W W 
+X B W B 
+X B W B 
+
+B R R B 
+B R R B 
+B P P W 
+B X W B 
+W W X B 
+
+B R R B 
+B R R B 
+B X X W 
+B P P B 
+W W W B 
+
+B R R B 
+B R R B 
+W P P B 
+B W X B 
+B X W W 
+
+B R R B 
+B R R B 
+W X X B 
+B P P B 
+B W W W 
+
+B R R B 
+B R R B 
+W P P B 
+X B W B 
+X B W W 
+
+X R R B 
+B R R B 
+B P P B 
+W B X B 
+W B W W 
+
+B R R B 
+B R R B 
+W P P B 
+W B W B 
+X B X W 
+
+B R R B 
+B R R B 
+W P P X 
+W B W B 
+W B X B 
+
+B R R B 
+B R R B 
+X W P P 
+W B W B 
+W B X B 
+
+B R R B 
+B R R B 
+W X P P 
+W B X B 
+W B W B 
+
+B R R B 
+B R R B 
+W B P P 
+W B X B 
+W W X B 
+
+B R R B 
+B R R B 
+W P P B 
+X B X B 
+W B W W 
+
+R R X B 
+R R X B 
+B W P P 
+B B W B 
+W B W B 
+
+B R R B 
+B R R B 
+P P W B 
+W B W B 
+W B X X 
+
+B R R B 
+B R R B 
+P P W B 
+W B X B 
+W B X W 
+
+B R R X 
+B R R B 
+P P W B 
+W B W B 
+W B X B 
+
+B R R B 
+B R R B 
+X P P W 
+W B X B 
+W B W B 
+
+B R R B 
+B R R B 
+P P X W 
+W B W B 
+W B X B 
+
+B R R B 
+B R R B 
+P P X B 
+W B X B 
+W B W W 
+
+B X X B 
+B R R B 
+B R R W 
+B P P B 
+W W W B 
+
+B R R B 
+B R R B 
+B X W X 
+B P P B 
+W W W B 
+
+B X X B 
+B R R B 
+W R R B 
+B P P B 
+B W W W 
+
+B R R B 
+B R R B 
+X W X B 
+B P P B 
+B W W W 
+
+B R R B 
+B R R B 
+X P P B 
+W B W B 
+X B W W 
+
+B R R B 
+B R R B 
+W P P B 
+W B X B 
+X B W W 
+
+B R R B 
+B R R B 
+W P P B 
+W B W B 
+W B X X 
+
+B R R X 
+B R R B 
+W P P B 
+W B W B 
+W B X B 
+
+B R R B 
+B R R B 
+W P P X 
+W B X B 
+W B W B 
+
+B R R B 
+B R R B 
+W W P P 
+X B W B 
+W B X B 
+
+X R R B 
+B R R B 
+B W P P 
+W B W B 
+W B X B 
+
+B R R B 
+B R R B 
+X W P P 
+W B X B 
+W B W B 
+
+B R R B 
+B R R B 
+P P W B 
+W X B B 
+W X B W 
+
+B R R B 
+B R R B 
+W P P W 
+X B X B 
+W B W B 
+
+X R R B 
+B R R B 
+B P P W 
+W B X B 
+W B W B 
+
+B R R B 
+B R R B 
+X P P W 
+W B W B 
+W B X B 
+
+B R R B 
+B R R B 
+P P W W 
+W B X B 
+W B X B 
+
+B R R B 
+B R R B 
+B R R W 
+B P P B 
+W W W B 
+
+B R R B 
+B R R B 
+B W X X 
+B P P B 
+W W W B 
+
+B R R B 
+B R R B 
+B X W B 
+B P P B 
+W W W X 
+
+B R R X 
+B R R B 
+B X W B 
+B P P B 
+W W W B 
+
+B R R B 
+B R R B 
+W R R B 
+B P P B 
+B W W W 
+
+B R R B 
+B R R B 
+B W X B 
+B P P B 
+X W W W 
+
+X R R B 
+B R R B 
+B W X B 
+B P P B 
+B W W W 
+
+B R R B 
+B R R B 
+X X W B 
+B P P B 
+B W W W 
+
+X R R B 
+B R R B 
+B P P B 
+W B W B 
+X B W W 
+
+B R R B 
+B R R B 
+P P X B 
+W B W B 
+X B W W 
+
+B R R B 
+B R R B 
+X P P B 
+X B W B 
+W B W W 
+
+B R R B 
+B R R B 
+W P P B 
+W B X B 
+W B W X 
+
+B R R X 
+B R R B 
+W P P B 
+W B X B 
+W B W B 
+
+B R R B 
+B R R B 
+W W P P 
+W B W B 
+X B X B 
+
+B R R B 
+B R R B 
+W W P P 
+X B X B 
+W B W B 
+
+X R R B 
+B R R B 
+B W P P 
+W B X B 
+W B W B 
+
+B R R B 
+B R R B 
+P P W B 
+X W B B 
+W X B W 
+
+B R R B 
+B R R B 
+P P W B 
+W X B B 
+X W B W 
+
+B R R B 
+B R R B 
+W P P W 
+W B X B 
+X B W B 
+
+B R R B 
+B R R B 
+W P P W 
+X B W B 
+W B X B 
+
+X R R B 
+B R R B 
+B P P W 
+W B W B 
+W B X B 
+
+B R R B 
+B R R B 
+P P W W 
+W X B B 
+W X B B 
+
+B R R B 
+B R R B 
+B W X B 
+B P P B 
+W W W X 
+
+B R R X 
+B R R B 
+B W X B 
+B P P B 
+W W W B 
+
+B R R B 
+B R R B 
+B X W B 
+B P P B 
+W W X W 
+
+B R R B 
+B R R B 
+B X W B 
+B P P B 
+X W W W 
+
+B R R B 
+B R R B 
+B W X B 
+B P P B 
+W X W W 
+
+X R R B 
+B R R B 
+B X W B 
+B P P B 
+B W W W 
+
+X R R B 
+B R R B 
+B P P B 
+X B W B 
+W B W W 
+
+B R R B 
+B R R B 
+P P W B 
+W B X B 
+X B W W 
+
+B R R B 
+B R R B 
+P P X B 
+X B W B 
+W B W W 
+
+B R R B 
+B R R B 
+W P P B 
+W B X B 
+W B X W 
+
+B R R B 
+B R R B 
+W W P P 
+W B X B 
+X B W B 
+
+B R R B 
+B R R B 
+P P W B 
+W W B B 
+X X B W 
+
+B R R B 
+B R R B 
+P P W B 
+X X B B 
+W W B W 
+
+B R R B 
+B R R B 
+P P W B 
+X W B B 
+X W B W 
+
+B R R B 
+B R R B 
+W P P W 
+W B W B 
+X B X B 
+
+B R R B 
+B R R B 
+P P W W 
+X W B B 
+W X B B 
+
+B R R B 
+B R R B 
+P P W W 
+W X B B 
+X W B B 
+
+B R R B 
+B R R B 
+B W X B 
+B P P B 
+W W X W 
+
+B R R B 
+B R R B 
+B X W B 
+B P P B 
+W X W W 
+
+X R R B 
+X R R B 
+B P P B 
+B B W B 
+W B W W 
+
+B R R B 
+B R R B 
+P P W B 
+W B W B 
+X B X W 
+
+B R R B 
+B R R B 
+P P W B 
+X B X B 
+W B W W 
+
+B R R B 
+B R R B 
+W P P B 
+W X B B 
+W X B W 
+
+B R R B 
+B R R B 
+X X W B 
+P P B B 
+W W B W 
+
+B R R B 
+B R R B 
+P P W W 
+W W B B 
+X X B B 
+
+B R R B 
+B R R B 
+P P W W 
+X X B B 
+W W B B 
+
+B R R B 
+B R R B 
+P P W W 
+X W B B 
+X W B B 
+
+R R X B 
+R R X B 
+B P P B 
+B B W B 
+W B W W 
+
+B R R B 
+B R R B 
+P P W B 
+X B W B 
+W B X W 
+
+B R R B 
+B R R B 
+P P W B 
+W B W B 
+X B W X 
+
+B R R B 
+B R R B 
+W P P B 
+X W B B 
+W X B W 
+
+B R R B 
+B R R B 
+W P P B 
+W X B B 
+X W B W 
+
+X R R B 
+B R R B 
+B X W B 
+P P B B 
+W W B W 
+
+B R R B 
+B R R B 
+X W X B 
+P P B B 
+W W B W 
+
+B R R B 
+B R R B 
+X X W W 
+P P B B 
+W W B B 
+
+B R R B 
+B R R B 
+P P W B 
+X B W B 
+W B W X 
+
+B R R B 
+B R R B 
+P P W X 
+W B W B 
+X B W B 
+
+B R R B 
+B R R B 
+W P P B 
+W W B B 
+X X B W 
+
+B R R B 
+B R R B 
+X P P B 
+W W B B 
+W X B W 
+
+B R R B 
+B R R B 
+W P P B 
+X X B B 
+W W B W 
+
+B R R B 
+B R R B 
+W P P B 
+X W B B 
+X W B W 
+
+X R R B 
+B R R B 
+B W X B 
+P P B B 
+W W B W 
+
+B R R B 
+B R R B 
+W X X B 
+P P B B 
+W W B W 
+
+B R R B 
+B R R B 
+X W B B 
+P P B B 
+W W X W 
+
+X R R B 
+B R R B 
+B X W W 
+P P B B 
+W W B B 
+
+B R R B 
+B R R B 
+X W X W 
+P P B B 
+W W B B 
+
+B R R B 
+B R R B 
+P P W X 
+X B W B 
+W B W B 
+
+B R R X 
+B R R B 
+P P W B 
+W B W B 
+X B W B 
+
+B R R B 
+B R R B 
+P P X W 
+W B W B 
+X B W B 
+
+X R R B 
+B R R B 
+B P P B 
+W W B B 
+W X B W 
+
+B R R B 
+B R R B 
+P P X B 
+W W B B 
+W X B W 
+
+B R R B 
+B R R B 
+X P P B 
+W X B B 
+W W B W 
+
+B R R B 
+B R R B 
+X P P B 
+W W B B 
+X W B W 
+
+X R R B 
+B R R B 
+B W B B 
+P P B B 
+W W X W 
+
+B X X B 
+B R R B 
+W R R B 
+P P B B 
+W W B W 
+
+B R R B 
+B R R B 
+W X B B 
+P P B B 
+W W X W 
+
+B R R B 
+B R R B 
+X W B B 
+P P B B 
+W W W X 
+
+B R R B 
+B R R B 
+X W B B 
+P P B B 
+W X W W 
+
+X R R B 
+B R R B 
+B W X W 
+P P B B 
+W W B B 
+
+B R R B 
+B R R B 
+W X X W 
+P P B B 
+W W B B 
+
+B R R B 
+B R R B 
+X W B W 
+P P B B 
+W W X B 
+
+B R R B 
+B R R B 
+X W W X 
+P P B B 
+W W B B 
+
+B R R X 
+B R R B 
+P P W B 
+X B W B 
+W B W B 
+
+B R R B 
+B R R B 
+P P X W 
+X B W B 
+W B W B 
+
+B R R B 
+B R R B 
+P P W W 
+W B X B 
+X B W B 
+
+B R R B 
+B R R B 
+X P P W 
+W B W B 
+X B W B 
+
+X R R B 
+B R R B 
+B P P B 
+W X B B 
+W W B W 
+
+X R R B 
+B R R B 
+B P P B 
+W W B B 
+X W B W 
+
+B R R B 
+B R R B 
+P P B B 
+W W B B 
+W X X W 
+
+B R R B 
+B R R B 
+P P X B 
+W X B B 
+W W B W 
+
+B R R B 
+B R R B 
+P P X B 
+W W B B 
+X W B W 
+
+B R R B 
+B R R B 
+X P P B 
+X W B B 
+W W B W 
+
+X R R B 
+B R R B 
+B W B B 
+P P B B 
+W W W X 
+
+X R R B 
+B R R B 
+B W B B 
+P P B B 
+W X W W 
+
+B R R B 
+B R R B 
+W R R B 
+P P B B 
+W W B W 
+
+B R R B 
+B R R B 
+W X B B 
+P P B B 
+W W W X 
+
+B R R B 
+B R R B 
+W X B B 
+P P B B 
+W X W W 
+
+B R R B 
+B R R B 
+X W B X 
+P P B B 
+W W W B 
+
+B R R B 
+B R R B 
+X W B B 
+P P B B 
+X W W W 
+
+X R R B 
+B R R B 
+B W B W 
+P P B B 
+W W X B 
+
+X R R B 
+B R R B 
+B W W X 
+P P B B 
+W W B B 
+
+B X X B 
+B R R B 
+W R R W 
+P P B B 
+W W B B 
+
+B R R B 
+B R R B 
+W X B W 
+P P B B 
+W W X B 
+
+B R R B 
+B R R B 
+W X W X 
+P P B B 
+W W B B 
+
+B R R B 
+B R R B 
+X W B W 
+P P B B 
+W X W B 
+
+B R R B 
+B R R B 
+X W W B 
+P P B B 
+W W B X 
+
+B R R X 
+B R R B 
+X W W B 
+P P B B 
+W W B B 
+
+B R R B 
+B R R B 
+P P W W 
+X B X B 
+W B W B 
+
+B R R B 
+B R R B 
+X P P W 
+X B W B 
+W B W B 
+
+B R R B 
+B R R B 
+P P W W 
+W B W B 
+X B X B 
+
+B R R B 
+B R R B 
+W P P W 
+X B W B 
+X B W B 
+
+X R R B 
+B R R B 
+B P P W 
+W B W B 
+X B W B 
+
+X R R B 
+B R R B 
+B P P B 
+X W B B 
+W W B W 
+
+B R R B 
+B R R B 
+P P B B 
+W X B B 
+W W X W 
+
+B R R B 
+B R R B 
+P P B B 
+W W B B 
+X W X W 
+
+B R R B 
+B R R B 
+P P B B 
+W W B B 
+W X W X 
+
+B R R B 
+B R R B 
+P P X B 
+X W B B 
+W W B W 
+
+X R R B 
+B R R B 
+B W B X 
+P P B B 
+W W W B 
+
+X R R B 
+B R R B 
+B W B B 
+P P B B 
+X W W W 
+
+B R R B 
+B R R B 
+W X B X 
+P P B B 
+W W W B 
+
+B R R B 
+B R R B 
+W X B B 
+P P B B 
+X W W W 
+
+B R R X 
+B R R B 
+X W B B 
+P P B B 
+W W W B 
+
+X R R B 
+B R R B 
+B W B W 
+P P B B 
+W X W B 
+
+X R R B 
+B R R B 
+B W W B 
+P P B B 
+W W B X 
+
+X R R X 
+B R R B 
+B W W B 
+P P B B 
+W W B B 
+
+B R R B 
+B R R B 
+W R R W 
+P P B B 
+W W B B 
+
+B R R B 
+B R R B 
+W X B W 
+P P B B 
+W X W B 
+
+B R R B 
+B R R B 
+W W X X 
+P P B B 
+W W B B 
+
+B R R B 
+B R R B 
+W X W B 
+P P B B 
+W W B X 
+
+B R R X 
+B R R B 
+W X W B 
+P P B B 
+W W B B 
+
+B R R B 
+B R R B 
+X W B W 
+P P B B 
+X W W B 
+
+B R R B 
+B R R B 
+P P W W 
+X B W B 
+W B X B 
+
+X R R B 
+B R R B 
+B P P W 
+X B W B 
+W B W B 
+
+X R R B 
+X R R B 
+B P P B 
+B W B B 
+W W B W 
+
+B R R B 
+B R R B 
+P P B B 
+X W B B 
+W W X W 
+
+B R R B 
+B R R B 
+P P B B 
+W X B B 
+W W W X 
+
+B R R B 
+B R R B 
+P P B B 
+W X B B 
+W X W W 
+
+B R R B 
+B R R B 
+P P B B 
+W W B B 
+X W W X 
+
+B R R B 
+B R R B 
+P P B B 
+W W B B 
+X X W W 
+
+B R R B 
+B R R B 
+P P B B 
+W W B B 
+W W X X 
+
+B R R B 
+B R R B 
+P P B X 
+W W B B 
+W X W B 
+
+X R R X 
+B R R B 
+B W B B 
+P P B B 
+W W W B 
+
+B R R X 
+B R R B 
+W X B B 
+P P B B 
+W W W B 
+
+X R R B 
+B R R B 
+B W B W 
+P P B B 
+X W W B 
+
+B R R B 
+B R R B 
+W X B W 
+P P B B 
+X W W B 
+
+B R R B 
+B R R B 
+W W B X 
+P P B B 
+W W X B 
+
+B R R B 
+B R R B 
+W W X B 
+P P B B 
+W W B X 
+
+B R R X 
+B R R B 
+W W X B 
+P P B B 
+W W B B 
+
+X R R B 
+X R R B 
+B P P W 
+B B W B 
+W B W B 
+
+R R X B 
+R R X B 
+B P P B 
+B W B B 
+W W B W 
+
+B R R B 
+B R R B 
+P P B B 
+X W B B 
+W W W X 
+
+B R R B 
+B R R B 
+P P B B 
+X W B B 
+W X W W 
+
+B R R B 
+B R R B 
+P P B X 
+W X B B 
+W W W B 
+
+B R R B 
+B R R B 
+P P B B 
+W X B B 
+X W W W 
+
+B R R B 
+B R R B 
+P P B X 
+W W B B 
+X W W B 
+
+B R R B 
+B R R B 
+P P X B 
+W W B B 
+W W B X 
+
+B R R B 
+B R R B 
+P P B X 
+W W B B 
+W W X B 
+
+B R R X 
+B R R B 
+P P B B 
+W W B B 
+W X W B 
+
+B R R B 
+B R R B 
+W W B B 
+P P B B 
+W W X X 
+
+B R R X 
+B R R B 
+W W B B 
+P P B B 
+W W X B 
+
+B R R B 
+B R R B 
+W W B X 
+P P B B 
+W X W B 
+
+R R X B 
+R R X B 
+B P P W 
+B B W B 
+W B W B 
+
+B R R B 
+B R R B 
+P P B X 
+X W B B 
+W W W B 
+
+B R R B 
+B R R B 
+P P B B 
+X X B B 
+W W W W 
+
+B R R B 
+B R R B 
+P P B B 
+X W B B 
+X W W W 
+
+B R R X 
+B R R B 
+P P B B 
+W X B B 
+W W W B 
+
+B R R X 
+B R R B 
+P P B B 
+W W B B 
+X W W B 
+
+B R R B 
+B R R B 
+X P P B 
+W W B B 
+W W B X 
+
+B R R B 
+B R R B 
+P P X X 
+W W B B 
+W W B B 
+
+B R R X 
+B R R B 
+P P B B 
+W W B B 
+W W X B 
+
+B R R B 
+B R R B 
+W W B B 
+P P B B 
+W X W X 
+
+B R R X 
+B R R B 
+W W B B 
+P P B B 
+W X W B 
+
+B R R B 
+B R R B 
+W W B X 
+P P B B 
+X W W B 
+
+B R R X 
+B R R B 
+P P B B 
+X W B B 
+W W W B 
+
+B R R B 
+B R R B 
+X X B B 
+P P B B 
+W W W W 
+
+B R R B 
+B R R B 
+W P P B 
+X W B B 
+W W B X 
+
+X R R B 
+B R R B 
+B P P B 
+W W B B 
+W W B X 
+
+B R R B 
+B R R B 
+X P P X 
+W W B B 
+W W B B 
+
+B R R X 
+B R R B 
+P P X B 
+W W B B 
+W W B B 
+
+B R R B 
+B R R B 
+W W B B 
+P P B B 
+X W W X 
+
+B R R B 
+B R R B 
+W W B B 
+P P B B 
+W X X W 
+
+B R R X 
+B R R B 
+W W B B 
+P P B B 
+X W W B 
+
+X R R B 
+B R R B 
+B X B B 
+P P B B 
+W W W W 
+
+B R R B 
+B R R B 
+W P P B 
+W W B B 
+X W B X 
+
+B R R B 
+B R R B 
+W P P B 
+W X B B 
+W W B X 
+
+B R R B 
+B R R B 
+W P P X 
+X W B B 
+W W B B 
+
+X R R B 
+B R R B 
+B P P X 
+W W B B 
+W W B B 
+
+B R R X 
+B R R B 
+X P P B 
+W W B B 
+W W B B 
+
+B R R B 
+B R R B 
+X X P P 
+W W B B 
+W W B B 
+
+B R R B 
+B R R B 
+W W B B 
+P P B B 
+X W X W 
+
+B R R B 
+B R R B 
+W W X B 
+P P B B 
+W X B W 
+
+B R R B 
+B R R B 
+W P P B 
+W W B B 
+W X B X 
+
+B R R B 
+B R R B 
+W P P X 
+W W B B 
+X W B B 
+
+B R R B 
+B R R B 
+W P P X 
+W X B B 
+W W B B 
+
+B R R X 
+B R R B 
+W P P B 
+X W B B 
+W W B B 
+
+B R R B 
+B R R B 
+W X P P 
+X W B B 
+W W B B 
+
+X R R X 
+B R R B 
+B P P B 
+W W B B 
+W W B B 
+
+X R R B 
+B R R B 
+B X P P 
+W W B B 
+W W B B 
+
+B R R B 
+B R R B 
+X W P P 
+W X B B 
+W W B B 
+
+B R R B 
+B R R B 
+W W X B 
+P P B B 
+X W B W 
+
+B R R B 
+B R R B 
+W W B B 
+P P B B 
+X X W W 
+
+B R R B 
+B R R B 
+W X W B 
+P P B B 
+W X B W 
+
+B R R B 
+B R R B 
+W P P X 
+W W B B 
+W X B B 
+
+B R R X 
+B R R B 
+W P P B 
+W W B B 
+X W B B 
+
+B R R B 
+B R R B 
+W X P P 
+W W B B 
+X W B B 
+
+B R R X 
+B R R B 
+W P P B 
+W X B B 
+W W B B 
+
+B R R B 
+B R R B 
+W X P P 
+W X B B 
+W W B B 
+
+B R R B 
+B R R B 
+W W P P 
+X X B B 
+W W B B 
+
+B R R B 
+B R R B 
+X W P P 
+X W B B 
+W W B B 
+
+X R R B 
+B R R B 
+B W P P 
+W X B B 
+W W B B 
+
+B R R B 
+B R R B 
+X W P P 
+W W B B 
+W X B B 
+
+B R R B 
+B R R B 
+W X W B 
+P P B B 
+X W B W 
+
+B R R B 
+B R R B 
+W W B B 
+X X B B 
+P P W W 
+
+B R R B 
+B R R B 
+X W W B 
+P P B B 
+W X B W 
+
+B R R X 
+B R R B 
+W P P B 
+W W B B 
+W X B B 
+
+B R R B 
+B R R B 
+W X P P 
+W W B B 
+W X B B 
+
+B R R B 
+B R R B 
+W W P P 
+W X B B 
+X W B B 
+
+B R R B 
+B R R B 
+X W P P 
+W W B B 
+X W B B 
+
+B R R B 
+B R R B 
+W W P P 
+X W B B 
+W X B B 
+
+X R R B 
+B R R B 
+B W P P 
+X W B B 
+W W B B 
+
+X R R B 
+B R R B 
+B W P P 
+W W B B 
+W X B B 
+
+B R R B 
+B R R B 
+X W W B 
+P P B B 
+X W B W 
+
+B R R B 
+B R R B 
+X W B B 
+W X B B 
+P P W W 
+
+B R R B 
+B R R B 
+W X B B 
+X W B B 
+P P W W 
+
+X R R B 
+B R R B 
+B W W B 
+P P B B 
+W X B W 
+
+B R R B 
+B R R B 
+W W P P 
+W X B B 
+W X B B 
+
+B R R B 
+B R R B 
+W W P P 
+W W B B 
+X X B B 
+
+B R R B 
+B R R B 
+W W P P 
+X W B B 
+X W B B 
+
+X R R B 
+B R R B 
+B W P P 
+W W B B 
+X W B B 
+
+X R R B 
+X R R B 
+B W P P 
+B W B B 
+W W B B 
+
+X R R B 
+B R R B 
+B W W B 
+P P B B 
+X W B W 
+
+X R R B 
+B R R B 
+B W B B 
+W X B B 
+P P W W 
+
+B R R B 
+B R R B 
+W X B B 
+W X B B 
+P P W W 
+
+B R R B 
+B R R B 
+X X B B 
+W W B B 
+P P W W 
+
+B R R B 
+B R R B 
+X W B B 
+X W B B 
+P P W W 
+
+R R X B 
+R R X B 
+B W P P 
+B W B B 
+W W B B 
+
+X R R B 
+B R R B 
+B X B B 
+W W B B 
+P P W W 
+
+X R R B 
+B R R B 
+B W B B 
+X W B B 
+P P W W 
+
+X R R B 
+X R R B 
+B W B B 
+B W B B 
+P P W W 
+
+R R X B 
+R R X B 
+B W B B 
+B W B B 
+P P W W 
+
+R R X B 
+R R B B 
+B W B B 
+B W X B 
+P P W W 
+
+R R B B 
+R R B B 
+B W X B 
+B W X B 
+P P W W 
+
+R R X B 
+R R B B 
+B W B B 
+B W W B 
+P P X W 
+
+R R X B 
+R R B B 
+B W B B 
+B X W B 
+P P W W 
+
+R R B B 
+R R B B 
+B X W B 
+B W X B 
+P P W W 
+
+R R B B 
+R R B B 
+B W X B 
+B W W B 
+P P X W 
+
+R R B B 
+R R B B 
+B W X B 
+B X W B 
+P P W W 
+
+R R X B 
+R R B B 
+B W B B 
+B W W B 
+P P W X 
+
+R R X B 
+R R B B 
+B W B B 
+B W W B 
+X P P W 
+
+R R X B 
+R R B B 
+B X B B 
+B W W B 
+P P W W 
+
+R R B B 
+R R B B 
+B W W B 
+B X X B 
+P P W W 
+
+R R B B 
+R R B B 
+B X W B 
+B W W B 
+P P X W 
+
+R R B B 
+R R B B 
+B X X B 
+B W W B 
+P P W W 
+
+R R B B 
+R R B B 
+B X W B 
+B X W B 
+P P W W 
+
+R R B B 
+R R B B 
+B W W B 
+B W X B 
+P P X W 
+
+R R B B 
+R R B B 
+B W X B 
+B W W B 
+P P W X 
+
+R R B B 
+R R B B 
+B W X B 
+B W W B 
+X P P W 
+
+R R X B 
+R R B B 
+B W B X 
+B W W B 
+P P W B 
+
+R R X B 
+R R B B 
+X W B B 
+B W W B 
+B P P W 
+
+R R B B 
+R R B B 
+B W W B 
+B X W B 
+P P X W 
+
+R R B B 
+R R B B 
+B X W B 
+B W W B 
+P P W X 
+
+R R B B 
+R R B B 
+B X W B 
+B W W B 
+X P P W 
+
+R R B B 
+R R B B 
+X B W B 
+X B W B 
+P P W W 
+
+R R B B 
+R R B B 
+B W W B 
+B W X B 
+P P W X 
+
+R R B B 
+R R B B 
+B W W B 
+B W X B 
+X P P W 
+
+R R B B 
+R R B B 
+B W X X 
+B W W B 
+P P W B 
+
+R R B B 
+R R B B 
+X W X B 
+B W W B 
+B P P W 
+
+R R X X 
+R R B B 
+B W B B 
+B W W B 
+P P W B 
+
+R R X B 
+R R B B 
+W X B B 
+B W W B 
+B P P W 
+
+R R B B 
+R R B B 
+B W W B 
+B X W B 
+P P W X 
+
+R R B B 
+R R B B 
+B W W B 
+B X W B 
+X P P W 
+
+R R B B 
+R R B B 
+B X W X 
+B W W B 
+P P W B 
+
+R R B B 
+R R B B 
+X X W B 
+B W W B 
+B P P W 
+
+R R B B 
+R R B B 
+B W W B 
+B W W B 
+P P X X 
+
+R R B B 
+R R B B 
+B W W X 
+B W X B 
+P P W B 
+
+R R B B 
+R R B B 
+X W W B 
+B W X B 
+B P P W 
+
+R R B X 
+R R B B 
+B W X B 
+B W W B 
+P P W B 
+
+R R B B 
+R R B B 
+W X X B 
+B W W B 
+B P P W 
+
+R R X B 
+R R B B 
+W W B B 
+B X W B 
+B P P W 
+
+R R B B 
+R R B B 
+B W W X 
+B X W B 
+P P W B 
+
+R R B B 
+R R B B 
+X W W B 
+B X W B 
+B P P W 
+
+R R B X 
+R R B B 
+B X W B 
+B W W B 
+P P W B 
+
+R R B B 
+R R B B 
+B X X W 
+B W W B 
+P P W B 
+
+X X B B 
+R R B B 
+R R W B 
+B W W B 
+B P P W 
+
+R R B B 
+R R B B 
+B W W B 
+B W W B 
+X P P X 
+
+R R B B 
+R R B B 
+B W W X 
+B W W B 
+P P X B 
+
+R R B X 
+R R B B 
+B W W B 
+B W X B 
+P P W B 
+
+R R B B 
+R R B B 
+B W X W 
+B W X B 
+P P W B 
+
+R R B B 
+R R B B 
+W X W B 
+B W X B 
+B P P W 
+
+R R B B 
+R R B B 
+W W X B 
+B X W B 
+B P P W 
+
+R R X B 
+R R B B 
+W W B B 
+B W X B 
+B P P W 
+
+R R B X 
+R R B B 
+B W W B 
+B X W B 
+P P W B 
+
+R R B B 
+R R B B 
+B W X W 
+B X W B 
+P P W B 
+
+R R B B 
+R R B B 
+W X W B 
+B X W B 
+B P P W 
+
+R R B B 
+R R B B 
+B X W W 
+B W X B 
+P P W B 
+
+R R X B 
+R R B B 
+B X B W 
+B W W B 
+P P W B 
+
+R R B B 
+R R B B 
+R R W B 
+B W W B 
+B P P W 
+
+R R B B 
+R R B B 
+X W W B 
+B W W B 
+B P P X 
+
+R R B B 
+R R B B 
+B W W X 
+B W W B 
+X P P B 
+
+R R B B 
+R R B B 
+B W W B 
+B W W B 
+X X P P 
+
+R R B X 
+R R B B 
+B W W B 
+B W W B 
+P P X B 
+
+R R B B 
+R R B B 
+B W X W 
+B W W B 
+P P X B 
+
+R R X B 
+R R B B 
+B W B W 
+B W X B 
+P P W B 
+
+R R B B 
+R R B B 
+W W W B 
+B X X B 
+B P P W 
+
+R R B B 
+R R B B 
+W W X B 
+B W X B 
+B P P W 
+
+R R X B 
+R R X B 
+W W B B 
+B W B B 
+B P P W 
+
+R R B B 
+R R B B 
+B W W W 
+B X X B 
+P P W B 
+
+R R X B 
+R R B B 
+B W B W 
+B X W B 
+P P W B 
+
+R R B B 
+R R B B 
+B X W W 
+B X W B 
+P P W B 
+
+R R B B 
+R R B B 
+B X W W 
+B W W B 
+P P X B 
+
+R R B B 
+R R B B 
+W X W B 
+B W W B 
+B P P X 
+
+R R B B 
+R R B B 
+X W W X 
+B W W B 
+B P P B 
+
+R R B B 
+R R B B 
+X W W B 
+B W W B 
+B X P P 
+
+R R B X 
+R R B B 
+B W W B 
+B W W B 
+X P P B 
+
+R R B B 
+R R B B 
+B W X W 
+B W W B 
+X P P B 
+
+R R B B 
+R R B B 
+B W W B 
+B X W B 
+X W P P 
+
+R R B B 
+R R B B 
+B W W W 
+B W X B 
+P P X B 
+
+R R X B 
+R R B B 
+B W B W 
+B W W B 
+P P X B 
+
+R R X B 
+R R X B 
+B W B W 
+B W B B 
+P P W B 
+
+X R R B 
+X R R B 
+W W B B 
+B W B B 
+B P P W 
+
+R R B B 
+R R B B 
+B W W W 
+B X W B 
+P P X B 
+
+R R B B 
+R R B B 
+X B W W 
+X B W B 
+P P W B 
+
+R R B B 
+R R B B 
+B X W W 
+B W W B 
+X P P B 
+
+R R B B 
+R R B B 
+W W W B 
+B X W B 
+B P P X 
+
+R R B B 
+R R B B 
+W W X B 
+B W W B 
+B P P X 
+
+R R B B 
+R R B B 
+W X W X 
+B W W B 
+B P P B 
+
+R R B B 
+R R B B 
+W X W B 
+B W W B 
+B X P P 
+
+R R B X 
+R R B B 
+X W W B 
+B W W B 
+B P P B 
+
+R R B B 
+R R B B 
+X W X W 
+B W W B 
+B P P B 
+
+R R B B 
+R R B B 
+X W W B 
+B X W B 
+B W P P 
+
+R R B B 
+R R B B 
+B W W W 
+B W X B 
+X P P B 
+
+R R X B 
+R R B B 
+B W B W 
+B W W B 
+X P P B 
+
+R R B B 
+R R B B 
+B X W B 
+B W W B 
+X W P P 
+
+R R B B 
+R R B B 
+B W W B 
+B W X B 
+X W P P 
+
+R R B B 
+R R B B 
+B W W B 
+B X W B 
+W X P P 
+
+X R R B 
+X R R B 
+B W B W 
+B W B B 
+P P W B 
+
+X R R B 
+W R R B 
+X W B B 
+B W B B 
+B P P W 
+
+R R B B 
+R R B B 
+B W W W 
+B X W B 
+X P P B 
+
+R R B B 
+R R B B 
+X X W W 
+B W W B 
+B P P B 
+
+R R B B 
+R R B B 
+W W W B 
+B W X B 
+B P P X 
+
+R R B B 
+R R B B 
+W W W X 
+B X W B 
+B P P B 
+
+R R B B 
+R R B B 
+W W W B 
+B X W B 
+B X P P 
+
+R R X B 
+R R B B 
+W W B B 
+B W W B 
+B P P X 
+
+R R B B 
+R R B B 
+W W X X 
+B W W B 
+B P P B 
+
+R R B B 
+R R B B 
+W W X B 
+B W W B 
+B X P P 
+
+R R B X 
+R R B B 
+W X W B 
+B W W B 
+B P P B 
+
+R R B B 
+R R B B 
+W X X W 
+B W W B 
+B P P B 
+
+R R B B 
+R R B B 
+W X W B 
+B X W B 
+B W P P 
+
+R R B B 
+R R B B 
+X W W W 
+B W X B 
+B P P B 
+
+R R X B 
+R R B B 
+X W B W 
+B W W B 
+B P P B 
+
+R R B B 
+R R B B 
+X X W B 
+B W W B 
+B W P P 
+
+R R B B 
+R R B B 
+X W W B 
+B W X B 
+B W P P 
+
+R R B B 
+R R B B 
+B W X B 
+B W W B 
+X W P P 
+
+R R B B 
+R R B B 
+B X W B 
+B W W B 
+W X P P 
+
+R R B B 
+R R B B 
+B W W B 
+B W X B 
+W X P P 
+
+R R B B 
+R R B B 
+B W W B 
+B X W B 
+W P P X 
+
+X R R B 
+B R R B 
+B W B W 
+X W B B 
+P P W B 
+
+W R R B 
+X R R B 
+X W B B 
+B W B B 
+B P P W 
+
+X R R B 
+W R R B 
+B W B B 
+B W B B 
+X P P W 
+
+X R R B 
+W R R B 
+W X B B 
+B W B B 
+B P P W 
+
+R R B B 
+R R B B 
+X W W W 
+B X W B 
+B P P B 
+
+X X B B 
+R R B B 
+R R W W 
+B W W B 
+B P P B 
+
+R R B B 
+R R B B 
+W W W X 
+B W X B 
+B P P B 
+
+R R B B 
+R R B B 
+W W W B 
+B W X B 
+B X P P 
+
+R R B X 
+R R B B 
+W W W B 
+B X W B 
+B P P B 
+
+R R B B 
+R R B B 
+W W X W 
+B X W B 
+B P P B 
+
+R R B B 
+R R B B 
+W W W B 
+X B W B 
+X B P P 
+
+R R X B 
+R R B B 
+W W B X 
+B W W B 
+B P P B 
+
+R R X B 
+R R B B 
+W W B B 
+B W W B 
+B X P P 
+
+R R B X 
+R R B B 
+W W X B 
+B W W B 
+B P P B 
+
+R R B B 
+R R B B 
+W W X B 
+B X W B 
+B W P P 
+
+R R B B 
+R R B B 
+W X W W 
+B W X B 
+B P P B 
+
+R R X B 
+R R B B 
+W X B W 
+B W W B 
+B P P B 
+
+R R B B 
+R R B B 
+W X W B 
+B W X B 
+B W P P 
+
+X X B B 
+R R B B 
+R R W B 
+B W W B 
+B W P P 
+
+R R B B 
+R R B B 
+X W X B 
+B W W B 
+B W P P 
+
+R R X B 
+R R B B 
+B W B B 
+B W W B 
+X W P P 
+
+R R B B 
+R R B B 
+B W X B 
+B W W B 
+W X P P 
+
+R R B B 
+R R B B 
+B X W B 
+B X W B 
+W W P P 
+
+R R B B 
+R R B B 
+B X W B 
+B W W B 
+W P P X 
+
+R R B B 
+R R B B 
+B W W B 
+B X X B 
+W W P P 
+
+R R B B 
+R R B B 
+B W W B 
+B W X B 
+W P P X 
+
+R R B B 
+R R B B 
+B W W X 
+B X W B 
+W P P B 
+
+B R R B 
+B R R B 
+X W B W 
+X W B B 
+P P W B 
+
+X R R B 
+B R R B 
+B W B W 
+W X B B 
+P P W B 
+
+W R R B 
+X R R B 
+B W B B 
+B W B B 
+X P P W 
+
+W R R B 
+X R R B 
+W X B B 
+B W B B 
+B P P W 
+
+X R R B 
+W R R B 
+B W B B 
+B W B B 
+P P X W 
+
+X R R B 
+W R R B 
+W W B B 
+B X B B 
+B P P W 
+
+R R B B 
+R R B B 
+W X W W 
+B X W B 
+B P P B 
+
+R R B B 
+R R B B 
+R R W W 
+B W W B 
+B P P B 
+
+R R B X 
+R R B B 
+W W W B 
+B W X B 
+B P P B 
+
+R R B B 
+R R B B 
+W W X W 
+B W X B 
+B P P B 
+
+R R B B 
+R R B B 
+W W W B 
+B X X B 
+B W P P 
+
+R R B B 
+R R B B 
+W W W W 
+B X X B 
+B P P B 
+
+R R X B 
+R R B B 
+W W B W 
+B X W B 
+B P P B 
+
+R R B B 
+R R B B 
+X W W B 
+W B W B 
+X B P P 
+
+R R X X 
+R R B B 
+W W B B 
+B W W B 
+B P P B 
+
+R R X B 
+R R B B 
+W W B B 
+B X W B 
+B W P P 
+
+R R B B 
+R R B B 
+W X X B 
+B W W B 
+B W P P 
+
+R R B B 
+R R B B 
+W W X B 
+B W X B 
+B W P P 
+
+R R B B 
+R R B B 
+R R W B 
+B W W B 
+B W P P 
+
+R R X B 
+R R B B 
+X W B B 
+B W W B 
+B W P P 
+
+R R X B 
+R R B B 
+B W B B 
+B W W B 
+W X P P 
+
+R R B B 
+R R B B 
+B W X B 
+B X W B 
+W W P P 
+
+R R B B 
+R R B B 
+B W X B 
+B W W B 
+W P P X 
+
+R R B B 
+R R B B 
+X B W B 
+X B W B 
+W W P P 
+
+R R B B 
+R R B B 
+B X W B 
+B W X B 
+W W P P 
+
+R R B B 
+R R B B 
+B X W X 
+B W W B 
+W P P B 
+
+R R B B 
+R R B B 
+B W W X 
+B W X B 
+W P P B 
+
+R R B X 
+R R B B 
+B W W B 
+B X W B 
+W P P B 
+
+R R B B 
+R R B B 
+B W X W 
+B X W B 
+W P P B 
+
+B R R B 
+B R R B 
+W X B W 
+X W B B 
+P P W B 
+
+B R R B 
+B R R B 
+X W B W 
+W X B B 
+P P W B 
+
+X R R B 
+B R R B 
+B X B W 
+W W B B 
+P P W B 
+
+W R R B 
+B R R B 
+B W B B 
+X W B B 
+X P P W 
+
+W R R B 
+X R R B 
+B W B B 
+B W B B 
+P P X W 
+
+W R R B 
+W R R B 
+X X B B 
+B W B B 
+B P P W 
+
+W R R B 
+X R R B 
+W W B B 
+B X B B 
+B P P W 
+
+X R R B 
+W R R B 
+B W X B 
+B W B B 
+P P B W 
+
+X R R B 
+W R R B 
+B W B B 
+B W B B 
+P P W X 
+
+R R X B 
+R R B B 
+W W B W 
+B W X B 
+B P P B 
+
+R R B B 
+R R B B 
+W X W B 
+W B W B 
+X B P P 
+
+R R B B 
+R R B B 
+X W W B 
+X B W B 
+W B P P 
+
+R R X B 
+R R B B 
+W X B B 
+B W W B 
+B W P P 
+
+R R X B 
+R R B B 
+W W B B 
+B W X B 
+B W P P 
+
+R R X B 
+R R B B 
+B W B B 
+B X W B 
+W W P P 
+
+R R X B 
+R R B B 
+B W B B 
+B W W B 
+W P P X 
+
+R R B B 
+R R B B 
+B X X B 
+B W W B 
+W W P P 
+
+R R B B 
+R R B B 
+B W X B 
+B W X B 
+W W P P 
+
+R R B B 
+R R B B 
+B W X X 
+B W W B 
+W P P B 
+
+R R B B 
+R R B B 
+X B W B 
+W B W B 
+X W P P 
+
+R R B X 
+R R B B 
+B X W B 
+B W W B 
+W P P B 
+
+R R B B 
+R R B B 
+B X X W 
+B W W B 
+W P P B 
+
+R R B X 
+R R B B 
+B W W B 
+B W X B 
+W P P B 
+
+R R B B 
+R R B B 
+B W X W 
+B W X B 
+W P P B 
+
+R R B B 
+R R B B 
+B W W W 
+B X X B 
+W P P B 
+
+R R X B 
+R R B B 
+B W B W 
+B X W B 
+W P P B 
+
+R R B B 
+R R B B 
+B X W W 
+B X W B 
+W P P B 
+
+B R R B 
+B R R B 
+W W B W 
+X X B B 
+P P W B 
+
+B R R B 
+B R R B 
+X X B W 
+W W B B 
+P P W B 
+
+B R R B 
+B R R B 
+W X B W 
+W X B B 
+P P W B 
+
+W R R B 
+B R R B 
+B W B B 
+W X B B 
+X P P W 
+
+W R R B 
+B R R B 
+B W B B 
+X W B B 
+P P X W 
+
+W R R B 
+X R R B 
+B W X B 
+B W B B 
+P P B W 
+
+W R R B 
+X R R B 
+B W B B 
+B W B B 
+P P W X 
+
+W R R B 
+W R R B 
+B X B B 
+B W B B 
+X P P W 
+
+W R R B 
+W R R B 
+X W B B 
+B X B B 
+B P P W 
+
+X R R B 
+W R R B 
+B X W B 
+B W B B 
+P P B W 
+
+X R R B 
+W R R B 
+B W B X 
+B W B B 
+P P W B 
+
+R R X B 
+R R X B 
+W W B W 
+B W B B 
+B P P B 
+
+R R B B 
+R R B B 
+W B W B 
+W B W B 
+X X P P 
+
+R R B B 
+R R B B 
+W W X B 
+W B W B 
+X B P P 
+
+R R B B 
+R R B B 
+W X W B 
+X B W B 
+W B P P 
+
+R R X B 
+R R X B 
+W W B B 
+B W B B 
+B W P P 
+
+R R X B 
+R R B B 
+B X B B 
+B W W B 
+W W P P 
+
+R R X B 
+R R B B 
+B W B B 
+B W X B 
+W W P P 
+
+R R X B 
+R R B B 
+B W B X 
+B W W B 
+W P P B 
+
+R R B X 
+R R B B 
+B W X B 
+B W W B 
+W P P B 
+
+R R B B 
+R R B B 
+W B W B 
+X B W B 
+X W P P 
+
+R R B B 
+R R B B 
+X B W B 
+W B W B 
+W X P P 
+
+R R B B 
+R R B B 
+B X W W 
+B W X B 
+W P P B 
+
+R R X B 
+R R B B 
+B X B W 
+B W W B 
+W P P B 
+
+R R X B 
+R R B B 
+B W B W 
+B W X B 
+W P P B 
+
+R R B B 
+R R B B 
+X B W W 
+X B W B 
+W P P B 
+
+W R R B 
+B R R B 
+B X B B 
+W W B B 
+X P P W 
+
+W R R B 
+B R R B 
+B W B B 
+X X B B 
+W P P W 
+
+W R R B 
+B R R B 
+B W B B 
+W X B B 
+P P X W 
+
+W R R B 
+B R R B 
+B W X B 
+X W B B 
+P P B W 
+
+W R R B 
+B R R B 
+B W B B 
+X W B B 
+P P W X 
+
+W R R B 
+X R R B 
+B X W B 
+B W B B 
+P P B W 
+
+W R R B 
+X R R B 
+B W B X 
+B W B B 
+P P W B 
+
+W R R B 
+W R R B 
+B W B B 
+B X B B 
+X P P W 
+
+W R R B 
+W R R B 
+B X B B 
+B W B B 
+P P X W 
+
+W R R B 
+W R R B 
+W X B B 
+B X B B 
+B P P W 
+
+X R R B 
+W R R B 
+B W W B 
+B X B B 
+P P B W 
+
+X R R X 
+W R R B 
+B W B B 
+B W B B 
+P P W B 
+
+X R R B 
+X R R B 
+W W B W 
+B W B B 
+B P P B 
+
+R R B B 
+R R B B 
+W B W B 
+X B W B 
+W X P P 
+
+R R B B 
+R R B B 
+W B W B 
+W B W B 
+X P P X 
+
+R R B B 
+R R B B 
+W W W B 
+W B X B 
+X B P P 
+
+R R X B 
+R R B B 
+W W B B 
+W B W B 
+X B P P 
+
+R R B B 
+R R B B 
+W W X B 
+X B W B 
+W B P P 
+
+R R B B 
+R R B B 
+X X W B 
+W B W B 
+W B P P 
+
+X R R B 
+X R R B 
+W W B B 
+B W B B 
+B W P P 
+
+R R X B 
+R R X B 
+B W B B 
+B W B B 
+W W P P 
+
+R R X X 
+R R B B 
+B W B B 
+B W W B 
+W P P B 
+
+R R B B 
+R R B B 
+X B W B 
+W B W B 
+W P P X 
+
+R R X B 
+R R X B 
+B W B W 
+B W B B 
+W P P B 
+
+R R B B 
+R R B B 
+X B W W 
+W B W B 
+X P P B 
+
+W R R B 
+B R R B 
+B X B B 
+X W B B 
+W P P W 
+
+W R R B 
+B R R B 
+B X B B 
+W W B B 
+P P X W 
+
+W R R B 
+X R R B 
+B W B B 
+B X B B 
+W P P W 
+
+W R R B 
+B R R B 
+B W X B 
+W X B B 
+P P B W 
+
+W R R B 
+B R R B 
+B W B B 
+W X B B 
+P P W X 
+
+W R R B 
+B R R B 
+B X W B 
+X W B B 
+P P B W 
+
+W R R B 
+B R R B 
+B W B X 
+X W B B 
+P P W B 
+
+W R R B 
+X R R B 
+B W W B 
+B X B B 
+P P B W 
+
+W R R X 
+X R R B 
+B W B B 
+B W B B 
+P P W B 
+
+W R R B 
+W R R B 
+B W B B 
+B X B B 
+P P X W 
+
+W R R B 
+W R R B 
+B X X B 
+B W B B 
+P P B W 
+
+W R R B 
+W R R B 
+B X B B 
+B W B B 
+P P W X 
+
+X R R B 
+W R R B 
+X W B W 
+B W B B 
+B P P B 
+
+R R B B 
+R R B B 
+W B W B 
+X B W B 
+W P P X 
+
+R R B B 
+R R B B 
+W B W B 
+W B W B 
+P P X X 
+
+R R B B 
+R R B B 
+W B W X 
+W B W B 
+X P P B 
+
+R R B B 
+R R B B 
+W W W B 
+X B X B 
+W B P P 
+
+R R X B 
+R R B B 
+W W B B 
+X B W B 
+W B P P 
+
+R R B B 
+R R B B 
+X W X B 
+W B W B 
+W B P P 
+
+X X B B 
+R R B B 
+R R W B 
+W B W B 
+W B P P 
+
+X R R B 
+W R R B 
+X W B B 
+B W B B 
+B W P P 
+
+X R R B 
+X R R B 
+B W B B 
+B W B B 
+W W P P 
+
+R R B B 
+R R B B 
+X B W X 
+W B W B 
+W P P B 
+
+X R R B 
+X R R B 
+B W B W 
+B W B B 
+W P P B 
+
+R R B B 
+R R B B 
+W B W W 
+X B W B 
+X P P B 
+
+R R B B 
+R R B B 
+X B W W 
+W B W B 
+P P X B 
+
+W R R B 
+X R R B 
+B X B B 
+B W B B 
+W P P W 
+
+W R R B 
+B R R B 
+B X B B 
+W X B B 
+W P P W 
+
+W R R B 
+B R R B 
+B X X B 
+W W B B 
+P P B W 
+
+W R R B 
+B R R B 
+B X B B 
+W W B B 
+P P W X 
+
+X R R B 
+W R R B 
+B W B B 
+B X B B 
+W P P W 
+
+W R R B 
+B R R B 
+B X W B 
+W X B B 
+P P B W 
+
+W R R B 
+B R R B 
+B W B X 
+W X B B 
+P P W B 
+
+W R R B 
+B R R B 
+B W W B 
+X X B B 
+P P B W 
+
+W R R X 
+B R R B 
+B W B B 
+X W B B 
+P P W B 
+
+W R R B 
+W R R B 
+B W X B 
+B X B B 
+P P B W 
+
+W R R B 
+W R R B 
+B W B B 
+B X B B 
+P P W X 
+
+W X X B 
+W R R B 
+B R R B 
+B W B B 
+P P B W 
+
+W R R B 
+W R R B 
+B X B X 
+B W B B 
+P P W B 
+
+W R R B 
+X R R B 
+X W B W 
+B W B B 
+B P P B 
+
+X R R B 
+W R R B 
+B W B W 
+B W B B 
+X P P B 
+
+X R R B 
+W R R B 
+W X B W 
+B W B B 
+B P P B 
+
+R R B B 
+R R B B 
+W B W X 
+X B W B 
+W P P B 
+
+R R B B 
+R R B B 
+W B W B 
+W B X B 
+P P W X 
+
+R R B B 
+R R B B 
+W B W X 
+W B W B 
+P P X B 
+
+R R B X 
+R R B B 
+W B W B 
+W B W B 
+X P P B 
+
+R R B B 
+R R B B 
+W B X W 
+W B W B 
+X P P B 
+
+R R B B 
+R R B B 
+X W W B 
+W B X B 
+W B P P 
+
+R R X B 
+R R B B 
+X W B B 
+W B W B 
+W B P P 
+
+R R B B 
+R R B B 
+W X X B 
+W B W B 
+W B P P 
+
+R R B B 
+R R B B 
+R R W B 
+W B W B 
+W B P P 
+
+W R R B 
+X R R B 
+X W B B 
+B W B B 
+B W P P 
+
+X R R B 
+W R R B 
+B W B B 
+B W B B 
+X W P P 
+
+X R R B 
+W R R B 
+W X B B 
+B W B B 
+B W P P 
+
+X R R B 
+B R R B 
+B W B B 
+X W B B 
+W W P P 
+
+R R B X 
+R R B B 
+X B W B 
+W B W B 
+W P P B 
+
+R R B B 
+R R B B 
+X B X W 
+W B W B 
+W P P B 
+
+X R R B 
+B R R B 
+B W B W 
+X W B B 
+W P P B 
+
+R R B B 
+R R B B 
+W B W W 
+X B W B 
+P P X B 
+
+R R B B 
+R R B B 
+X B W W 
+W B X B 
+P P W B 
+
+X R R B 
+W R R B 
+B X B B 
+B W B B 
+W P P W 
+
+W X X B 
+B R R B 
+B R R B 
+W W B B 
+P P B W 
+
+W R R B 
+B R R B 
+B X B X 
+W W B B 
+P P W B 
+
+W R R X 
+B R R B 
+B W B B 
+W X B B 
+P P W B 
+
+W R R B 
+W R R B 
+B X W B 
+B X B B 
+P P B W 
+
+W R R B 
+W R R B 
+B W B X 
+B X B B 
+P P W B 
+
+W R R B 
+W R R B 
+B R R B 
+B W B B 
+P P B W 
+
+X W X B 
+W R R B 
+B R R B 
+B W B B 
+P P B W 
+
+W R R X 
+W R R B 
+B X B B 
+B W B B 
+P P W B 
+
+W R R B 
+X R R B 
+B W B W 
+B W B B 
+X P P B 
+
+W R R B 
+X R R B 
+W X B W 
+B W B B 
+B P P B 
+
+X R R B 
+W R R B 
+B W B W 
+B W B B 
+P P X B 
+
+X R R B 
+W R R B 
+W W B W 
+B X B B 
+B P P B 
+
+R R B X 
+R R B B 
+W B W B 
+X B W B 
+W P P B 
+
+R R B B 
+R R B B 
+W B X W 
+X B W B 
+W P P B 
+
+R R B B 
+R R B B 
+W B X B 
+W B W B 
+P P W X 
+
+R R B B 
+R R B B 
+W B W X 
+W B X B 
+P P W B 
+
+R R B B 
+R R B B 
+W B W B 
+W B X B 
+P P X W 
+
+R R B X 
+R R B B 
+W B W B 
+W B W B 
+P P X B 
+
+R R B B 
+R R B B 
+W B X W 
+W B W B 
+P P X B 
+
+R R B B 
+R R B B 
+W B W W 
+W B X B 
+X P P B 
+
+R R X B 
+R R B B 
+W B B W 
+W B W B 
+X P P B 
+
+R R B B 
+R R B B 
+W X W B 
+W B X B 
+W B P P 
+
+R R X B 
+R R B B 
+W X B B 
+W B W B 
+W B P P 
+
+R R B B 
+R R B B 
+W B X B 
+W B W B 
+W X P P 
+
+W R R B 
+X R R B 
+B W B B 
+B W B B 
+X W P P 
+
+W R R B 
+X R R B 
+W X B B 
+B W B B 
+B W P P 
+
+X R R B 
+W R R B 
+B W B B 
+B W B B 
+W X P P 
+
+X R R B 
+W R R B 
+W W B B 
+B X B B 
+B W P P 
+
+B R R B 
+B R R B 
+X W B B 
+X W B B 
+W W P P 
+
+X R R B 
+B R R B 
+B W B B 
+W W B B 
+X W P P 
+
+X R R B 
+B R R B 
+B W B B 
+W X B B 
+W W P P 
+
+R R B B 
+R R B B 
+X B W W 
+W B X B 
+W P P B 
+
+R R X B 
+R R B B 
+X B B W 
+W B W B 
+W P P B 
+
+B R R B 
+B R R B 
+X W B W 
+X W B B 
+W P P B 
+
+X R R B 
+B R R B 
+B W B W 
+W W B B 
+X P P B 
+
+X R R B 
+B R R B 
+B W B W 
+W X B B 
+W P P B 
+
+R R B B 
+R R B B 
+W B W W 
+X B X B 
+P P W B 
+
+R R B B 
+R R B B 
+X B X W 
+W B W B 
+P P W B 
+
+W R R B 
+B R R B 
+B R R B 
+W W B B 
+P P B W 
+
+X W X B 
+B R R B 
+B R R B 
+W W B B 
+P P B W 
+
+W R R X 
+B R R B 
+B X B B 
+W W B B 
+P P W B 
+
+W R R B 
+W R R B 
+X B W B 
+X B B B 
+P P B W 
+
+W R R X 
+W R R B 
+B W B B 
+B X B B 
+P P W B 
+
+W W X B 
+X R R B 
+B R R B 
+B W B B 
+P P B W 
+
+X X W B 
+W R R B 
+B R R B 
+B W B B 
+P P B W 
+
+W R R B 
+B R R B 
+B W B W 
+X W B B 
+X P P B 
+
+W R R B 
+X R R B 
+B W B W 
+B W B B 
+P P X B 
+
+W R R B 
+W R R B 
+X X B W 
+B W B B 
+B P P B 
+
+W R R B 
+X R R B 
+W W B W 
+B X B B 
+B P P B 
+
+X R R B 
+W R R B 
+B W X W 
+B W B B 
+P P B B 
+
+R R B B 
+R R B B 
+W B W W 
+X B X B 
+W P P B 
+
+R R X B 
+R R B B 
+W B B W 
+X B W B 
+W P P B 
+
+R R X B 
+R R B B 
+W B B B 
+W B W B 
+P P W X 
+
+R R B B 
+R R B B 
+W B X X 
+W B W B 
+P P W B 
+
+R R B B 
+R R B B 
+W B X B 
+W B W B 
+P P X W 
+
+R R B X 
+R R B B 
+W B W B 
+W B X B 
+P P W B 
+
+R R B B 
+R R B B 
+W B X W 
+W B X B 
+P P W B 
+
+R R B B 
+R R B B 
+W B W B 
+W B X B 
+X P P W 
+
+R R B B 
+R R B B 
+W B W W 
+W B X B 
+P P X B 
+
+R R X B 
+R R B B 
+W B B W 
+W B W B 
+P P X B 
+
+R R B B 
+R R B B 
+W B W B 
+W B X B 
+W X P P 
+
+R R B B 
+R R B B 
+W W X B 
+W B X B 
+W B P P 
+
+R R X B 
+R R B B 
+W B B B 
+W B W B 
+W X P P 
+
+R R B B 
+R R B B 
+W B X B 
+W B W B 
+W P P X 
+
+R R B B 
+R R B B 
+W B X B 
+W B W B 
+X W P P 
+
+W R R B 
+B R R B 
+B W B B 
+X W B B 
+X W P P 
+
+W R R B 
+X R R B 
+B W B B 
+B W B B 
+W X P P 
+
+W R R B 
+W R R B 
+X X B B 
+B W B B 
+B W P P 
+
+W R R B 
+X R R B 
+W W B B 
+B X B B 
+B W P P 
+
+X R R B 
+W R R B 
+B W B B 
+B X B B 
+W W P P 
+
+X R R B 
+W R R B 
+B W B B 
+B W B B 
+W P P X 
+
+X R R B 
+W R R B 
+W W B B 
+B W B B 
+B X P P 
+
+B R R B 
+B R R B 
+W X B B 
+X W B B 
+W W P P 
+
+B R R B 
+B R R B 
+X W B B 
+W W B B 
+X W P P 
+
+B R R B 
+B R R B 
+X W B B 
+W X B B 
+W W P P 
+
+X R R B 
+B R R B 
+B W B B 
+W W B B 
+W X P P 
+
+X R R B 
+B R R B 
+B X B B 
+W W B B 
+W W P P 
+
+B R R B 
+B R R B 
+W X B W 
+X W B B 
+W P P B 
+
+B R R B 
+B R R B 
+X W B W 
+W W B B 
+X P P B 
+
+B R R B 
+B R R B 
+X W B W 
+W X B B 
+W P P B 
+
+X R R B 
+B R R B 
+B W B W 
+W W B B 
+P P X B 
+
+X R R B 
+B R R B 
+B X B W 
+W W B B 
+W P P B 
+
+R R B B 
+R R B B 
+W B X W 
+X B W B 
+P P W B 
+
+R R X B 
+R R B B 
+X B B W 
+W B W B 
+P P W B 
+
+R R B B 
+R R B B 
+X B W X 
+W B W B 
+P P W B 
+
+B W X B 
+B R R B 
+X R R B 
+W W B B 
+P P B W 
+
+X X W B 
+B R R B 
+B R R B 
+W W B B 
+P P B W 
+
+W R R B 
+X R R B 
+W B W B 
+X B B B 
+P P B W 
+
+W X W B 
+X R R B 
+B R R B 
+B W B B 
+P P B W 
+
+W W X B 
+B R R B 
+B R R B 
+X W B B 
+P P B W 
+
+W R R B 
+B R R B 
+B W B W 
+W X B B 
+X P P B 
+
+W R R B 
+B R R B 
+B W B W 
+X W B B 
+P P X B 
+
+W R R B 
+X R R B 
+B W X W 
+B W B B 
+P P B B 
+
+W R R B 
+W R R B 
+B X B W 
+B W B B 
+X P P B 
+
+W R R B 
+W R R B 
+X W B W 
+B X B B 
+B P P B 
+
+X R R B 
+W R R B 
+B W W X 
+B W B B 
+P P B B 
+
+X R R B 
+W R R B 
+B X W W 
+B W B B 
+P P B B 
+
+R R X B 
+R R B B 
+W B B X 
+W B W B 
+P P W B 
+
+R R X B 
+R R B B 
+W B B B 
+W B W B 
+P P X W 
+
+R R B X 
+R R B B 
+W B X B 
+W B W B 
+P P W B 
+
+R R B B 
+R R B B 
+W B X B 
+W B X B 
+P P W W 
+
+R R B B 
+R R B B 
+W B X B 
+W B W B 
+X P P W 
+
+R R X B 
+R R B B 
+W B B W 
+W B X B 
+P P W B 
+
+R R B B 
+R R B B 
+W X B W 
+W X B B 
+P P W B 
+
+R R B B 
+R R B B 
+W B W B 
+X B X B 
+W P P W 
+
+R R B B 
+R R B B 
+W B W B 
+W B X B 
+W P P X 
+
+R R B B 
+R R B B 
+W B W B 
+W B X B 
+X W P P 
+
+R R X B 
+R R B B 
+W W B B 
+W B X B 
+W B P P 
+
+R R X B 
+R R B B 
+W B B B 
+W B W B 
+W P P X 
+
+R R X B 
+R R B B 
+W B B B 
+W B W B 
+X W P P 
+
+R R B B 
+R R B B 
+W B X X 
+W B W B 
+W P P B 
+
+R R B B 
+R R B B 
+W B X B 
+X B W B 
+W W P P 
+
+W R R B 
+B R R B 
+B W B B 
+W X B B 
+X W P P 
+
+W R R B 
+B R R B 
+B W B B 
+X W B B 
+W X P P 
+
+W R R B 
+X R R B 
+B W B B 
+B X B B 
+W W P P 
+
+W R R B 
+X R R B 
+B W B B 
+B W B B 
+W P P X 
+
+W R R B 
+W R R B 
+B X B B 
+B W B B 
+X W P P 
+
+W R R B 
+W R R B 
+X W B B 
+B X B B 
+B W P P 
+
+W R R B 
+X R R B 
+W W B B 
+B W B B 
+B X P P 
+
+X R R B 
+W R R B 
+B X B B 
+B W B B 
+W W P P 
+
+X R R B 
+W R R B 
+B W B X 
+B W B B 
+W P P B 
+
+X R R B 
+W R R B 
+W W B B 
+B W B B 
+B P P X 
+
+B R R B 
+B R R B 
+W W B B 
+X X B B 
+W W P P 
+
+B R R B 
+B R R B 
+W X B B 
+W W B B 
+X W P P 
+
+B R R B 
+B R R B 
+X X B B 
+W W B B 
+W W P P 
+
+B R R B 
+B R R B 
+W X B B 
+W X B B 
+W W P P 
+
+B R R B 
+B R R B 
+W W B B 
+X W B B 
+X W P P 
+
+B R R B 
+B R R B 
+X W B B 
+W W B B 
+W X P P 
+
+X R R B 
+B R R B 
+B W B B 
+W W B B 
+W P P X 
+
+B R R B 
+B R R B 
+W W B W 
+X X B B 
+W P P B 
+
+B R R B 
+B R R B 
+W X B W 
+W W B B 
+X P P B 
+
+B R R B 
+B R R B 
+X X B W 
+W W B B 
+W P P B 
+
+B R R B 
+B R R B 
+W X B W 
+W X B B 
+W P P B 
+
+B R R B 
+B R R B 
+W W B W 
+X W B B 
+X P P B 
+
+B R R B 
+B R R B 
+X W B W 
+W W B B 
+P P X B 
+
+X R R B 
+B R R B 
+B W X W 
+W W B B 
+P P B B 
+
+R R X B 
+R R B B 
+W B B W 
+X B W B 
+P P W B 
+
+R R B B 
+R R B B 
+W B W X 
+X B W B 
+P P W B 
+
+R R B B 
+R R B B 
+X B W B 
+W B W B 
+P P W X 
+
+R R B X 
+R R B B 
+X B W B 
+W B W B 
+P P W B 
+
+B X W B 
+B R R B 
+X R R B 
+W W B B 
+P P B W 
+
+B W X B 
+B R R B 
+W R R B 
+X W B B 
+P P B W 
+
+X R R B 
+W R R B 
+W B W B 
+X B B B 
+P P B W 
+
+W R R B 
+X R R B 
+X B W B 
+W B B B 
+P P B W 
+
+X W W B 
+X R R B 
+B R R B 
+B W B B 
+P P B W 
+
+W X W B 
+B R R B 
+B R R B 
+X W B B 
+P P B W 
+
+W W X B 
+B R R B 
+B R R B 
+W X B B 
+P P B W 
+
+W R R B 
+B R R B 
+B X B W 
+W W B B 
+X P P B 
+
+W R R B 
+B R R B 
+B W B W 
+X X B B 
+W P P B 
+
+W R R B 
+B R R B 
+B W B W 
+W X B B 
+P P X B 
+
+W R R B 
+B R R B 
+B W X W 
+X W B B 
+P P B B 
+
+W R R B 
+X R R B 
+B W W X 
+B W B B 
+P P B B 
+
+W R R B 
+X R R B 
+B X W W 
+B W B B 
+P P B B 
+
+W R R B 
+W R R B 
+B W B W 
+B X B B 
+X P P B 
+
+W R R B 
+W R R B 
+B X B W 
+B W B B 
+P P X B 
+
+W R R B 
+W R R B 
+W X B W 
+B X B B 
+B P P B 
+
+X R R B 
+W R R B 
+B W W B 
+B W B B 
+P P B X 
+
+X R R X 
+W R R B 
+B W W B 
+B W B B 
+P P B B 
+
+X R R B 
+W R R B 
+B W W W 
+B X B B 
+P P B B 
+
+R R X X 
+R R B B 
+W B B B 
+W B W B 
+P P W B 
+
+R R X B 
+R R B B 
+W B B B 
+W B X B 
+P P W W 
+
+R R X B 
+R R B B 
+W B B B 
+W B W B 
+X P P W 
+
+R R B B 
+R R B B 
+W X B B 
+W X B B 
+P P W W 
+
+R R B B 
+R R B B 
+W B X B 
+X B W B 
+W P P W 
+
+R R X B 
+R R X B 
+W B B W 
+W B B B 
+P P W B 
+
+R R B B 
+R R B B 
+X W B W 
+W X B B 
+P P W B 
+
+R R B B 
+R R B B 
+W X B W 
+X W B B 
+P P W B 
+
+R R B B 
+R R B B 
+X B W B 
+W B X B 
+W P P W 
+
+R R B B 
+R R B B 
+W B W X 
+W B X B 
+W P P B 
+
+R R B B 
+R R B B 
+W B W B 
+X B X B 
+W W P P 
+
+R R X B 
+R R X B 
+W W B B 
+W B B B 
+W B P P 
+
+R R X B 
+R R B B 
+W B B X 
+W B W B 
+W P P B 
+
+R R X B 
+R R B B 
+W B B B 
+X B W B 
+W W P P 
+
+R R B X 
+R R B B 
+W B X B 
+W B W B 
+W P P B 
+
+R R B B 
+R R B B 
+X B X B 
+W B W B 
+W W P P 
+
+W R R B 
+B R R B 
+B W B B 
+W W B B 
+X X P P 
+
+W R R B 
+B R R B 
+B X B B 
+W W B B 
+X W P P 
+
+W R R B 
+B R R B 
+B W B B 
+X X B B 
+W W P P 
+
+W R R B 
+B R R B 
+B W B B 
+W X B B 
+W X P P 
+
+W R R B 
+B R R B 
+B W B B 
+X W B B 
+W P P X 
+
+W R R B 
+X R R B 
+B X B B 
+B W B B 
+W W P P 
+
+W R R B 
+X R R B 
+B W B X 
+B W B B 
+W P P B 
+
+W R R B 
+W R R B 
+B W B B 
+B X B B 
+X W P P 
+
+W R R B 
+W R R B 
+B X B B 
+B W B B 
+W X P P 
+
+W R R B 
+W R R B 
+W X B B 
+B X B B 
+B W P P 
+
+W R R B 
+W R R B 
+X W B B 
+B W B B 
+B X P P 
+
+W R R B 
+X R R B 
+W W B B 
+B W B B 
+B P P X 
+
+X R R X 
+W R R B 
+B W B B 
+B W B B 
+W P P B 
+
+X R R B 
+W R R B 
+W W B X 
+B W B B 
+B P P B 
+
+B R R B 
+B R R B 
+W W B B 
+W X B B 
+X W P P 
+
+B R R B 
+B R R B 
+W W B B 
+X W B B 
+W X P P 
+
+B R R B 
+B R R B 
+W X B B 
+W W B B 
+W X P P 
+
+B R R B 
+B R R B 
+X W B B 
+W W B B 
+W P P X 
+
+X R R B 
+B R R B 
+B W B X 
+W W B B 
+W P P B 
+
+B R R B 
+B R R B 
+W W B W 
+W X B B 
+X P P B 
+
+B R R B 
+B R R B 
+W X B W 
+W W B B 
+P P X B 
+
+B R R B 
+B R R B 
+W W B W 
+X W B B 
+P P X B 
+
+B R R B 
+B R R B 
+X W X W 
+W W B B 
+P P B B 
+
+X R R B 
+B R R B 
+B W W X 
+W W B B 
+P P B B 
+
+X R R B 
+B R R B 
+B X W W 
+W W B B 
+P P B B 
+
+R R B B 
+R R B B 
+W B W B 
+X B W B 
+P P W X 
+
+R R B X 
+R R B B 
+W B W B 
+X B W B 
+P P W B 
+
+R R B B 
+R R B B 
+X B W B 
+W B W B 
+P P X W 
+
+B X W B 
+B R R B 
+W R R B 
+X W B B 
+P P B W 
+
+B W X B 
+B R R B 
+W R R B 
+W X B B 
+P P B W 
+
+X R R B 
+W R R B 
+X B W B 
+W B B B 
+P P B W 
+
+X W W B 
+B R R B 
+B R R B 
+X W B B 
+P P B W 
+
+W X W B 
+B R R B 
+B R R B 
+W X B B 
+P P B W 
+
+W R R B 
+B R R B 
+B X B W 
+X W B B 
+W P P B 
+
+W R R B 
+B R R B 
+B X B W 
+W W B B 
+P P X B 
+
+W R R B 
+X R R B 
+B W B W 
+B X B B 
+W P P B 
+
+W R R B 
+B R R B 
+B W X W 
+W X B B 
+P P B B 
+
+W R R B 
+B R R B 
+B W W X 
+X W B B 
+P P B B 
+
+W R R B 
+B R R B 
+B X W W 
+X W B B 
+P P B B 
+
+W R R B 
+X R R B 
+B W W B 
+B W B B 
+P P B X 
+
+W R R X 
+X R R B 
+B W W B 
+B W B B 
+P P B B 
+
+W R R B 
+X R R B 
+B W W W 
+B X B B 
+P P B B 
+
+W R R B 
+W R R B 
+B W B W 
+B X B B 
+P P X B 
+
+W R R B 
+W R R B 
+B X X W 
+B W B B 
+P P B B 
+
+R R X B 
+R R X B 
+W B B B 
+W B B B 
+P P W W 
+
+R R X B 
+R R B B 
+W B B B 
+X B W B 
+W P P W 
+
+R R B B 
+R R B B 
+X W B B 
+W X B B 
+P P W W 
+
+R R B B 
+R R B B 
+W X B B 
+X W B B 
+P P W W 
+
+R R B B 
+R R B B 
+X B X B 
+W B W B 
+W P P W 
+
+X R R B 
+X R R B 
+W B B W 
+W B B B 
+P P W B 
+
+R R B B 
+R R B B 
+W W B W 
+X X B B 
+P P W B 
+
+R R B B 
+R R B B 
+X X B W 
+W W B B 
+P P W B 
+
+R R B B 
+R R B B 
+X W B W 
+X W B B 
+P P W B 
+
+R R B X 
+R R B B 
+W B W B 
+W B X B 
+W P P B 
+
+R R B B 
+R R B B 
+W B X W 
+W B X B 
+W P P B 
+
+R R B B 
+R R B B 
+X B W B 
+W B X B 
+W W P P 
+
+X R R B 
+X R R B 
+W W B B 
+W B B B 
+W B P P 
+
+R R X X 
+R R B B 
+W B B B 
+W B W B 
+W P P B 
+
+R R X B 
+R R B B 
+X B B B 
+W B W B 
+W W P P 
+
+W R R B 
+B R R B 
+B W B B 
+W W B B 
+X P P X 
+
+W R R B 
+B R R B 
+B X B B 
+X W B B 
+W W P P 
+
+W R R B 
+B R R B 
+B X B B 
+W W B B 
+W X P P 
+
+W R R B 
+B R R B 
+B W B B 
+W X B B 
+W P P X 
+
+W R R B 
+B R R B 
+B W B X 
+X W B B 
+W P P B 
+
+W R R X 
+X R R B 
+B W B B 
+B W B B 
+W P P B 
+
+W R R B 
+W R R B 
+B W B B 
+B W B B 
+X X P P 
+
+W R R B 
+W R R B 
+B W B B 
+B X B B 
+W X P P 
+
+W R R B 
+W R R B 
+B X B B 
+B X B B 
+W W P P 
+
+W R R B 
+W R R B 
+B X B B 
+B W B B 
+W P P X 
+
+W R R B 
+W R R B 
+W X B B 
+B W B B 
+B X P P 
+
+W R R B 
+W R R B 
+X W B B 
+B W B B 
+B P P X 
+
+W R R B 
+X R R B 
+W W B X 
+B W B B 
+B P P B 
+
+X R R X 
+W R R B 
+W W B B 
+B W B B 
+B P P B 
+
+B R R B 
+B R R B 
+W W B B 
+W W B B 
+X X P P 
+
+B R R B 
+B R R B 
+W W B B 
+W X B B 
+W X P P 
+
+B R R B 
+B R R B 
+W W B B 
+X W B B 
+W P P X 
+
+B R R B 
+B R R B 
+W X B B 
+W W B B 
+W P P X 
+
+B R R B 
+B R R B 
+X W B X 
+W W B B 
+W P P B 
+
+X R R X 
+B R R B 
+B W B B 
+W W B B 
+W P P B 
+
+B R R B 
+B R R B 
+W W B W 
+W X B B 
+P P X B 
+
+B R R B 
+B R R B 
+W X X W 
+W W B B 
+P P B B 
+
+B R R B 
+B R R B 
+W W X W 
+X W B B 
+P P B B 
+
+B R R B 
+B R R B 
+X W W X 
+W W B B 
+P P B B 
+
+B R R B 
+B R R B 
+X X W W 
+W W B B 
+P P B B 
+
+X R R B 
+B R R B 
+B W W B 
+W W B B 
+P P B X 
+
+X R R X 
+B R R B 
+B W W B 
+W W B B 
+P P B B 
+
+X R R B 
+B R R B 
+B W W W 
+W X B B 
+P P B B 
+
+R R B B 
+R R B B 
+W B W B 
+X B W B 
+P P X W 
+
+R R B B 
+R R B B 
+X B W B 
+W B X B 
+P P W W 
+
+R R B B 
+R R B B 
+X B W B 
+W B W B 
+X P P W 
+
+B X W B 
+B R R B 
+W R R B 
+W X B B 
+P P B W 
+
+X R R B 
+X R R B 
+W B W B 
+W B B B 
+P P B W 
+
+B W W B 
+B R R B 
+X R R B 
+X W B B 
+P P B W 
+
+X W W B 
+B R R B 
+B R R B 
+W X B B 
+P P B W 
+
+W R R B 
+X R R B 
+B X B W 
+B W B B 
+W P P B 
+
+W R R B 
+B R R B 
+B X B W 
+W X B B 
+W P P B 
+
+W R R B 
+B R R B 
+B X X W 
+W W B B 
+P P B B 
+
+X R R B 
+W R R B 
+B W B W 
+B X B B 
+W P P B 
+
+W R R B 
+B R R B 
+B W W X 
+W X B B 
+P P B B 
+
+W R R B 
+B R R B 
+B X W W 
+W X B B 
+P P B B 
+
+W R R B 
+B R R B 
+B W W B 
+X W B B 
+P P B X 
+
+W R R X 
+B R R B 
+B W W B 
+X W B B 
+P P B B 
+
+W R R B 
+B R R B 
+B W W W 
+X X B B 
+P P B B 
+
+W R R B 
+W R R B 
+B W X W 
+B X B B 
+P P B B 
+
+W X X B 
+W R R B 
+B R R W 
+B W B B 
+P P B B 
+
+W R R B 
+W R R B 
+B X W X 
+B W B B 
+P P B B 
+
+X R R B 
+X R R B 
+W B B B 
+W B B B 
+P P W W 
+
+R R X B 
+R R B B 
+X B B B 
+W B W B 
+W P P W 
+
+R R B B 
+R R B B 
+W W B B 
+X X B B 
+P P W W 
+
+R R B B 
+R R B B 
+X X B B 
+W W B B 
+P P W W 
+
+R R B B 
+R R B B 
+X W B B 
+X W B B 
+P P W W 
+
+X R R B 
+W R R B 
+X B B W 
+W B B B 
+P P W B 
+
+X X B B 
+R R B B 
+R R B W 
+W W B B 
+P P W B 
+
+R R X B 
+R R B B 
+W B B W 
+W B X B 
+W P P B 
+
+R R B B 
+R R B B 
+W X B W 
+W X B B 
+W P P B 
+
+X R R B 
+W R R B 
+X W B B 
+W B B B 
+W B P P 
+
+W R R B 
+B R R B 
+B W B B 
+W W B B 
+P P X X 
+
+W R R B 
+B R R B 
+B W B X 
+W W B B 
+X P P B 
+
+W R R B 
+B R R B 
+B X B B 
+W X B B 
+W W P P 
+
+W R R B 
+B R R B 
+B X B B 
+W W B B 
+W P P X 
+
+W R R B 
+B R R B 
+B W B X 
+W X B B 
+W P P B 
+
+W R R X 
+B R R B 
+B W B B 
+X W B B 
+W P P B 
+
+W R R B 
+W R R B 
+B W B B 
+B W B B 
+X P P X 
+
+W R R B 
+W R R B 
+B W B B 
+B X B B 
+W P P X 
+
+W R R B 
+W R R B 
+X B B B 
+X B B B 
+W W P P 
+
+W R R B 
+W R R B 
+B X B X 
+B W B B 
+W P P B 
+
+W R R B 
+W R R B 
+W W B B 
+B X B B 
+B X P P 
+
+W R R B 
+W R R B 
+W X B B 
+B W B B 
+B P P X 
+
+W R R B 
+W R R B 
+X W B X 
+B W B B 
+B P P B 
+
+W R R X 
+X R R B 
+W W B B 
+B W B B 
+B P P B 
+
+B R R B 
+B R R B 
+W W B B 
+W W B B 
+X P P X 
+
+B R R B 
+B R R B 
+W W B B 
+W X B B 
+W P P X 
+
+B R R B 
+B R R B 
+W W B X 
+X W B B 
+W P P B 
+
+B R R B 
+B R R B 
+W X B X 
+W W B B 
+W P P B 
+
+B R R X 
+B R R B 
+X W B B 
+W W B B 
+W P P B 
+
+B R R B 
+B R R B 
+W W X W 
+W X B B 
+P P B B 
+
+B X X B 
+B R R B 
+W R R W 
+W W B B 
+P P B B 
+
+B R R B 
+B R R B 
+W X W X 
+W W B B 
+P P B B 
+
+B R R B 
+B R R B 
+W W W X 
+X W B B 
+P P B B 
+
+B R R B 
+B R R B 
+W X W W 
+X W B B 
+P P B B 
+
+B R R B 
+B R R B 
+X W W B 
+W W B B 
+P P B X 
+
+B R R X 
+B R R B 
+X W W B 
+W W B B 
+P P B B 
+
+B R R B 
+B R R B 
+X W W W 
+W X B B 
+P P B B 
+
+X R R B 
+B R R B 
+B W W W 
+X W B B 
+P P B B 
+
+R R B B 
+R R B B 
+W B W B 
+X B X B 
+P P W W 
+
+R R B B 
+R R B B 
+W B W B 
+X B W B 
+X P P W 
+
+R R B B 
+R R B B 
+X B X B 
+W B W B 
+P P W W 
+
+R R B B 
+R R B B 
+X B W B 
+X B W B 
+W P P W 
+
+R R X B 
+R R X B 
+W B W B 
+W B B B 
+P P B W 
+
+B W W B 
+B R R B 
+X R R B 
+W X B B 
+P P B W 
+
+X R R B 
+W R R B 
+B X B W 
+B W B B 
+W P P B 
+
+W X X B 
+B R R B 
+B R R W 
+W W B B 
+P P B B 
+
+W R R B 
+B R R B 
+B X W X 
+W W B B 
+P P B B 
+
+W R R B 
+B R R B 
+B W W B 
+W X B B 
+P P B X 
+
+W R R X 
+B R R B 
+B W W B 
+W X B B 
+P P B B 
+
+W R R B 
+W R R B 
+B W W X 
+B X B B 
+P P B B 
+
+W R R B 
+W R R B 
+B X W W 
+B X B B 
+P P B B 
+
+W R R B 
+W R R B 
+B R R W 
+B W B B 
+P P B B 
+
+X W X B 
+W R R B 
+B R R W 
+B W B B 
+P P B B 
+
+W R R B 
+W R R B 
+B W X X 
+B W B B 
+P P B B 
+
+W R R B 
+W R R B 
+B X W B 
+B W B B 
+P P B X 
+
+W R R X 
+W R R B 
+B X W B 
+B W B B 
+P P B B 
+
+X R R B 
+W R R B 
+X B B B 
+W B B B 
+P P W W 
+
+X X B B 
+R R B B 
+R R B B 
+W W B B 
+P P W W 
+
+W R R B 
+X R R B 
+X B B W 
+W B B B 
+P P W B 
+
+X R R B 
+W R R B 
+W B B W 
+X B B B 
+P P W B 
+
+R R B B 
+R R B B 
+R R B W 
+W W B B 
+P P W B 
+
+R R X B 
+R R X B 
+W B B W 
+W B B B 
+W P P B 
+
+R R B B 
+R R B B 
+X W B W 
+W X B B 
+W P P B 
+
+R R B B 
+R R B B 
+W X B W 
+X W B B 
+W P P B 
+
+W R R B 
+X R R B 
+X W B B 
+W B B B 
+W B P P 
+
+X R R B 
+W R R B 
+W W B B 
+X B B B 
+W B P P 
+
+X R R B 
+W R R B 
+W X B B 
+W B B B 
+W B P P 
+
+W R R B 
+B R R B 
+B W X B 
+W W B B 
+P P B X 
+
+W R R B 
+B R R B 
+B W B X 
+W W B B 
+P P X B 
+
+W R R X 
+B R R B 
+B W B B 
+W W B B 
+X P P B 
+
+W R R B 
+B R R B 
+B X B X 
+W W B B 
+W P P B 
+
+W R R X 
+B R R B 
+B W B B 
+W X B B 
+W P P B 
+
+W R R B 
+W R R B 
+B W B B 
+B W B B 
+P P X X 
+
+W R R B 
+W R R B 
+B W B X 
+B W B B 
+X P P B 
+
+W R R B 
+W R R B 
+B W B X 
+B X B B 
+W P P B 
+
+W R R B 
+X R R B 
+W B B B 
+X B B B 
+W W P P 
+
+W R R B 
+W R R B 
+X B B B 
+W B B B 
+X W P P 
+
+W R R X 
+W R R B 
+B X B B 
+B W B B 
+W P P B 
+
+W R R B 
+W R R B 
+W W B B 
+X B B B 
+X B P P 
+
+W R R B 
+W R R B 
+W W B B 
+B X B B 
+B P P X 
+
+W R R B 
+W R R B 
+W X B X 
+B W B B 
+B P P B 
+
+W R R X 
+W R R B 
+X W B B 
+B W B B 
+B P P B 
+
+B R R B 
+B R R B 
+W W B B 
+W W B B 
+P P X X 
+
+B R R B 
+B R R B 
+W W B X 
+W W B B 
+X P P B 
+
+B R R B 
+B R R B 
+W W B X 
+W X B B 
+W P P B 
+
+B R R X 
+B R R B 
+W W B B 
+X W B B 
+W P P B 
+
+B R R X 
+B R R B 
+W X B B 
+W W B B 
+W P P B 
+
+B R R B 
+B R R B 
+W W W X 
+W X B B 
+P P B B 
+
+B R R B 
+B R R B 
+W X W W 
+W X B B 
+P P B B 
+
+B R R B 
+B R R B 
+W R R W 
+W W B B 
+P P B B 
+
+B R R B 
+B R R B 
+W W X X 
+W W B B 
+P P B B 
+
+B R R B 
+B R R B 
+W X W B 
+W W B B 
+P P B X 
+
+B R R X 
+B R R B 
+W X W B 
+W W B B 
+P P B B 
+
+B R R B 
+B R R B 
+W W W B 
+X W B B 
+P P B X 
+
+B R R X 
+B R R B 
+W W W B 
+X W B B 
+P P B B 
+
+B R R B 
+B R R B 
+W W W W 
+X X B B 
+P P B B 
+
+B R R B 
+B R R B 
+X W W W 
+X W B B 
+P P B B 
+
+X R R B 
+X R R B 
+B W W W 
+B W B B 
+P P B B 
+
+R R B B 
+R R B B 
+W B X B 
+X B W B 
+P P W W 
+
+R R X B 
+R R B B 
+X B B B 
+W B W B 
+P P W W 
+
+R R X B 
+R R W B 
+W B X B 
+W B B B 
+P P B W 
+
+B W W B 
+B R R B 
+W R R B 
+X X B B 
+P P B W 
+
+W R R B 
+B R R B 
+B R R W 
+W W B B 
+P P B B 
+
+X W X B 
+B R R B 
+B R R W 
+W W B B 
+P P B B 
+
+W R R B 
+B R R B 
+B W X X 
+W W B B 
+P P B B 
+
+W R R B 
+B R R B 
+B X W B 
+W W B B 
+P P B X 
+
+W R R X 
+B R R B 
+B X W B 
+W W B B 
+P P B B 
+
+W R R B 
+W R R B 
+B W W B 
+B X B B 
+P P B X 
+
+W R R X 
+W R R B 
+B W W B 
+B X B B 
+P P B B 
+
+W R R B 
+W R R B 
+X B W W 
+X B B B 
+P P B B 
+
+W W X B 
+X R R B 
+B R R W 
+B W B B 
+P P B B 
+
+X X W B 
+W R R B 
+B R R W 
+B W B B 
+P P B B 
+
+W R R B 
+W R R B 
+B W B X 
+B W B B 
+P P X B 
+
+W R R B 
+W R R B 
+B W X B 
+B W B B 
+P P B X 
+
+W R R X 
+W R R B 
+B W X B 
+B W B B 
+P P B B 
+
+W R R B 
+X R R B 
+X B B B 
+W B B B 
+P P W W 
+
+X R R B 
+W R R B 
+W B B B 
+X B B B 
+P P W W 
+
+R R B B 
+R R B B 
+R R B B 
+W W B B 
+P P W W 
+
+W R R B 
+X R R B 
+W B B W 
+X B B B 
+P P W B 
+
+X R R B 
+X R R B 
+W B B W 
+W B B B 
+W P P B 
+
+R R B B 
+R R B B 
+W W B W 
+X X B B 
+W P P B 
+
+R R B B 
+R R B B 
+X X B W 
+W W B B 
+W P P B 
+
+R R B B 
+R R B B 
+X W B W 
+X W B B 
+W P P B 
+
+R R B B 
+R R B B 
+W X B W 
+W W B B 
+X P P B 
+
+W R R B 
+X R R B 
+W W B B 
+X B B B 
+W B P P 
+
+W R R B 
+X R R B 
+W X B B 
+W B B B 
+W B P P 
+
+X R R B 
+W R R B 
+W W B B 
+W B B B 
+X B P P 
+
+X R R B 
+W R R B 
+W B B B 
+W B B B 
+W X P P 
+
+W R R X 
+B R R B 
+B W B B 
+W W B B 
+P P X B 
+
+W R R X 
+B R R B 
+B X B B 
+W W B B 
+W P P B 
+
+W R R X 
+W R R B 
+B W B B 
+B W B B 
+X P P B 
+
+W R R X 
+W R R B 
+B W B B 
+B X B B 
+W P P B 
+
+X R R B 
+W R R B 
+W B B B 
+X B B B 
+W W P P 
+
+W R R B 
+X R R B 
+W B B B 
+W B B B 
+X W P P 
+
+W R R B 
+X R R B 
+X B B B 
+W B B B 
+W W P P 
+
+W R R B 
+W R R B 
+W B B B 
+X B B B 
+X W P P 
+
+W R R B 
+W R R B 
+X B B B 
+W B B B 
+W X P P 
+
+W R R B 
+W R R B 
+X W B B 
+W B B B 
+X B P P 
+
+W R R B 
+W R R B 
+W W B X 
+B X B B 
+B P P B 
+
+W R R X 
+W R R B 
+W X B B 
+B W B B 
+B P P B 
+
+B R R B 
+B R R B 
+W W X B 
+W W B B 
+P P B X 
+
+B R R B 
+B R R B 
+W W B X 
+W W B B 
+P P X B 
+
+B R R X 
+B R R B 
+W W B B 
+W W B B 
+X P P B 
+
+B R R X 
+B R R B 
+W W B B 
+W X B B 
+W P P B 
+
+B R R B 
+B R R B 
+W W W B 
+W X B B 
+P P B X 
+
+B R R X 
+B R R B 
+W W W B 
+W X B B 
+P P B B 
+
+B R R X 
+B R R B 
+W W X B 
+W W B B 
+P P B B 
+
+R R X B 
+R R X B 
+B W W W 
+B W B B 
+P P B B 
+
+R R X B 
+R R B B 
+W B B B 
+X B W B 
+P P W W 
+
+R R W B 
+R R X B 
+W B X B 
+W B B B 
+P P B W 
+
+R R X B 
+R R W B 
+W B B B 
+W B B B 
+P P X W 
+
+B W X B 
+B R R B 
+X R R W 
+W W B B 
+P P B B 
+
+X X W B 
+B R R B 
+B R R W 
+W W B B 
+P P B B 
+
+W R R X 
+B R R B 
+B W X B 
+W W B B 
+P P B B 
+
+W R R B 
+X R R B 
+W B W W 
+X B B B 
+P P B B 
+
+W X W B 
+X R R B 
+B R R W 
+B W B B 
+P P B B 
+
+W W X B 
+B R R B 
+B R R W 
+X W B B 
+P P B B 
+
+W R R X 
+W R R B 
+B W B B 
+B W B B 
+P P X B 
+
+W R R B 
+X R R B 
+W B B B 
+X B B B 
+P P W W 
+
+W R R B 
+W R R B 
+X B B W 
+X B B B 
+P P W B 
+
+X R R B 
+W R R B 
+X B B W 
+W B B B 
+W P P B 
+
+R R B B 
+R R B B 
+W W B W 
+W X B B 
+X P P B 
+
+X X B B 
+R R B B 
+R R B W 
+W W B B 
+W P P B 
+
+R R B B 
+R R B B 
+X W B W 
+W W B B 
+X P P B 
+
+R R B B 
+R R B B 
+W X B W 
+W W B B 
+P P X B 
+
+W R R B 
+W R R B 
+X W B B 
+X B B B 
+W B P P 
+
+W R R B 
+X R R B 
+W W B B 
+W B B B 
+X B P P 
+
+W R R B 
+W R R B 
+X X B B 
+W B B B 
+W B P P 
+
+W R R B 
+X R R B 
+W B B B 
+W B B B 
+W X P P 
+
+X R R B 
+W R R B 
+W B B B 
+W B B B 
+W P P X 
+
+X R R B 
+W R R B 
+W B B B 
+W B B B 
+X W P P 
+
+X R R B 
+W R R B 
+X B B B 
+W B B B 
+W W P P 
+
+W R R B 
+W R R B 
+W B B B 
+X B B B 
+W X P P 
+
+W R R B 
+W R R B 
+X B B B 
+W B B B 
+W P P X 
+
+W R R B 
+W R R B 
+W X B B 
+W B B B 
+X B P P 
+
+W R R X 
+W R R B 
+W W B B 
+B X B B 
+B P P B 
+
+B R R X 
+B R R B 
+W W B B 
+W W B B 
+P P X B 
+
+R R X B 
+R R W B 
+B W X W 
+B W B B 
+P P B B 
+
+R R W B 
+R R X B 
+W B B B 
+W B B B 
+P P X W 
+
+R R X B 
+R R W B 
+W B B B 
+W B B B 
+P P W X 
+
+R R X B 
+R R W B 
+W B B B 
+W B B B 
+X P P W 
+
+B X W B 
+B R R B 
+X R R W 
+W W B B 
+P P B B 
+
+B W X B 
+B R R B 
+W R R W 
+X W B B 
+P P B B 
+
+X R R B 
+W R R B 
+W B W W 
+X B B B 
+P P B B 
+
+W R R B 
+X R R B 
+X B W W 
+W B B B 
+P P B B 
+
+X W W B 
+X R R B 
+B R R W 
+B W B B 
+P P B B 
+
+W X W B 
+B R R B 
+B R R W 
+X W B B 
+P P B B 
+
+W W X B 
+B R R B 
+B R R W 
+W X B B 
+P P B B 
+
+W R R B 
+W R R B 
+X B B B 
+X B B B 
+P P W W 
+
+W R R B 
+X R R B 
+X B B W 
+W B B B 
+W P P B 
+
+X R R B 
+W R R B 
+W B B W 
+X B B B 
+W P P B 
+
+R R B B 
+R R B B 
+W W B W 
+X W B B 
+X P P B 
+
+R R B B 
+R R B B 
+W W B W 
+W X B B 
+P P X B 
+
+R R B B 
+R R B B 
+R R B W 
+W W B B 
+W P P B 
+
+R R B B 
+R R B B 
+X W B W 
+W W B B 
+P P X B 
+
+R R B B 
+R R B B 
+W X X W 
+W W B B 
+P P B B 
+
+W R R B 
+W R R B 
+W X B B 
+X B B B 
+W B P P 
+
+W R R B 
+X R R B 
+W B B B 
+W B B B 
+W P P X 
+
+X R R B 
+W R R B 
+W B B X 
+W B B B 
+W P P B 
+
+X R R B 
+X R R B 
+W B B B 
+W B B B 
+W W P P 
+
+W R R B 
+W R R B 
+W B B B 
+W B B B 
+X X P P 
+
+W R R B 
+W R R B 
+W B B B 
+X B B B 
+W P P X 
+
+W R R B 
+W R R B 
+X B B X 
+W B B B 
+W P P B 
+
+R R W B 
+R R X B 
+B W X W 
+B W B B 
+P P B B 
+
+R R X B 
+R R W B 
+B W B W 
+B W B B 
+P P X B 
+
+R R X B 
+R R W B 
+B W W X 
+B W B B 
+P P B B 
+
+R R X B 
+R R W B 
+B X W W 
+B W B B 
+P P B B 
+
+R R W B 
+R R B B 
+W B B B 
+W B X B 
+P P X W 
+
+R R W B 
+R R X B 
+W B B B 
+W B B B 
+P P W X 
+
+R R W B 
+R R X B 
+W B B B 
+W B B B 
+X P P W 
+
+R R X B 
+R R W B 
+W B B X 
+W B B B 
+P P W B 
+
+R R X B 
+R R W B 
+W B B B 
+X B B B 
+W P P W 
+
+B X W B 
+B R R B 
+W R R W 
+X W B B 
+P P B B 
+
+B W X B 
+B R R B 
+W R R W 
+W X B B 
+P P B B 
+
+X R R B 
+W R R B 
+X B W W 
+W B B B 
+P P B B 
+
+X W W B 
+B R R B 
+B R R W 
+X W B B 
+P P B B 
+
+W X W B 
+B R R B 
+B R R W 
+W X B B 
+P P B B 
+
+W R R B 
+X R R B 
+W B B W 
+X B B B 
+W P P B 
+
+X R R B 
+W R R B 
+W B B W 
+W B B B 
+X P P B 
+
+R R B B 
+R R B B 
+W W B W 
+X W B B 
+P P X B 
+
+R R B B 
+R R B B 
+W W X W 
+W X B B 
+P P B B 
+
+R R B B 
+R R B B 
+X W X W 
+W W B B 
+P P B B 
+
+R R X B 
+R R B B 
+W X B W 
+W W B B 
+P P B B 
+
+R R B B 
+R R B B 
+W X W X 
+W W B B 
+P P B B 
+
+W R R B 
+X R R B 
+W B B X 
+W B B B 
+W P P B 
+
+X R R X 
+W R R B 
+W B B B 
+W B B B 
+W P P B 
+
+R R X B 
+R R X B 
+W B B B 
+W B B B 
+W W P P 
+
+W R R B 
+W R R B 
+W B B B 
+W B B B 
+X P P X 
+
+W R R B 
+W R R B 
+W B B X 
+X B B B 
+W P P B 
+
+W R R X 
+W R R B 
+X B B B 
+W B B B 
+W P P B 
+
+R R W B 
+R R X B 
+B W B W 
+B W B B 
+P P X B 
+
+R R W B 
+R R X B 
+B W W X 
+B W B B 
+P P B B 
+
+R R W B 
+R R X B 
+B X W W 
+B W B B 
+P P B B 
+
+R R X B 
+R R W B 
+B W B W 
+B W B B 
+X P P B 
+
+R R X B 
+R R W B 
+B W W B 
+B W B B 
+P P B X 
+
+R R X X 
+R R W B 
+B W W B 
+B W B B 
+P P B B 
+
+R R X B 
+R R W B 
+B W W W 
+B X B B 
+P P B B 
+
+R R W B 
+R R B B 
+W B B B 
+W B X B 
+P P W X 
+
+R R W B 
+R R B B 
+W B B B 
+W B X B 
+X P P W 
+
+R R W B 
+R R X B 
+W B B X 
+W B B B 
+P P W B 
+
+R R W B 
+R R X B 
+W B B B 
+X B B B 
+W P P W 
+
+R R X X 
+R R W B 
+W B B B 
+W B B B 
+P P W B 
+
+R R X B 
+R R W B 
+X B B B 
+W B B B 
+W P P W 
+
+B X W B 
+B R R B 
+W R R W 
+W X B B 
+P P B B 
+
+X R R B 
+X R R B 
+W B W W 
+W B B B 
+P P B B 
+
+B W W B 
+B R R B 
+X R R W 
+X W B B 
+P P B B 
+
+X W W B 
+B R R B 
+B R R W 
+W X B B 
+P P B B 
+
+W R R B 
+W R R B 
+X B B W 
+X B B B 
+W P P B 
+
+W R R B 
+X R R B 
+W B B W 
+W B B B 
+X P P B 
+
+X R R B 
+W R R B 
+W B B W 
+W B B B 
+P P X B 
+
+R R B B 
+R R B B 
+W W X W 
+X W B B 
+P P B B 
+
+R R X B 
+R R B B 
+W W B W 
+W X B B 
+P P B B 
+
+R R B B 
+R R B B 
+W W W X 
+W X B B 
+P P B B 
+
+R R B B 
+R R B B 
+W X W W 
+W X B B 
+P P B B 
+
+R R X B 
+R R B B 
+X W B W 
+W W B B 
+P P B B 
+
+R R B B 
+R R B B 
+X W W X 
+W W B B 
+P P B B 
+
+R R B B 
+R R B B 
+X X W W 
+W W B B 
+P P B B 
+
+R R B B 
+R R B B 
+W W X X 
+W W B B 
+P P B B 
+
+R R B B 
+R R B B 
+W X W B 
+W W B B 
+P P B X 
+
+R R B X 
+R R B B 
+W X W B 
+W W B B 
+P P B B 
+
+W R R X 
+X R R B 
+W B B B 
+W B B B 
+W P P B 
+
+R R X B 
+R R B B 
+W B B B 
+W B X B 
+W W P P 
+
+W R R B 
+W R R B 
+W B B B 
+W B B B 
+P P X X 
+
+W R R B 
+W R R B 
+W B B X 
+W B B B 
+X P P B 
+
+W R R X 
+W R R B 
+W B B B 
+X B B B 
+W P P B 
+
+R R W B 
+R R B B 
+B W B W 
+B W X B 
+P P X B 
+
+R R W B 
+R R X B 
+B W B W 
+B W B B 
+X P P B 
+
+R R W B 
+R R W B 
+B W X X 
+B W B B 
+P P B B 
+
+R R W B 
+R R X B 
+B W W B 
+B W B B 
+P P B X 
+
+R R W X 
+R R X B 
+B W W B 
+B W B B 
+P P B B 
+
+R R W B 
+R R W B 
+B X X W 
+B W B B 
+P P B B 
+
+R R W B 
+R R X B 
+B W W W 
+B X B B 
+P P B B 
+
+R R X B 
+R R W B 
+X W B W 
+B W B B 
+B P P B 
+
+R R W B 
+R R B B 
+W B B B 
+W B W B 
+P P X X 
+
+R R W B 
+R R B B 
+W B B X 
+W B X B 
+P P W B 
+
+R R W B 
+R R B B 
+W B B B 
+X B X B 
+W P P W 
+
+R R W X 
+R R X B 
+W B B B 
+W B B B 
+P P W B 
+
+R R W B 
+R R X B 
+X B B B 
+W B B B 
+W P P W 
+
+R R X B 
+R R X B 
+W B W W 
+W B B B 
+P P B B 
+
+B W W B 
+B R R B 
+X R R W 
+W X B B 
+P P B B 
+
+W R R B 
+W R R B 
+X B B W 
+W B B B 
+X P P B 
+
+W R R B 
+X R R B 
+W B B W 
+W B B B 
+P P X B 
+
+X R R B 
+W R R B 
+W B X W 
+W B B B 
+P P B B 
+
+R R X B 
+R R B B 
+W W B W 
+X W B B 
+P P B B 
+
+R R B B 
+R R B B 
+W W W X 
+X W B B 
+P P B B 
+
+R R B B 
+R R B B 
+W X W W 
+X W B B 
+P P B B 
+
+R R B B 
+R R B B 
+W W W B 
+W X B B 
+P P B X 
+
+R R B X 
+R R B B 
+W W W B 
+W X B B 
+P P B B 
+
+R R B B 
+R R B B 
+X W W W 
+W X B B 
+P P B B 
+
+R R B B 
+R R B B 
+X W W B 
+W W B B 
+P P B X 
+
+R R B X 
+R R B B 
+X W W B 
+W W B B 
+P P B B 
+
+X X B B 
+R R B B 
+R R W W 
+W W B B 
+P P B B 
+
+R R B B 
+R R B B 
+W W B X 
+W W B B 
+P P X B 
+
+R R X B 
+R R B B 
+W W B X 
+W W B B 
+P P B B 
+
+R R B B 
+R R B B 
+W W X B 
+W W B B 
+P P B X 
+
+R R B X 
+R R B B 
+W W X B 
+W W B B 
+P P B B 
+
+R R B B 
+R R B B 
+W B X B 
+W B X B 
+W W P P 
+
+W R R B 
+W R R B 
+W B X B 
+W B B B 
+P P B X 
+
+W R R B 
+W R R B 
+W B B X 
+W B B B 
+P P X B 
+
+W R R X 
+W R R B 
+W B B B 
+W B B B 
+X P P B 
+
+R R W B 
+R R B B 
+B W B W 
+B X W B 
+P P X B 
+
+R R W B 
+R R B B 
+B W B W 
+B W X B 
+X P P B 
+
+R R W B 
+R R X B 
+X W B W 
+B W B B 
+B P P B 
+
+R R W B 
+R R W B 
+B W B X 
+B W B B 
+P P X B 
+
+R R W B 
+R R W B 
+B X W X 
+B W B B 
+P P B B 
+
+R R W B 
+R R W B 
+B W X B 
+B W B B 
+P P B X 
+
+R R W X 
+R R W B 
+B W X B 
+B W B B 
+P P B B 
+
+R R X W 
+R R X B 
+B W W B 
+B W B B 
+P P B B 
+
+R R W B 
+R R W B 
+B W X W 
+B X B B 
+P P B B 
+
+R R W B 
+R R W B 
+B X B W 
+B W B B 
+P P X B 
+
+R R X B 
+R R W B 
+W X B W 
+B W B B 
+B P P B 
+
+R R W B 
+R R B B 
+W B B B 
+W B W B 
+X P P X 
+
+R R W B 
+R R B B 
+W B B X 
+W B W B 
+P P X B 
+
+R R W X 
+R R B B 
+W B B B 
+W B X B 
+P P W B 
+
+R R W B 
+R R B B 
+X B B B 
+W B X B 
+W P P W 
+
+R R X W 
+R R X B 
+W B B B 
+W B B B 
+P P W B 
+
+R R X B 
+R R W B 
+W B X W 
+W B B B 
+P P B B 
+
+B W W B 
+B R R B 
+W R R W 
+X X B B 
+P P B B 
+
+W R R B 
+W R R B 
+W B B W 
+X B B B 
+X P P B 
+
+W R R B 
+W R R B 
+X B B W 
+W B B B 
+P P X B 
+
+W R R B 
+X R R B 
+W B X W 
+W B B B 
+P P B B 
+
+X R R B 
+W R R B 
+W B W X 
+W B B B 
+P P B B 
+
+R R B B 
+R R B B 
+W W W B 
+X W B B 
+P P B X 
+
+R R B X 
+R R B B 
+W W W B 
+X W B B 
+P P B B 
+
+R R B B 
+R R B B 
+W W W W 
+X X B B 
+P P B B 
+
+R R B B 
+R R B B 
+X W W W 
+X W B B 
+P P B B 
+
+R R B B 
+R R B B 
+R R W W 
+W W B B 
+P P B B 
+
+R R B B 
+R R B B 
+W W B B 
+W W B B 
+P P X X 
+
+R R B X 
+R R B B 
+W W B B 
+W W B B 
+P P X B 
+
+R R B B 
+R R B B 
+W W B X 
+W W B B 
+X P P B 
+
+R R X B 
+R R B B 
+W W B B 
+W W B B 
+P P B X 
+
+R R X X 
+R R B B 
+W W B B 
+W W B B 
+P P B B 
+
+R R B B 
+R R B B 
+W X B B 
+W X B B 
+W W P P 
+
+W R R B 
+W R R B 
+W B X X 
+W B B B 
+P P B B 
+
+W R R X 
+W R R B 
+W B B B 
+W B B B 
+P P X B 
+
+R R W B 
+R R B B 
+B X B W 
+B W W B 
+P P X B 
+
+R R W B 
+R R B B 
+B W B W 
+B X X B 
+P P W B 
+
+R R W B 
+R R B B 
+B W B W 
+B X W B 
+X P P B 
+
+R R W B 
+R R B B 
+X W B W 
+B W X B 
+B P P B 
+
+R R W B 
+R R X B 
+W X B W 
+B W B B 
+B P P B 
+
+R R W B 
+R R W B 
+B W B B 
+B W B B 
+P P X X 
+
+R R W X 
+R R W B 
+B W B B 
+B W B B 
+P P X B 
+
+R R W B 
+R R W B 
+B W B X 
+B W B B 
+X P P B 
+
+R R W B 
+R R W B 
+B W W X 
+B X B B 
+P P B B 
+
+R R W B 
+R R W B 
+B X W B 
+B W B B 
+P P B X 
+
+R R W X 
+R R W B 
+B X W B 
+B W B B 
+P P B B 
+
+R R X W 
+R R W B 
+B W X B 
+B W B B 
+P P B B 
+
+X R R W 
+X R R B 
+B W W B 
+B W B B 
+P P B B 
+
+R R W B 
+R R W B 
+B W B W 
+B X B B 
+P P X B 
+
+R R W B 
+R R W B 
+B X W W 
+B X B B 
+P P B B 
+
+R R W B 
+R R W B 
+B X B W 
+B W B B 
+X P P B 
+
+R R X B 
+R R W B 
+W W B W 
+B X B B 
+B P P B 
+
+R R W B 
+R R B B 
+W B B B 
+X B W B 
+W P P X 
+
+R R W B 
+R R B B 
+W B B X 
+W B W B 
+X P P B 
+
+R R W B 
+R R B B 
+W B B B 
+W B W B 
+X X P P 
+
+R R W X 
+R R B B 
+W B B B 
+W B W B 
+P P X B 
+
+R R X W 
+R R B B 
+W B B B 
+W B X B 
+P P W B 
+
+X R R W 
+X R R B 
+W B B B 
+W B B B 
+P P W B 
+
+R R W B 
+R R X B 
+W B X W 
+W B B B 
+P P B B 
+
+R R X B 
+R R W B 
+W B B W 
+W B B B 
+P P X B 
+
+R R X B 
+R R W B 
+W B W X 
+W B B B 
+P P B B 
+
+W R R B 
+W R R B 
+W B B W 
+X B B B 
+P P X B 
+
+W R R B 
+W R R B 
+X B X W 
+W B B B 
+P P B B 
+
+W R R B 
+X R R B 
+W B W X 
+W B B B 
+P P B B 
+
+X R R B 
+W R R B 
+W B W B 
+W B B B 
+P P B X 
+
+X R R X 
+W R R B 
+W B W B 
+W B B B 
+P P B B 
+
+R R B B 
+R R B B 
+W W B B 
+W W B B 
+X P P X 
+
+R R B X 
+R R B B 
+W W B B 
+W W B B 
+X P P B 
+
+R R B B 
+R R B B 
+W W B X 
+X W B B 
+W P P B 
+
+R R B B 
+R R B B 
+X W B B 
+W X B B 
+W W P P 
+
+R R B B 
+R R B B 
+W X B B 
+W W B B 
+W X P P 
+
+R R B B 
+R R B B 
+W X B B 
+X W B B 
+W W P P 
+
+W R R X 
+W R R B 
+W B X B 
+W B B B 
+P P B B 
+
+R R W B 
+R R B B 
+B X B W 
+B W X B 
+P P W B 
+
+R R W B 
+R R B B 
+B X B W 
+B W W B 
+X P P B 
+
+R R W B 
+R R X B 
+B W B W 
+B X B B 
+P P W B 
+
+R R W B 
+R R B B 
+X W B W 
+B X W B 
+B P P B 
+
+R R W B 
+R R B B 
+W X B W 
+B W X B 
+B P P B 
+
+R R W B 
+R R X B 
+W W B W 
+B X B B 
+B P P B 
+
+R R W B 
+R R W B 
+B W B B 
+B W B B 
+X P P X 
+
+R R X W 
+R R W B 
+B W B B 
+B W B B 
+P P X B 
+
+R R W X 
+R R W B 
+B W B B 
+B W B B 
+X P P B 
+
+R R W B 
+R R W B 
+X W B X 
+B W B B 
+B P P B 
+
+R R W B 
+R R W B 
+B W W B 
+B X B B 
+P P B X 
+
+R R W X 
+R R W B 
+B W W B 
+B X B B 
+P P B B 
+
+R R X W 
+R R W B 
+B X W B 
+B W B B 
+P P B B 
+
+R R W W 
+R R X B 
+B W X B 
+B W B B 
+P P B B 
+
+X R R W 
+B R R B 
+B W W B 
+X W B B 
+P P B B 
+
+R R W B 
+R R W B 
+B W B W 
+B X B B 
+X P P B 
+
+R R W B 
+R R W B 
+X B W W 
+X B B B 
+P P B B 
+
+R R W B 
+R R W B 
+X X B W 
+B W B B 
+B P P B 
+
+R R W B 
+R R B B 
+X B B B 
+W B W B 
+W P P X 
+
+R R W B 
+R R B B 
+W B B X 
+X B W B 
+W P P B 
+
+R R W B 
+R R B B 
+W B B B 
+X B W B 
+W X P P 
+
+R R W X 
+R R B B 
+W B B B 
+W B W B 
+X P P B 
+
+R R W B 
+R R B B 
+W X B B 
+W B W B 
+X B P P 
+
+R R X W 
+R R B B 
+W B B B 
+W B W B 
+P P X B 
+
+R R B W 
+R R B B 
+W B X B 
+W B X B 
+P P W B 
+
+X R R W 
+W R R B 
+X B B B 
+W B B B 
+P P W B 
+
+R R W B 
+R R X B 
+W B B W 
+W B B B 
+P P X B 
+
+R R W B 
+R R X B 
+W B W X 
+W B B B 
+P P B B 
+
+R R X B 
+R R W B 
+W B B W 
+W B B B 
+X P P B 
+
+R R X B 
+R R W B 
+W B W B 
+W B B B 
+P P B X 
+
+R R X X 
+R R W B 
+W B W B 
+W B B B 
+P P B B 
+
+W R R B 
+W R R B 
+W B X W 
+X B B B 
+P P B B 
+
+W R R B 
+W R R B 
+X B W X 
+W B B B 
+P P B B 
+
+W R R B 
+X R R B 
+W B W B 
+W B B B 
+P P B X 
+
+W R R X 
+X R R B 
+W B W B 
+W B B B 
+P P B B 
+
+R R B B 
+R R B B 
+W W B B 
+X W B B 
+W P P X 
+
+R R B B 
+R R B B 
+W W B B 
+W W B B 
+X X P P 
+
+R R B X 
+R R B B 
+W W B B 
+X W B B 
+W P P B 
+
+R R B B 
+R R B B 
+X W B X 
+W W B B 
+W P P B 
+
+R R B B 
+R R B B 
+W W B X 
+W X B B 
+W P P B 
+
+R R B B 
+R R B B 
+W W B B 
+X X B B 
+W W P P 
+
+R R B B 
+R R B B 
+X W B B 
+W W B B 
+W X P P 
+
+R R B B 
+R R B B 
+X X B B 
+W W B B 
+W W P P 
+
+R R B B 
+R R B B 
+X W B B 
+X W B B 
+W W P P 
+
+R R B B 
+R R B B 
+W W B B 
+W X B B 
+W X P P 
+
+R R B B 
+R R B B 
+W X B B 
+W W B B 
+W P P X 
+
+R R B B 
+R R B B 
+W X B B 
+W W B B 
+X W P P 
+
+R R W B 
+R R X B 
+B X B W 
+B W B B 
+P P W B 
+
+R R W B 
+R R B B 
+B X B W 
+B X W B 
+P P W B 
+
+R R W B 
+R R B B 
+X X B W 
+B W W B 
+B P P B 
+
+R R X B 
+R R W B 
+B W B W 
+B X B B 
+P P W B 
+
+R R W B 
+R R B B 
+W X B W 
+B X W B 
+B P P B 
+
+R R W B 
+R R B B 
+W W B W 
+B X X B 
+B P P B 
+
+R R W B 
+R R W B 
+X W B B 
+B W B B 
+B P P X 
+
+R R W B 
+R R W B 
+B W B B 
+B W B B 
+X X P P 
+
+R R W W 
+R R X B 
+B W B B 
+B W B B 
+P P X B 
+
+R R X W 
+R R W B 
+B W B B 
+B W B B 
+X P P B 
+
+R R W X 
+R R W B 
+X W B B 
+B W B B 
+B P P B 
+
+R R W B 
+R R W B 
+W X B X 
+B W B B 
+B P P B 
+
+R R X W 
+R R W B 
+B W W B 
+B X B B 
+P P B B 
+
+R R W W 
+R R X B 
+B X W B 
+B W B B 
+P P B B 
+
+B R R W 
+B R R B 
+X W W B 
+X W B B 
+P P B B 
+
+X R R W 
+B R R B 
+B W W B 
+W X B B 
+P P B B 
+
+R R W B 
+R R W B 
+X W B W 
+B X B B 
+B P P B 
+
+X X W B 
+R R W B 
+R R B W 
+B W B B 
+B P P B 
+
+R R W B 
+R R B B 
+X B B X 
+W B W B 
+W P P B 
+
+R R W B 
+R R B B 
+X B B B 
+W B W B 
+W X P P 
+
+R R W X 
+R R B B 
+W B B B 
+X B W B 
+W P P B 
+
+R R W B 
+R R B B 
+W X B B 
+X B W B 
+W B P P 
+
+R R W B 
+R R B B 
+W B B B 
+X B W B 
+X W P P 
+
+R R X W 
+R R B B 
+W B B B 
+W B W B 
+X P P B 
+
+R R W B 
+R R B B 
+X W B B 
+W B W B 
+X B P P 
+
+R R B W 
+R R B B 
+W B X B 
+W B W B 
+P P X B 
+
+R R B W 
+R R B B 
+W X B B 
+W X B B 
+P P W B 
+
+W R R W 
+X R R B 
+X B B B 
+W B B B 
+P P W B 
+
+X R R W 
+W R R B 
+W B B B 
+X B B B 
+P P W B 
+
+R R W B 
+R R B B 
+W B B W 
+W B X B 
+P P X B 
+
+R R W B 
+R R X B 
+W B B W 
+W B B B 
+X P P B 
+
+R R W B 
+R R W B 
+W B X X 
+W B B B 
+P P B B 
+
+R R W B 
+R R X B 
+W B W B 
+W B B B 
+P P B X 
+
+R R W X 
+R R X B 
+W B W B 
+W B B B 
+P P B B 
+
+R R X B 
+R R W B 
+W B B W 
+X B B B 
+W P P B 
+
+W R R B 
+W R R B 
+W B W X 
+X B B B 
+P P B B 
+
+W R R B 
+W R R B 
+X B W B 
+W B B B 
+P P B X 
+
+W R R X 
+W R R B 
+X B W B 
+W B B B 
+P P B B 
+
+R R B B 
+R R B B 
+X W B B 
+W W B B 
+W P P X 
+
+R R B B 
+R R B B 
+W W B B 
+W X B B 
+W P P X 
+
+R R B B 
+R R B B 
+W W B B 
+X W B B 
+W X P P 
+
+R R B B 
+R R B B 
+W W B B 
+W X B B 
+X W P P 
+
+R R B X 
+R R B B 
+X W B B 
+W W B B 
+W P P B 
+
+R R B X 
+R R B B 
+W W B B 
+W X B B 
+W P P B 
+
+R R B B 
+R R B B 
+W X B X 
+W W B B 
+W P P B 
+
+R R B B 
+R R B B 
+X W B B 
+W W B B 
+X W P P 
+
+X X B B 
+R R B B 
+R R B B 
+W W B B 
+W W P P 
+
+R R X B 
+R R W B 
+B X B W 
+B W B B 
+P P W B 
+
+R R W B 
+R R B B 
+X B B W 
+X B W B 
+P P W B 
+
+X X W B 
+R R B B 
+R R B W 
+B W W B 
+B P P B 
+
+R R W B 
+R R W B 
+W X B B 
+B W B B 
+B P P X 
+
+R R W B 
+R R W B 
+X W B B 
+B W B B 
+B X P P 
+
+R R W B 
+R R W B 
+B W B B 
+B X B B 
+X W P P 
+
+R R W W 
+R R B B 
+B W B B 
+B W X B 
+P P X B 
+
+R R W W 
+R R X B 
+B W B B 
+B W B B 
+X P P B 
+
+R R X W 
+R R W B 
+X W B B 
+B W B B 
+B P P B 
+
+R R W X 
+R R W B 
+W X B B 
+B W B B 
+B P P B 
+
+R R W B 
+R R W B 
+W W B X 
+B X B B 
+B P P B 
+
+R R W W 
+R R X B 
+B W W B 
+B X B B 
+P P B B 
+
+R R W W 
+R R W B 
+B X X B 
+B W B B 
+P P B B 
+
+B R R W 
+B R R B 
+W X W B 
+X W B B 
+P P B B 
+
+B R R W 
+B R R B 
+X W W B 
+W X B B 
+P P B B 
+
+X R R W 
+B R R B 
+B X W B 
+W W B B 
+P P B B 
+
+R R W B 
+R R W B 
+W X B W 
+B X B B 
+B P P B 
+
+R R W B 
+R R W B 
+R R B W 
+B W B B 
+B P P B 
+
+X W X B 
+R R W B 
+R R B W 
+B W B B 
+B P P B 
+
+R R W X 
+R R B B 
+X B B B 
+W B W B 
+W P P B 
+
+R R W B 
+R R B B 
+X X B B 
+W B W B 
+W B P P 
+
+R R W B 
+R R B B 
+X B B B 
+W B W B 
+X W P P 
+
+R R X W 
+R R B B 
+W B B B 
+X B W B 
+W P P B 
+
+R R W B 
+R R B B 
+X W B B 
+X B W B 
+W B P P 
+
+R R B W 
+R R B B 
+W B X B 
+W B W B 
+X P P B 
+
+R R W B 
+R R B B 
+W W B B 
+X B W B 
+X B P P 
+
+R R B W 
+R R B B 
+W B W B 
+W B X B 
+P P X B 
+
+R R B W 
+R R B B 
+X W B B 
+W X B B 
+P P W B 
+
+R R B W 
+R R B B 
+W X B B 
+X W B B 
+P P W B 
+
+W R R W 
+X R R B 
+W B B B 
+X B B B 
+P P W B 
+
+R R W B 
+R R B B 
+W B B W 
+W B X B 
+X P P B 
+
+R R W B 
+R R X B 
+W B B W 
+X B B B 
+W P P B 
+
+R R W B 
+R R W B 
+W B B X 
+W B B B 
+P P X B 
+
+R R W B 
+R R W B 
+W B X B 
+W B B B 
+P P B X 
+
+R R W X 
+R R W B 
+W B X B 
+W B B B 
+P P B B 
+
+R R X W 
+R R X B 
+W B W B 
+W B B B 
+P P B B 
+
+R R X B 
+R R W B 
+X B B W 
+W B B B 
+W P P B 
+
+W R R B 
+W R R B 
+W B W B 
+X B B B 
+P P B X 
+
+W R R X 
+W R R B 
+W B W B 
+X B B B 
+P P B B 
+
+R R B B 
+R R B B 
+W W B B 
+X W B B 
+X W P P 
+
+R R B X 
+R R B B 
+W X B B 
+W W B B 
+W P P B 
+
+R R B B 
+R R B B 
+R R B B 
+W W B B 
+W W P P 
+
+R R W B 
+R R B B 
+R R B W 
+B W W B 
+B P P B 
+
+X W X B 
+R R B B 
+R R B W 
+B W W B 
+B P P B 
+
+R R W B 
+R R W B 
+W W B B 
+B X B B 
+B P P X 
+
+R R W B 
+R R W B 
+W X B B 
+B W B B 
+B X P P 
+
+R R W B 
+R R W B 
+X W B B 
+B X B B 
+B W P P 
+
+R R W B 
+R R W B 
+B X B B 
+B W B B 
+X W P P 
+
+R R W B 
+R R W B 
+B W B B 
+B X B B 
+W X P P 
+
+R R W W 
+R R B B 
+B W B B 
+B X W B 
+P P X B 
+
+R R W W 
+R R B B 
+B W B B 
+B W X B 
+X P P B 
+
+R R W W 
+R R X B 
+X W B B 
+B W B B 
+B P P B 
+
+R R X W 
+R R W B 
+W X B B 
+B W B B 
+B P P B 
+
+R R W X 
+R R W B 
+W W B B 
+B X B B 
+B P P B 
+
+R R W W 
+R R W B 
+B W X B 
+B X B B 
+P P B B 
+
+R R W W 
+R R W B 
+B X B B 
+B W B B 
+P P X B 
+
+B R R W 
+B R R B 
+W W W B 
+X X B B 
+P P B B 
+
+B R R W 
+B R R B 
+W W X B 
+X W B B 
+P P B B 
+
+B R R W 
+B R R B 
+X X W B 
+W W B B 
+P P B B 
+
+B R R W 
+B R R B 
+W X W B 
+W X B B 
+P P B B 
+
+X R R W 
+B R R B 
+B W X B 
+W W B B 
+P P B B 
+
+W X X B 
+R R W B 
+R R B W 
+B W B B 
+B P P B 
+
+X W W B 
+R R X B 
+R R B W 
+B W B B 
+B P P B 
+
+R R X W 
+R R B B 
+X B B B 
+W B W B 
+W P P B 
+
+X X W B 
+R R B B 
+R R B B 
+W B W B 
+W B P P 
+
+R R W B 
+R R B B 
+X B B B 
+X B W B 
+W W P P 
+
+R R B W 
+R R B B 
+W B X B 
+X B W B 
+W P P B 
+
+R R B W 
+R R B B 
+W B W B 
+W B X B 
+X P P B 
+
+R R B W 
+R R B B 
+W W B B 
+X X B B 
+P P W B 
+
+R R B W 
+R R B B 
+X X B B 
+W W B B 
+P P W B 
+
+R R B W 
+R R B B 
+X W B B 
+X W B B 
+P P W B 
+
+W R R W 
+W R R B 
+X B B B 
+X B B B 
+P P W B 
+
+R R W B 
+R R B B 
+W B B W 
+X B X B 
+W P P B 
+
+R R W B 
+R R X B 
+X B B W 
+W B B B 
+W P P B 
+
+R R W B 
+R R W B 
+W B B B 
+W B B B 
+P P X X 
+
+R R W X 
+R R W B 
+W B B B 
+W B B B 
+P P X B 
+
+R R W B 
+R R W B 
+W B B X 
+W B B B 
+X P P B 
+
+R R X W 
+R R W B 
+W B X B 
+W B B B 
+P P B B 
+
+X R R W 
+X R R B 
+W B W B 
+W B B B 
+P P B B 
+
+W X X B 
+R R B B 
+R R B W 
+B W W B 
+B P P B 
+
+X W B B 
+R R B B 
+R R X W 
+B W W B 
+B P P B 
+
+R R W B 
+R R W B 
+W W B B 
+B X B B 
+B X P P 
+
+R R W B 
+R R W B 
+W X B B 
+B X B B 
+B W P P 
+
+R R W B 
+R R W B 
+X X B B 
+B W B B 
+B W P P 
+
+R R W B 
+R R W B 
+B X B B 
+B W B B 
+W X P P 
+
+R R W B 
+R R W B 
+B W B B 
+B X B B 
+W P P X 
+
+R R W W 
+R R B B 
+B X B B 
+B W W B 
+P P X B 
+
+R R W W 
+R R B B 
+B W B B 
+B X X B 
+P P W B 
+
+R R W W 
+R R B B 
+B W B B 
+B X W B 
+X P P B 
+
+R R W W 
+R R B B 
+X W B B 
+B W X B 
+B P P B 
+
+R R W W 
+R R X B 
+W X B B 
+B W B B 
+B P P B 
+
+R R X W 
+R R W B 
+W W B B 
+B X B B 
+B P P B 
+
+R R W W 
+R R W B 
+B W B B 
+B X B B 
+P P X B 
+
+R R W W 
+R R W B 
+B X W B 
+B X B B 
+P P B B 
+
+R R W W 
+R R W B 
+B X B B 
+B W B B 
+X P P B 
+
+B R R W 
+B R R B 
+W W B B 
+X W B B 
+P P X B 
+
+B R R W 
+B R R B 
+X W X B 
+W W B B 
+P P B B 
+
+B R R W 
+B R R B 
+W W X B 
+W X B B 
+P P B B 
+
+X R R W 
+B R R B 
+B W B B 
+W W B B 
+P P X B 
+
+W X W B 
+R R X B 
+R R B W 
+B W B B 
+B P P B 
+
+X W W B 
+R R B B 
+R R B W 
+B W X B 
+B P P B 
+
+R R B W 
+R R B B 
+X B X B 
+W B W B 
+W P P B 
+
+R R W B 
+R R B B 
+R R B B 
+W B W B 
+W B P P 
+
+X W X B 
+R R B B 
+R R B B 
+W B W B 
+W B P P 
+
+R R B W 
+R R B B 
+W B W B 
+X B X B 
+W P P B 
+
+X X B W 
+R R B B 
+R R B B 
+W W B B 
+P P W B 
+
+R R W B 
+R R B B 
+X B B W 
+W B X B 
+W P P B 
+
+R R W B 
+R R W B 
+W B B B 
+W B B B 
+X P P X 
+
+R R X W 
+R R W B 
+W B B B 
+W B B B 
+P P X B 
+
+R R W X 
+R R W B 
+W B B B 
+W B B B 
+X P P B 
+
+R R W B 
+R R W B 
+W B B X 
+X B B B 
+W P P B 
+
+R R W W 
+R R X B 
+W B X B 
+W B B B 
+P P B B 
+
+X R R W 
+W R R B 
+X B W B 
+W B B B 
+P P B B 
+
+W X B B 
+R R B B 
+R R X W 
+B W W B 
+B P P B 
+
+X W B B 
+R R B B 
+R R W W 
+B W X B 
+B P P B 
+
+X W B B 
+R R B B 
+R R W X 
+B W W B 
+B P P B 
+
+R R W B 
+R R W B 
+W W B B 
+X B B B 
+X B P P 
+
+X X W B 
+R R W B 
+R R B B 
+B W B B 
+B W P P 
+
+R R W B 
+R R W B 
+B X B B 
+B X B B 
+W W P P 
+
+R R W B 
+R R W B 
+B X B B 
+B W B B 
+W P P X 
+
+R R W B 
+R R W B 
+B W B X 
+B X B B 
+W P P B 
+
+R R W W 
+R R B B 
+B X B B 
+B W X B 
+P P W B 
+
+R R W W 
+R R B B 
+B X B B 
+B W W B 
+X P P B 
+
+R R W W 
+R R X B 
+B W B B 
+B X B B 
+P P W B 
+
+R R W W 
+R R B B 
+X W B B 
+B X W B 
+B P P B 
+
+R R W W 
+R R B B 
+W X B B 
+B W X B 
+B P P B 
+
+R R W W 
+R R X B 
+W W B B 
+B X B B 
+B P P B 
+
+R R W W 
+R R W B 
+B W B B 
+B X B B 
+X P P B 
+
+R R W W 
+R R W B 
+X B W B 
+X B B B 
+P P B B 
+
+R R W W 
+R R W B 
+X X B B 
+B W B B 
+B P P B 
+
+B R R W 
+B R R B 
+X W B B 
+W W B B 
+P P X B 
+
+B R R W 
+B R R B 
+W W B B 
+W X B B 
+P P X B 
+
+B R R W 
+B R R B 
+W W B B 
+X W B B 
+X P P B 
+
+B R R W 
+B R R B 
+W X X B 
+W W B B 
+P P B B 
+
+X R R W 
+B R R B 
+B W B B 
+W W B B 
+X P P B 
+
+W W X B 
+R R X B 
+R R B W 
+B W B B 
+B P P B 
+
+W X W B 
+R R B B 
+R R B W 
+B W X B 
+B P P B 
+
+X W W B 
+R R B B 
+R R B W 
+B X W B 
+B P P B 
+
+R R B W 
+R R B B 
+X B W B 
+W B X B 
+W P P B 
+
+W X X B 
+R R B B 
+R R B B 
+W B W B 
+W B P P 
+
+X W B B 
+R R B B 
+R R X B 
+W B W B 
+W B P P 
+
+R R B W 
+R R B B 
+R R B B 
+W W B B 
+P P W B 
+
+R R W B 
+R R W B 
+W B B B 
+X B B B 
+W P P X 
+
+R R W B 
+R R W B 
+W B B B 
+W B B B 
+X X P P 
+
+R R W W 
+R R X B 
+W B B B 
+W B B B 
+P P X B 
+
+R R X W 
+R R W B 
+W B B B 
+W B B B 
+X P P B 
+
+R R W X 
+R R W B 
+W B B B 
+X B B B 
+W P P B 
+
+R R W B 
+R R W B 
+X B B X 
+W B B B 
+W P P B 
+
+W R R W 
+X R R B 
+X B W B 
+W B B B 
+P P B B 
+
+X R R W 
+W R R B 
+W B W B 
+X B B B 
+P P B B 
+
+W X B B 
+R R B B 
+R R W W 
+B W X B 
+B P P B 
+
+W X B B 
+R R B B 
+R R W X 
+B W W B 
+B P P B 
+
+X W B B 
+R R B B 
+R R W W 
+B X W B 
+B P P B 
+
+X W B B 
+R R B B 
+R R W B 
+B W W B 
+B P P X 
+
+X W B X 
+R R B B 
+R R W B 
+B W W B 
+B P P B 
+
+R R W B 
+R R W B 
+X W B B 
+W B B B 
+X B P P 
+
+R R W B 
+R R W B 
+R R B B 
+B W B B 
+B W P P 
+
+X W X B 
+R R W B 
+R R B B 
+B W B B 
+B W P P 
+
+R R W B 
+R R W B 
+X B B B 
+X B B B 
+W W P P 
+
+R R W B 
+R R W B 
+B X B X 
+B W B B 
+W P P B 
+
+R R W X 
+R R W B 
+B W B B 
+B X B B 
+W P P B 
+
+R R W W 
+R R X B 
+B X B B 
+B W B B 
+P P W B 
+
+R R W W 
+R R B B 
+B X B B 
+B X W B 
+P P W B 
+
+R R W W 
+R R B B 
+X X B B 
+B W W B 
+B P P B 
+
+R R X W 
+R R W B 
+B W B B 
+B X B B 
+P P W B 
+
+R R W W 
+R R B B 
+W X B B 
+B X W B 
+B P P B 
+
+R R W W 
+R R B B 
+W W B B 
+B X X B 
+B P P B 
+
+R R W W 
+R R W B 
+X W B B 
+B X B B 
+B P P B 
+
+X X W W 
+R R W B 
+R R B B 
+B W B B 
+B P P B 
+
+B R R W 
+B R R B 
+W X B B 
+W W B B 
+P P X B 
+
+B R R W 
+B R R B 
+X W B B 
+W W B B 
+X P P B 
+
+B R R W 
+B R R B 
+W W B B 
+W X B B 
+X P P B 
+
+B X X W 
+B R R B 
+W R R B 
+W W B B 
+P P B B 
+
+X R R W 
+B R R B 
+B W B B 
+X W B B 
+W P P B 
+
+W W X B 
+R R B B 
+R R B W 
+B W X B 
+B P P B 
+
+W X W B 
+R R B B 
+R R B W 
+B X W B 
+B P P B 
+
+W X B B 
+R R B B 
+R R X B 
+W B W B 
+W B P P 
+
+X W B B 
+R R B B 
+R R W B 
+W B X B 
+W B P P 
+
+R R W B 
+R R W B 
+X B B B 
+W B B B 
+W P P X 
+
+R R W B 
+R R W B 
+W B B B 
+X B B B 
+W X P P 
+
+R R W B 
+R R W B 
+W X B B 
+W B B B 
+X B P P 
+
+R R W W 
+R R B B 
+W B B B 
+W B X B 
+P P X B 
+
+R R W W 
+R R X B 
+W B B B 
+W B B B 
+X P P B 
+
+R R X W 
+R R W B 
+W B B B 
+X B B B 
+W P P B 
+
+R R W X 
+R R W B 
+X B B B 
+W B B B 
+W P P B 
+
+W R R W 
+X R R B 
+W B W B 
+X B B B 
+P P B B 
+
+W X B B 
+R R B B 
+R R W W 
+B X W B 
+B P P B 
+
+W X B B 
+R R B B 
+R R W B 
+B W W B 
+B P P X 
+
+W X B X 
+R R B B 
+R R W B 
+B W W B 
+B P P B 
+
+X W B B 
+R R B B 
+R R W B 
+B W W B 
+B X P P 
+
+R R W B 
+R R W B 
+X W B B 
+X B B B 
+W B P P 
+
+W X X B 
+R R W B 
+R R B B 
+B W B B 
+B W P P 
+
+X W W B 
+R R X B 
+R R B B 
+B W B B 
+B W P P 
+
+R R W B 
+R R W B 
+X B B B 
+W B B B 
+X W P P 
+
+R R W X 
+R R W B 
+B X B B 
+B W B B 
+W P P B 
+
+R R X W 
+R R W B 
+B W B B 
+B X B B 
+W P P B 
+
+R R X W 
+R R W B 
+B X B B 
+B W B B 
+P P W B 
+
+R R W W 
+R R B B 
+X B B B 
+X B W B 
+P P W B 
+
+X X W W 
+R R B B 
+R R B B 
+B W W B 
+B P P B 
+
+R R W X 
+R R W B 
+B W B B 
+B X B B 
+P P W B 
+
+R R W W 
+R R W B 
+W X B B 
+B X B B 
+B P P B 
+
+R R W W 
+R R W B 
+R R B B 
+B W B B 
+B P P B 
+
+X W X W 
+R R W B 
+R R B B 
+B W B B 
+B P P B 
+
+B R R W 
+B R R B 
+W X B B 
+W W B B 
+X P P B 
+
+B R R W 
+B R R B 
+X W B B 
+X W B B 
+W P P B 
+
+B R R W 
+B R R B 
+W W B B 
+X X B B 
+W P P B 
+
+B R R W 
+B R R B 
+W R R B 
+W W B B 
+P P B B 
+
+B X W X 
+B R R B 
+W R R B 
+W W B B 
+P P B B 
+
+X R R W 
+X R R B 
+B W B B 
+B W B B 
+W P P B 
+
+X R R W 
+B R R B 
+B W B B 
+W X B B 
+W P P B 
+
+W W B B 
+R R B B 
+R R X W 
+B W X B 
+B P P B 
+
+W W X B 
+R R B B 
+R R B W 
+B X W B 
+B P P B 
+
+W X B B 
+R R B B 
+R R W B 
+W B X B 
+W B P P 
+
+R R W B 
+R R W B 
+X B B B 
+W B B B 
+W X P P 
+
+R R W B 
+R R W B 
+W X B B 
+X B B B 
+W B P P 
+
+R R W B 
+R R W B 
+W B B B 
+X B B B 
+X W P P 
+
+R R W W 
+R R B B 
+W B B B 
+W B X B 
+X P P B 
+
+R R W W 
+R R X B 
+W B B B 
+X B B B 
+W P P B 
+
+R R X W 
+R R W B 
+X B B B 
+W B B B 
+W P P B 
+
+W R R W 
+W R R B 
+X B W B 
+X B B B 
+P P B B 
+
+W X B B 
+R R B B 
+R R W B 
+B W W B 
+B X P P 
+
+X W B B 
+R R B B 
+R R W B 
+B X W B 
+B W P P 
+
+W X W B 
+R R X B 
+R R B B 
+B W B B 
+B W P P 
+
+X W W B 
+R R B B 
+R R B B 
+B W X B 
+B W P P 
+
+R R X W 
+R R W B 
+B X B B 
+B W B B 
+W P P B 
+
+R R W W 
+R R X B 
+B W B B 
+B X B B 
+W P P B 
+
+R R W X 
+R R W B 
+B X B B 
+B W B B 
+P P W B 
+
+R R W W 
+R R B B 
+R R B B 
+B W W B 
+B P P B 
+
+X W X W 
+R R B B 
+R R B B 
+B W W B 
+B P P B 
+
+R R W B 
+R R W B 
+B W B X 
+B X B B 
+P P W B 
+
+W X X W 
+R R W B 
+R R B B 
+B W B B 
+B P P B 
+
+X W W W 
+R R X B 
+R R B B 
+B W B B 
+B P P B 
+
+X W W X 
+R R W B 
+R R B B 
+B W B B 
+B P P B 
+
+B R R W 
+B R R B 
+W X B B 
+X W B B 
+W P P B 
+
+B R R W 
+B R R B 
+X W B B 
+W X B B 
+W P P B 
+
+B W X X 
+B R R B 
+W R R B 
+W W B B 
+P P B B 
+
+B X W B 
+B R R B 
+W R R X 
+W W B B 
+P P B B 
+
+R R X W 
+R R X B 
+B W B B 
+B W B B 
+W P P B 
+
+X R R W 
+B R R B 
+B X B B 
+W W B B 
+W P P B 
+
+W W B B 
+R R B B 
+R R W X 
+B W X B 
+B P P B 
+
+W W B B 
+R R B B 
+R R X W 
+B X W B 
+B P P B 
+
+R R W B 
+R R W B 
+X X B B 
+W B B B 
+W B P P 
+
+R R W W 
+R R B B 
+W B B B 
+X B X B 
+W P P B 
+
+R R W W 
+R R X B 
+X B B B 
+W B B B 
+W P P B 
+
+W X B B 
+R R B B 
+R R W B 
+B X W B 
+B W P P 
+
+X W B B 
+R R B B 
+R R W B 
+B W X B 
+B W P P 
+
+W W X B 
+R R X B 
+R R B B 
+B W B B 
+B W P P 
+
+W X W B 
+R R B B 
+R R B B 
+B W X B 
+B W P P 
+
+X W W B 
+R R B B 
+R R B B 
+B X W B 
+B W P P 
+
+R R W W 
+R R X B 
+B X B B 
+B W B B 
+W P P B 
+
+R R W W 
+R R B B 
+B W B B 
+B X X B 
+W P P B 
+
+R R W B 
+R R W B 
+B X B X 
+B W B B 
+P P W B 
+
+W X X W 
+R R B B 
+R R B B 
+B W W B 
+B P P B 
+
+X W B W 
+R R B B 
+R R X B 
+B W W B 
+B P P B 
+
+X W W X 
+R R B B 
+R R B B 
+B W W B 
+B P P B 
+
+R R W B 
+R R W B 
+B W B B 
+B X B B 
+P P W X 
+
+W X W W 
+R R X B 
+R R B B 
+B W B B 
+B P P B 
+
+W X W X 
+R R W B 
+R R B B 
+B W B B 
+B P P B 
+
+X W W W 
+R R B B 
+R R B B 
+B W X B 
+B P P B 
+
+X W W B 
+R R W B 
+R R B X 
+B W B B 
+B P P B 
+
+B R R W 
+B R R B 
+X X B B 
+W W B B 
+W P P B 
+
+B R R W 
+B R R B 
+W X B B 
+W X B B 
+W P P B 
+
+B W X B 
+B R R B 
+W R R X 
+W W B B 
+P P B B 
+
+B X W B 
+B R R B 
+W R R B 
+W W B B 
+P P B X 
+
+R R W X 
+R R X B 
+B W B B 
+B W B B 
+W P P B 
+
+R R X W 
+R R B B 
+B W B B 
+B W X B 
+W P P B 
+
+W W B B 
+R R B B 
+R R W B 
+B W X B 
+B P P X 
+
+W W B X 
+R R B B 
+R R W B 
+B W X B 
+B P P B 
+
+W W B B 
+R R B B 
+R R X X 
+B W W B 
+B P P B 
+
+W W B B 
+R R B B 
+R R W X 
+B X W B 
+B P P B 
+
+W W B B 
+R R B B 
+R R W W 
+B X X B 
+B P P B 
+
+X X W B 
+R R W B 
+R R B B 
+W B B B 
+W B P P 
+
+R R W W 
+R R B B 
+X B B B 
+W B X B 
+W P P B 
+
+W X B B 
+R R B B 
+R R W B 
+B W X B 
+B W P P 
+
+X W B B 
+R R B B 
+R R X B 
+B W W B 
+B W P P 
+
+W W X B 
+R R B B 
+R R B B 
+B W X B 
+B W P P 
+
+W X W B 
+R R B B 
+R R B B 
+B X W B 
+B W P P 
+
+X W W B 
+R R B B 
+R R B B 
+B W W B 
+B X P P 
+
+R R W W 
+R R B B 
+B X B B 
+B W X B 
+W P P B 
+
+R R W B 
+R R W B 
+B X B B 
+B W B B 
+P P W X 
+
+W X B W 
+R R B B 
+R R X B 
+B W W B 
+B P P B 
+
+W X W X 
+R R B B 
+R R B B 
+B W W B 
+B P P B 
+
+X W B W 
+R R B B 
+R R W B 
+B W X B 
+B P P B 
+
+X W W B 
+R R B B 
+R R B X 
+B W W B 
+B P P B 
+
+R R W B 
+R R W B 
+B W B B 
+B X B B 
+P P X W 
+
+W W X W 
+R R X B 
+R R B B 
+B W B B 
+B P P B 
+
+W X W W 
+R R B B 
+R R B B 
+B W X B 
+B P P B 
+
+W W X X 
+R R W B 
+R R B B 
+B W B B 
+B P P B 
+
+W X W B 
+R R W B 
+R R B X 
+B W B B 
+B P P B 
+
+X W W W 
+R R B B 
+R R B B 
+B X W B 
+B P P B 
+
+X W W B 
+R R W B 
+R R B B 
+B W B B 
+B P P X 
+
+B W X B 
+B R R B 
+W R R B 
+W W B B 
+P P B X 
+
+R R W B 
+R R X B 
+B W B X 
+B W B B 
+W P P B 
+
+R R W X 
+R R B B 
+B W B B 
+B W X B 
+W P P B 
+
+R R X X 
+R R W B 
+B W B B 
+B W B B 
+W P P B 
+
+R R B W 
+R R B B 
+B W X B 
+B W X B 
+W P P B 
+
+R R X W 
+R R B B 
+B W B B 
+B X W B 
+W P P B 
+
+W W B B 
+R R B B 
+R R X B 
+B W W B 
+B P P X 
+
+W W B B 
+R R B B 
+R R W B 
+B X W B 
+B P P X 
+
+W W B B 
+R R B B 
+R R W B 
+B W X B 
+B X P P 
+
+W W B X 
+R R B B 
+R R X B 
+B W W B 
+B P P B 
+
+W W B X 
+R R B B 
+R R W B 
+B X W B 
+B P P B 
+
+W W X B 
+R R B B 
+R R B X 
+B W W B 
+B P P B 
+
+R R W B 
+R R W B 
+R R B B 
+W B B B 
+W B P P 
+
+X W X B 
+R R W B 
+R R B B 
+W B B B 
+W B P P 
+
+W X B B 
+R R B B 
+R R X B 
+B W W B 
+B W P P 
+
+X W X B 
+R R B B 
+R R B B 
+B W W B 
+B W P P 
+
+W W B B 
+R R B B 
+R R X B 
+B W X B 
+B W P P 
+
+W W X B 
+R R B B 
+R R B B 
+B X W B 
+B W P P 
+
+W X W B 
+R R B B 
+R R B B 
+B W W B 
+B X P P 
+
+X W W B 
+R R B B 
+R R B B 
+B W W B 
+B P P X 
+
+R R W W 
+R R B B 
+B X B B 
+B X W B 
+W P P B 
+
+R R W B 
+R R W B 
+B X B B 
+B W B B 
+P P X W 
+
+W X B W 
+R R B B 
+R R W B 
+B W X B 
+B P P B 
+
+W W X X 
+R R B B 
+R R B B 
+B W W B 
+B P P B 
+
+W X W B 
+R R B B 
+R R B X 
+B W W B 
+B P P B 
+
+X W B W 
+R R B B 
+R R W B 
+B X W B 
+B P P B 
+
+R R W B 
+R R W B 
+B W X B 
+B X B B 
+P P B W 
+
+R R W B 
+R R W B 
+B W B B 
+B X B B 
+X P P W 
+
+W W W X 
+R R X B 
+R R B B 
+B W B B 
+B P P B 
+
+W W X W 
+R R B B 
+R R B B 
+B W X B 
+B P P B 
+
+W X W W 
+R R B B 
+R R B B 
+B X W B 
+B P P B 
+
+W W X B 
+R R W B 
+R R B X 
+B W B B 
+B P P B 
+
+W X W B 
+R R W B 
+R R B B 
+B W B B 
+B P P X 
+
+X W W B 
+R R W B 
+R R B B 
+B W B B 
+B X P P 
+
+R R W B 
+R R B B 
+B W B X 
+B W X B 
+W P P B 
+
+R R X B 
+R R W B 
+B W B X 
+B W B B 
+W P P B 
+
+R R W B 
+R R X B 
+B W B B 
+B W B B 
+W P P X 
+
+R R W X 
+R R B B 
+B W B B 
+B X W B 
+W P P B 
+
+R R B W 
+R R B B 
+B X W B 
+B W X B 
+W P P B 
+
+R R B W 
+R R B B 
+B W X B 
+B X W B 
+W P P B 
+
+R R X W 
+R R B B 
+B X B B 
+B W W B 
+W P P B 
+
+W W X B 
+R R B B 
+R R B B 
+B W W B 
+B P P X 
+
+W W B B 
+R R B B 
+R R X B 
+B W W B 
+B X P P 
+
+W W B B 
+R R B B 
+R R W B 
+B X W B 
+B X P P 
+
+W W B B 
+R R B B 
+R R W B 
+B X X B 
+B W P P 
+
+W X X B 
+R R W B 
+R R B B 
+W B B B 
+W B P P 
+
+X W W B 
+R R X B 
+R R B B 
+W B B B 
+W B P P 
+
+W X X B 
+R R B B 
+R R B B 
+B W W B 
+B W P P 
+
+X X W B 
+R R B B 
+R R B B 
+B W W B 
+B W P P 
+
+W W B B 
+R R B B 
+R R X B 
+B X W B 
+B W P P 
+
+W W X B 
+R R B B 
+R R B B 
+B W W B 
+B X P P 
+
+W X W B 
+R R B B 
+R R B B 
+B W W B 
+B P P X 
+
+R R W W 
+R R B B 
+X B B B 
+X B W B 
+W P P B 
+
+R R W B 
+R R W B 
+B X X B 
+B W B B 
+P P B W 
+
+R R W B 
+R R W B 
+B X B B 
+B W B B 
+X P P W 
+
+W X B W 
+R R B B 
+R R W B 
+B X W B 
+B P P B 
+
+R R W B 
+R R X B 
+B W W B 
+B X B B 
+P P B W 
+
+R R W B 
+R R W B 
+B X W B 
+B X B B 
+P P B W 
+
+R R W B 
+R R W B 
+X W B B 
+B X B B 
+B P P W 
+
+W W W B 
+R R X B 
+R R B X 
+B W B B 
+B P P B 
+
+W W W X 
+R R B B 
+R R B B 
+B W X B 
+B P P B 
+
+W W B W 
+R R B B 
+R R X B 
+B W X B 
+B P P B 
+
+W W X W 
+R R B B 
+R R B B 
+B X W B 
+B P P B 
+
+W W X B 
+R R W B 
+R R B B 
+B W B B 
+B P P X 
+
+W X W B 
+R R W B 
+R R B B 
+B W B B 
+B X P P 
+
+X W W B 
+R R W B 
+R R B B 
+B X B B 
+B W P P 
+
+R R W B 
+R R B B 
+B W B B 
+B W X B 
+W P P X 
+
+R R W B 
+R R B B 
+B W B X 
+B X W B 
+W P P B 
+
+R R X B 
+R R W B 
+B W B B 
+B W B B 
+W P P X 
+
+R R W B 
+R R X B 
+B W B B 
+B W B B 
+W X P P 
+
+R R W X 
+R R B B 
+B X B B 
+B W W B 
+W P P B 
+
+R R B W 
+R R B B 
+B W W B 
+B X X B 
+W P P B 
+
+R R B W 
+R R B B 
+B X X B 
+B W W B 
+W P P B 
+
+R R B W 
+R R B B 
+B X W B 
+B X W B 
+W P P B 
+
+W W B B 
+R R B B 
+R R W B 
+X B W B 
+X B P P 
+
+W X W B 
+R R X B 
+R R B B 
+W B B B 
+W B P P 
+
+X W W B 
+R R B B 
+R R B B 
+W B X B 
+W B P P 
+
+R R W B 
+R R B B 
+R R B B 
+B W W B 
+B W P P 
+
+R R W W 
+R R B B 
+X B B B 
+W B W B 
+X P P B 
+
+R R W B 
+R R X B 
+B X W B 
+B W B B 
+P P B W 
+
+R R W B 
+R R W B 
+X X B B 
+B W B B 
+B P P W 
+
+R R X B 
+R R W B 
+B W W B 
+B X B B 
+P P B W 
+
+R R W B 
+R R W B 
+X B W B 
+X B B B 
+P P B W 
+
+R R W B 
+R R W B 
+W X B B 
+B X B B 
+B P P W 
+
+W W W B 
+R R B B 
+R R B X 
+B W X B 
+B P P B 
+
+W W W B 
+R R X B 
+R R B B 
+B W B B 
+B P P X 
+
+W W W X 
+R R B B 
+R R B B 
+B X W B 
+B P P B 
+
+W W B W 
+R R B B 
+R R X B 
+B X W B 
+B P P B 
+
+W W X B 
+R R W B 
+R R B B 
+B W B B 
+B X P P 
+
+W X W B 
+R R W B 
+R R B B 
+B X B B 
+B W P P 
+
+R R W B 
+R R B B 
+B W B B 
+B X W B 
+W P P X 
+
+R R W B 
+R R B B 
+B W B B 
+B W X B 
+W X P P 
+
+R R W B 
+R R B B 
+B X B X 
+B W W B 
+W P P B 
+
+R R X B 
+R R W B 
+B W B B 
+B W B B 
+W X P P 
+
+R R W B 
+R R X B 
+B W B B 
+B X B B 
+W W P P 
+
+R R W B 
+R R X B 
+B W B B 
+B W B B 
+X W P P 
+
+R R B W 
+R R B B 
+X B W B 
+X B W B 
+W P P B 
+
+W W X B 
+R R X B 
+R R B B 
+W B B B 
+W B P P 
+
+W X W B 
+R R B B 
+R R B B 
+W B X B 
+W B P P 
+
+R R W W 
+R R B B 
+W B B B 
+X B W B 
+X P P B 
+
+R R W W 
+R R B B 
+X B B B 
+W B W B 
+P P X B 
+
+R R X B 
+R R W B 
+B X W B 
+B W B B 
+P P B W 
+
+R R W B 
+R R X B 
+B W X B 
+B W B B 
+P P B W 
+
+X X W B 
+R R W B 
+R R B B 
+B W B B 
+B P P W 
+
+W W W B 
+R R B B 
+R R B B 
+B W X B 
+B P P X 
+
+W W W B 
+R R B B 
+R R B X 
+B X W B 
+B P P B 
+
+W W W B 
+R R X B 
+R R B B 
+B W B B 
+B X P P 
+
+W W B W 
+R R B B 
+R R W B 
+B X X B 
+B P P B 
+
+W W X B 
+R R W B 
+R R B B 
+B X B B 
+B W P P 
+
+R R W B 
+R R B B 
+B X B B 
+B W W B 
+W P P X 
+
+R R W B 
+R R B B 
+B W B B 
+B X W B 
+W X P P 
+
+R R W B 
+R R B B 
+B W B B 
+B X X B 
+W W P P 
+
+R R W B 
+R R B B 
+B W B B 
+B W X B 
+X W P P 
+
+R R X B 
+R R W B 
+B W B B 
+B X B B 
+W W P P 
+
+R R X B 
+R R W B 
+B W B B 
+B W B B 
+X W P P 
+
+R R W B 
+R R X B 
+B X B B 
+B W B B 
+W W P P 
+
+R R W B 
+R R X B 
+X W B B 
+B W B B 
+B W P P 
+
+R R B W 
+R R B B 
+X B W B 
+W B W B 
+X P P B 
+
+W W X B 
+R R B B 
+R R B B 
+W B X B 
+W B P P 
+
+R R W W 
+R R B B 
+W B B B 
+X B W B 
+P P X B 
+
+R R W W 
+R R B B 
+X B B B 
+W B X B 
+P P W B 
+
+R R X B 
+R R W B 
+B W X B 
+B W B B 
+P P B W 
+
+R R W B 
+R R X B 
+B W B B 
+B W B B 
+P P X W 
+
+R R W B 
+R R W B 
+R R B B 
+B W B B 
+B P P W 
+
+X W X B 
+R R W B 
+R R B B 
+B W B B 
+B P P W 
+
+W W W B 
+R R B B 
+R R B B 
+B X W B 
+B P P X 
+
+W W W B 
+R R B B 
+R R B B 
+B W X B 
+B X P P 
+
+W W W B 
+R R X B 
+R R B B 
+B X B B 
+B W P P 
+
+R R W B 
+R R B B 
+B X B B 
+B W W B 
+W X P P 
+
+R R W B 
+R R B B 
+B W B B 
+B X W B 
+X W P P 
+
+R R W B 
+R R B B 
+B X B B 
+B W X B 
+W W P P 
+
+R R W B 
+R R B B 
+X W B B 
+B W X B 
+B W P P 
+
+R R X B 
+R R W B 
+B X B B 
+B W B B 
+W W P P 
+
+R R X B 
+R R W B 
+X W B B 
+B W B B 
+B W P P 
+
+R R W B 
+R R X B 
+W X B B 
+B W B B 
+B W P P 
+
+R R B W 
+R R B B 
+W B W B 
+X B W B 
+X P P B 
+
+R R B W 
+R R B B 
+X B W B 
+W B W B 
+P P X B 
+
+W W B B 
+R R B B 
+R R X B 
+W B X B 
+W B P P 
+
+R R W W 
+R R B B 
+W B B B 
+X B X B 
+P P W B 
+
+R R W W 
+R R X B 
+X B B B 
+W B B B 
+P P W B 
+
+R R X B 
+R R W B 
+B W B B 
+B W B B 
+P P X W 
+
+R R X B 
+R R X B 
+B W W B 
+B W B B 
+P P B W 
+
+R R W B 
+R R B B 
+B W B B 
+B W X B 
+P P X W 
+
+R R W B 
+R R X B 
+B W B B 
+B W B B 
+P P W X 
+
+R R W B 
+R R X B 
+B W B B 
+B W B B 
+X P P W 
+
+W X X B 
+R R W B 
+R R B B 
+B W B B 
+B P P W 
+
+X W W B 
+R R X B 
+R R B B 
+B W B B 
+B P P W 
+
+W W W B 
+R R B B 
+R R B B 
+B X W B 
+B X P P 
+
+W W W B 
+R R B B 
+R R B B 
+B X X B 
+B W P P 
+
+R R W B 
+R R B B 
+B X B B 
+B X W B 
+W W P P 
+
+R R W B 
+R R B B 
+B X B B 
+B W W B 
+X W P P 
+
+R R W B 
+R R B B 
+B W B B 
+B W W B 
+X X P P 
+
+R R W B 
+R R B B 
+X W B B 
+B X W B 
+B W P P 
+
+R R W B 
+R R B B 
+W X B B 
+B W X B 
+B W P P 
+
+R R X B 
+R R W B 
+W X B B 
+B W B B 
+B W P P 
+
+R R W B 
+R R X B 
+W W B B 
+B X B B 
+B W P P 
+
+R R B W 
+R R B B 
+W B W B 
+X B W B 
+P P X B 
+
+R R B W 
+R R B B 
+X B W B 
+W B X B 
+P P W B 
+
+R R W W 
+R R X B 
+W B B B 
+X B B B 
+P P W B 
+
+R R X W 
+R R W B 
+X B B B 
+W B B B 
+P P W B 
+
+R R X B 
+R R W B 
+B W B B 
+B W B B 
+P P W X 
+
+R R X B 
+R R W B 
+B W B B 
+B W B B 
+X P P W 
+
+X R R B 
+X R R B 
+B W W B 
+B W B B 
+P P B W 
+
+R R W B 
+R R B B 
+B W B B 
+B X W B 
+P P X W 
+
+R R W B 
+R R B B 
+B W B B 
+B W X B 
+P P W X 
+
+R R W B 
+R R B B 
+B W B B 
+B W X B 
+X P P W 
+
+R R W B 
+R R X B 
+B W B X 
+B W B B 
+P P W B 
+
+R R W B 
+R R X B 
+X W B B 
+B W B B 
+B P P W 
+
+W X W B 
+R R X B 
+R R B B 
+B W B B 
+B P P W 
+
+X W W B 
+R R B B 
+R R B B 
+B W X B 
+B P P W 
+
+W W W B 
+R R B B 
+R R B B 
+X B W B 
+X B P P 
+
+R R W B 
+R R B B 
+X X B B 
+B W W B 
+B W P P 
+
+R R W B 
+R R B B 
+X W B B 
+B W W B 
+B X P P 
+
+R R W B 
+R R B B 
+B W B B 
+B W W B 
+X P P X 
+
+R R W B 
+R R B B 
+W X B B 
+B X W B 
+B W P P 
+
+R R W B 
+R R B B 
+W W B B 
+B X X B 
+B W P P 
+
+R R X B 
+R R W B 
+W W B B 
+B X B B 
+B W P P 
+
+R R W B 
+R R X B 
+W W B B 
+B W B B 
+B X P P 
+
+R R B W 
+R R B B 
+W B W B 
+X B X B 
+P P W B 
+
+R R B W 
+R R B B 
+X B X B 
+W B W B 
+P P W B 
+
+R R X W 
+R R W B 
+W B B B 
+X B B B 
+P P W B 
+
+R R W X 
+R R W B 
+X B B B 
+W B B B 
+P P W B 
+
+R R X B 
+R R W B 
+B W B X 
+B W B B 
+P P W B 
+
+R R X B 
+R R W B 
+X W B B 
+B W B B 
+B P P W 
+
+X R R B 
+B R R B 
+B W W B 
+X W B B 
+P P B W 
+
+R R W B 
+R R B B 
+B X B B 
+B W W B 
+P P X W 
+
+R R W B 
+R R B B 
+B W B B 
+B X X B 
+P P W W 
+
+R R W B 
+R R B B 
+B W B B 
+B X W B 
+P P W X 
+
+R R W B 
+R R B B 
+B W B B 
+B X W B 
+X P P W 
+
+R R W B 
+R R B B 
+B W B B 
+B W W B 
+P P X X 
+
+R R W B 
+R R B B 
+B W B X 
+B W X B 
+P P W B 
+
+R R W B 
+R R B B 
+X W B B 
+B W X B 
+B P P W 
+
+R R W X 
+R R X B 
+B W B B 
+B W B B 
+P P W B 
+
+R R W B 
+R R X B 
+W X B B 
+B W B B 
+B P P W 
+
+W W X B 
+R R X B 
+R R B B 
+B W B B 
+B P P W 
+
+W X W B 
+R R B B 
+R R B B 
+B W X B 
+B P P W 
+
+X W W B 
+R R B B 
+R R B B 
+B X W B 
+B P P W 
+
+R R W B 
+R R B B 
+W X B B 
+B W W B 
+B X P P 
+
+R R W B 
+R R B B 
+X W B B 
+B W W B 
+B P P X 
+
+R R W B 
+R R B B 
+B W B X 
+B W W B 
+X P P B 
+
+R R W B 
+R R B B 
+W W B B 
+B W X B 
+B X P P 
+
+R R X B 
+R R W B 
+W W B B 
+B W B B 
+B X P P 
+
+R R W B 
+R R X B 
+W W B B 
+B W B B 
+B P P X 
+
+R R B W 
+R R B B 
+W B X B 
+X B W B 
+P P W B 
+
+R R X W 
+R R B B 
+X B B B 
+W B W B 
+P P W B 
+
+R R W X 
+R R W B 
+W B B B 
+X B B B 
+P P W B 
+
+R R W B 
+R R W B 
+X B B X 
+W B B B 
+P P W B 
+
+R R X X 
+R R W B 
+B W B B 
+B W B B 
+P P W B 
+
+R R X B 
+R R W B 
+W X B B 
+B W B B 
+B P P W 
+
+B R R B 
+B R R B 
+X W W B 
+X W B B 
+P P B W 
+
+X R R B 
+B R R B 
+B W W B 
+W X B B 
+P P B W 
+
+R R W B 
+R R B B 
+B X B B 
+B W X B 
+P P W W 
+
+R R W B 
+R R B B 
+B X B B 
+B W W B 
+P P W X 
+
+R R W B 
+R R B B 
+B X B B 
+B W W B 
+X P P W 
+
+R R W B 
+R R X B 
+B W B B 
+B X B B 
+P P W W 
+
+R R W B 
+R R B B 
+B W B X 
+B X W B 
+P P W B 
+
+R R W B 
+R R B B 
+X W B B 
+B X W B 
+B P P W 
+
+R R W B 
+R R B B 
+B W B X 
+B W W B 
+P P X B 
+
+R R W X 
+R R B B 
+B W B B 
+B W X B 
+P P W B 
+
+R R W B 
+R R B B 
+W X B B 
+B W X B 
+B P P W 
+
+R R X W 
+R R X B 
+B W B B 
+B W B B 
+P P W B 
+
+R R W B 
+R R X B 
+W W B B 
+B X B B 
+B P P W 
+
+W W X B 
+R R B B 
+R R B B 
+B W X B 
+B P P W 
+
+W X W B 
+R R B B 
+R R B B 
+B X W B 
+B P P W 
+
+R R W B 
+R R B B 
+W W B B 
+B X W B 
+B X P P 
+
+R R W B 
+R R B B 
+W X B B 
+B W W B 
+B P P X 
+
+R R W B 
+R R B B 
+X W B X 
+B W W B 
+B P P B 
+
+R R W X 
+R R B B 
+B W B B 
+B W W B 
+X P P B 
+
+R R W B 
+R R B B 
+W W B B 
+B W X B 
+B P P X 
+
+R R X B 
+R R W B 
+W W B B 
+B W B B 
+B P P X 
+
+R R W B 
+R R X B 
+W W B X 
+B W B B 
+B P P B 
+
+R R X W 
+R R B B 
+W B B B 
+X B W B 
+P P W B 
+
+R R W X 
+R R B B 
+X B B B 
+W B W B 
+P P W B 
+
+R R W B 
+R R W B 
+W B B X 
+X B B B 
+P P W B 
+
+R R W B 
+R R W B 
+X B B B 
+W B B B 
+P P W X 
+
+R R X B 
+R R W B 
+W W B B 
+B X B B 
+B P P W 
+
+B R R B 
+B R R B 
+W X W B 
+X W B B 
+P P B W 
+
+B R R B 
+B R R B 
+X W W B 
+W X B B 
+P P B W 
+
+X R R B 
+B R R B 
+B X W B 
+W W B B 
+P P B W 
+
+R R W B 
+R R X B 
+B X B B 
+B W B B 
+P P W W 
+
+R R W B 
+R R B B 
+B X B B 
+B X W B 
+P P W W 
+
+R R W B 
+R R B B 
+B X B X 
+B W W B 
+P P W B 
+
+R R W B 
+R R B B 
+X X B B 
+B W W B 
+B P P W 
+
+R R X B 
+R R W B 
+B W B B 
+B X B B 
+P P W W 
+
+R R W X 
+R R B B 
+B W B B 
+B X W B 
+P P W B 
+
+R R W B 
+R R B B 
+W X B B 
+B X W B 
+B P P W 
+
+R R W X 
+R R B B 
+B W B B 
+B W W B 
+P P X B 
+
+R R X W 
+R R B B 
+B W B B 
+B W X B 
+P P W B 
+
+R R W B 
+R R B B 
+W W B B 
+B X X B 
+B P P W 
+
+X R R W 
+X R R B 
+B W B B 
+B W B B 
+P P W B 
+
+W W B B 
+R R B B 
+R R X B 
+B W X B 
+B P P W 
+
+W W X B 
+R R B B 
+R R B B 
+B X W B 
+B P P W 
+
+R R W B 
+R R B B 
+W W B B 
+B X W B 
+B P P X 
+
+R R W B 
+R R B B 
+W X B X 
+B W W B 
+B P P B 
+
+R R W X 
+R R B B 
+X W B B 
+B W W B 
+B P P B 
+
+R R X W 
+R R B B 
+B W B B 
+B W W B 
+X P P B 
+
+R R W B 
+R R B B 
+W W B X 
+B W X B 
+B P P B 
+
+R R X B 
+R R W B 
+W W B X 
+B W B B 
+B P P B 
+
+R R W X 
+R R X B 
+W W B B 
+B W B B 
+B P P B 
+
+R R W X 
+R R B B 
+W B B B 
+X B W B 
+P P W B 
+
+R R W B 
+R R B B 
+X B B X 
+W B W B 
+P P W B 
+
+R R W B 
+R R W B 
+W B B B 
+X B B B 
+P P W X 
+
+R R W B 
+R R W B 
+X B B B 
+W B B B 
+P P X W 
+
+B R R B 
+B R R B 
+W W W B 
+X X B B 
+P P B W 
+
+B R R B 
+B R R B 
+W W X B 
+X W B B 
+P P B W 
+
+B R R B 
+B R R B 
+X X W B 
+W W B B 
+P P B W 
+
+B R R B 
+B R R B 
+W X W B 
+W X B B 
+P P B W 
+
+X R R B 
+B R R B 
+B W X B 
+W W B B 
+P P B W 
+
+R R X B 
+R R W B 
+B X B B 
+B W B B 
+P P W W 
+
+R R W B 
+R R B B 
+X B B B 
+X B W B 
+P P W W 
+
+R R W X 
+R R B B 
+B X B B 
+B W W B 
+P P W B 
+
+X X W B 
+R R B B 
+R R B B 
+B W W B 
+B P P W 
+
+R R X W 
+R R B B 
+B W B B 
+B X W B 
+P P W B 
+
+R R X W 
+R R B B 
+B W B B 
+B W W B 
+P P X B 
+
+R R B W 
+R R B B 
+B W X B 
+B W X B 
+P P W B 
+
+X R R W 
+B R R B 
+B W B B 
+X W B B 
+P P W B 
+
+W W B B 
+R R B B 
+R R X B 
+B X W B 
+B P P W 
+
+R R W B 
+R R B B 
+W W B X 
+B X W B 
+B P P B 
+
+R R W X 
+R R B B 
+W X B B 
+B W W B 
+B P P B 
+
+R R X W 
+R R B B 
+X W B B 
+B W W B 
+B P P B 
+
+R R B W 
+R R B B 
+B W X B 
+B W W B 
+X P P B 
+
+R R W X 
+R R B B 
+W W B B 
+B W X B 
+B P P B 
+
+R R X X 
+R R W B 
+W W B B 
+B W B B 
+B P P B 
+
+R R X W 
+R R X B 
+W W B B 
+B W B B 
+B P P B 
+
+R R W B 
+R R B B 
+W B B X 
+X B W B 
+P P W B 
+
+R R W B 
+R R B B 
+X B B B 
+W B W B 
+P P W X 
+
+R R W B 
+R R W B 
+W B B B 
+X B B B 
+P P X W 
+
+R R W B 
+R R W B 
+X B X B 
+W B B B 
+P P B W 
+
+R R W B 
+R R W B 
+X B B B 
+W B B B 
+X P P W 
+
+B R R B 
+B R R B 
+W W B B 
+X W B B 
+P P X W 
+
+B R R B 
+B R R B 
+X W X B 
+W W B B 
+P P B W 
+
+B R R B 
+B R R B 
+W W X B 
+W X B B 
+P P B W 
+
+X R R B 
+B R R B 
+B W B B 
+W W B B 
+P P X W 
+
+R R X W 
+R R B B 
+B X B B 
+B W W B 
+P P W B 
+
+R R W B 
+R R B B 
+R R B B 
+B W W B 
+B P P W 
+
+X W X B 
+R R B B 
+R R B B 
+B W W B 
+B P P W 
+
+R R B W 
+R R B B 
+B W X B 
+B X W B 
+P P W B 
+
+R R B W 
+R R B B 
+B W X B 
+B W W B 
+P P X B 
+
+R R B W 
+R R B B 
+B X W B 
+B W X B 
+P P W B 
+
+B R R W 
+B R R B 
+X W B B 
+X W B B 
+P P W B 
+
+X R R W 
+B R R B 
+B W B B 
+W X B B 
+P P W B 
+
+W W B B 
+R R B B 
+R R W B 
+B X X B 
+B P P W 
+
+R R W X 
+R R B B 
+W W B B 
+B X W B 
+B P P B 
+
+R R X W 
+R R B B 
+W X B B 
+B W W B 
+B P P B 
+
+R R B W 
+R R B B 
+X W X B 
+B W W B 
+B P P B 
+
+R R B W 
+R R B B 
+B W W B 
+B W X B 
+X P P B 
+
+R R B W 
+R R B B 
+B X W B 
+B W W B 
+X P P B 
+
+R R X W 
+R R B B 
+W W B B 
+B W X B 
+B P P B 
+
+X R R W 
+X R R B 
+W W B B 
+B W B B 
+B P P B 
+
+R R W B 
+R R B B 
+W B B B 
+X B W B 
+P P W X 
+
+R R W B 
+R R B B 
+X B B B 
+W B W B 
+P P X W 
+
+R R W B 
+R R W B 
+W B X B 
+X B B B 
+P P B W 
+
+R R W B 
+R R W B 
+W B B B 
+X B B B 
+X P P W 
+
+R R W B 
+R R X B 
+X B W B 
+W B B B 
+P P B W 
+
+R R W B 
+R R W B 
+X B B B 
+X B B B 
+W P P W 
+
+B R R B 
+B R R B 
+X W B B 
+W W B B 
+P P X W 
+
+B R R B 
+B R R B 
+W W B B 
+W X B B 
+P P X W 
+
+B R R B 
+B R R B 
+W W B B 
+X W B B 
+P P W X 
+
+B R R B 
+B R R B 
+W W B B 
+X W B B 
+X P P W 
+
+B R R B 
+B R R B 
+W X X B 
+W W B B 
+P P B W 
+
+X R R B 
+B R R B 
+B W B B 
+W W B B 
+P P W X 
+
+X R R B 
+B R R B 
+B W B B 
+W W B B 
+X P P W 
+
+R R B W 
+R R B B 
+B X X B 
+B W W B 
+P P W B 
+
+W X X B 
+R R B B 
+R R B B 
+B W W B 
+B P P W 
+
+X W B B 
+R R B B 
+R R X B 
+B W W B 
+B P P W 
+
+R R B W 
+R R B B 
+B W W B 
+B X X B 
+P P W B 
+
+R R B W 
+R R B B 
+B X W B 
+B X W B 
+P P W B 
+
+R R B W 
+R R B B 
+B W W B 
+B W X B 
+P P X B 
+
+R R B W 
+R R B B 
+B X W B 
+B W W B 
+P P X B 
+
+B R R W 
+B R R B 
+W X B B 
+X W B B 
+P P W B 
+
+B R R W 
+B R R B 
+X W B B 
+W X B B 
+P P W B 
+
+X R R W 
+B R R B 
+B X B B 
+W W B B 
+P P W B 
+
+R R X W 
+R R B B 
+W W B B 
+B X W B 
+B P P B 
+
+R R B W 
+R R B B 
+W X X B 
+B W W B 
+B P P B 
+
+R R B W 
+R R B B 
+X W W B 
+B W X B 
+B P P B 
+
+R R B W 
+R R B B 
+X X W B 
+B W W B 
+B P P B 
+
+R R B W 
+R R B B 
+B W W B 
+B X W B 
+X P P B 
+
+R R B W 
+R R B B 
+W W X B 
+B W X B 
+B P P B 
+
+X R R W 
+W R R B 
+X W B B 
+B W B B 
+B P P B 
+
+R R W B 
+R R B B 
+W B B B 
+X B W B 
+P P X W 
+
+R R W B 
+R R B B 
+X B B B 
+W B X B 
+P P W W 
+
+R R W B 
+R R B B 
+X B B B 
+W B W B 
+X P P W 
+
+R R W B 
+R R X B 
+W B W B 
+X B B B 
+P P B W 
+
+R R X B 
+R R W B 
+X B W B 
+W B B B 
+P P B W 
+
+B R R B 
+B R R B 
+W X B B 
+W W B B 
+P P X W 
+
+B R R B 
+B R R B 
+X W B B 
+W W B B 
+P P W X 
+
+B R R B 
+B R R B 
+X W B B 
+W W B B 
+X P P W 
+
+B R R B 
+B R R B 
+W W B B 
+W X B B 
+P P W X 
+
+B R R B 
+B R R B 
+W W B B 
+W X B B 
+X P P W 
+
+B R R B 
+B R R B 
+W W B X 
+X W B B 
+P P W B 
+
+B X X B 
+B R R B 
+W R R B 
+W W B B 
+P P B W 
+
+X R R B 
+B R R B 
+B W B X 
+W W B B 
+P P W B 
+
+X R R B 
+B R R B 
+B W B B 
+X W B B 
+W P P W 
+
+W X B B 
+R R B B 
+R R X B 
+B W W B 
+B P P W 
+
+X W B B 
+R R B B 
+R R W B 
+B W X B 
+B P P W 
+
+R R B W 
+R R B B 
+B W W B 
+B X W B 
+P P X B 
+
+R R B W 
+R R B B 
+X B W B 
+X B W B 
+P P W B 
+
+B R R W 
+B R R B 
+W W B B 
+X X B B 
+P P W B 
+
+B R R W 
+B R R B 
+X X B B 
+W W B B 
+P P W B 
+
+B R R W 
+B R R B 
+W X B B 
+W X B B 
+P P W B 
+
+R R B W 
+R R B B 
+W W X B 
+B X W B 
+B P P B 
+
+R R B W 
+R R B B 
+W X W B 
+B W X B 
+B P P B 
+
+R R B W 
+R R B B 
+X W W B 
+B X W B 
+B P P B 
+
+X X B W 
+R R B B 
+R R W B 
+B W W B 
+B P P B 
+
+W R R W 
+X R R B 
+X W B B 
+B W B B 
+B P P B 
+
+X R R W 
+W R R B 
+B W B B 
+B W B B 
+X P P B 
+
+X R R W 
+W R R B 
+W X B B 
+B W B B 
+B P P B 
+
+R R W B 
+R R B B 
+W B B B 
+X B X B 
+P P W W 
+
+R R W B 
+R R B B 
+W B B B 
+X B W B 
+X P P W 
+
+R R W B 
+R R X B 
+X B B B 
+W B B B 
+P P W W 
+
+R R W B 
+R R B B 
+X B B B 
+X B W B 
+W P P W 
+
+R R X B 
+R R W B 
+W B W B 
+X B B B 
+P P B W 
+
+B R R B 
+B R R B 
+W X B B 
+W W B B 
+P P W X 
+
+B R R B 
+B R R B 
+W X B B 
+W W B B 
+X P P W 
+
+B R R B 
+B R R B 
+X W B X 
+W W B B 
+P P W B 
+
+B R R B 
+B R R B 
+X W B B 
+X W B B 
+W P P W 
+
+B R R B 
+B R R B 
+W W B X 
+W X B B 
+P P W B 
+
+B R R B 
+B R R B 
+W W B B 
+X X B B 
+W P P W 
+
+B R R X 
+B R R B 
+W W B B 
+X W B B 
+P P W B 
+
+B R R B 
+B R R B 
+W R R B 
+W W B B 
+P P B W 
+
+X R R X 
+B R R B 
+B W B B 
+W W B B 
+P P W B 
+
+X R R B 
+X R R B 
+B W B B 
+B W B B 
+W P P W 
+
+X R R B 
+B R R B 
+B W B B 
+W X B B 
+W P P W 
+
+W X B B 
+R R B B 
+R R W B 
+B W X B 
+B P P W 
+
+X W B B 
+R R B B 
+R R W B 
+B X W B 
+B P P W 
+
+R R B W 
+R R B B 
+W W W B 
+B X X B 
+B P P B 
+
+R R B W 
+R R B B 
+W X W B 
+B X W B 
+B P P B 
+
+R R B W 
+R R B B 
+R R W B 
+B W W B 
+B P P B 
+
+W R R W 
+X R R B 
+B W B B 
+B W B B 
+X P P B 
+
+W R R W 
+X R R B 
+W X B B 
+B W B B 
+B P P B 
+
+X R R W 
+W R R B 
+B W B B 
+B W B B 
+P P X B 
+
+X R R W 
+W R R B 
+W W B B 
+B X B B 
+B P P B 
+
+R R W B 
+R R X B 
+W B B B 
+X B B B 
+P P W W 
+
+R R X B 
+R R W B 
+X B B B 
+W B B B 
+P P W W 
+
+B R R B 
+B R R B 
+W X B X 
+W W B B 
+P P W B 
+
+B R R B 
+B R R B 
+W X B B 
+X W B B 
+W P P W 
+
+B R R X 
+B R R B 
+X W B B 
+W W B B 
+P P W B 
+
+B R R B 
+B R R B 
+X W B B 
+W X B B 
+W P P W 
+
+B R R X 
+B R R B 
+W W B B 
+W X B B 
+P P W B 
+
+R R X B 
+R R X B 
+B W B B 
+B W B B 
+W P P W 
+
+X R R B 
+B R R B 
+B X B B 
+W W B B 
+W P P W 
+
+W X B B 
+R R B B 
+R R W B 
+B X W B 
+B P P W 
+
+W R R W 
+B R R B 
+B W B B 
+X W B B 
+X P P B 
+
+W R R W 
+X R R B 
+B W B B 
+B W B B 
+P P X B 
+
+W R R W 
+W R R B 
+X X B B 
+B W B B 
+B P P B 
+
+W R R W 
+X R R B 
+W W B B 
+B X B B 
+B P P B 
+
+X R R W 
+W R R B 
+B W X B 
+B W B B 
+P P B B 
+
+R R X B 
+R R W B 
+W B B B 
+X B B B 
+P P W W 
+
+B R R X 
+B R R B 
+W X B B 
+W W B B 
+P P W B 
+
+B R R B 
+B R R B 
+X X B B 
+W W B B 
+W P P W 
+
+B R R B 
+B R R B 
+W X B B 
+W X B B 
+W P P W 
+
+R R X B 
+R R B B 
+B W B B 
+B W X B 
+W P P W 
+
+W R R W 
+B R R B 
+B W B B 
+W X B B 
+X P P B 
+
+W R R W 
+B R R B 
+B W B B 
+X W B B 
+P P X B 
+
+W R R W 
+X R R B 
+B W X B 
+B W B B 
+P P B B 
+
+W R R W 
+W R R B 
+B X B B 
+B W B B 
+X P P B 
+
+W R R W 
+W R R B 
+X W B B 
+B X B B 
+B P P B 
+
+X R R W 
+W R R B 
+B X W B 
+B W B B 
+P P B B 
+
+R R B B 
+R R B B 
+B W X B 
+B W X B 
+W P P W 
+
+R R X B 
+R R B B 
+B W B B 
+B X W B 
+W P P W 
+
+W R R W 
+B R R B 
+B X B B 
+W W B B 
+X P P B 
+
+W R R W 
+B R R B 
+B W B B 
+X X B B 
+W P P B 
+
+W R R W 
+B R R B 
+B W B B 
+W X B B 
+P P X B 
+
+W R R W 
+B R R B 
+B W X B 
+X W B B 
+P P B B 
+
+W R R W 
+X R R B 
+B X W B 
+B W B B 
+P P B B 
+
+W R R W 
+W R R B 
+B W B B 
+B X B B 
+X P P B 
+
+W R R W 
+W R R B 
+B X B B 
+B W B B 
+P P X B 
+
+W R R W 
+W R R B 
+W X B B 
+B X B B 
+B P P B 
+
+X R R W 
+W R R B 
+B W W B 
+B X B B 
+P P B B 
+
+R R B B 
+R R B B 
+B X W B 
+B W X B 
+W P P W 
+
+R R B B 
+R R B B 
+B W X B 
+B X W B 
+W P P W 
+
+R R X B 
+R R B B 
+B X B B 
+B W W B 
+W P P W 
+
+W R R W 
+B R R B 
+B X B B 
+X W B B 
+W P P B 
+
+W R R W 
+B R R B 
+B X B B 
+W W B B 
+P P X B 
+
+W R R W 
+X R R B 
+B W B B 
+B X B B 
+W P P B 
+
+W R R W 
+B R R B 
+B W X B 
+W X B B 
+P P B B 
+
+W R R W 
+B R R B 
+B X W B 
+X W B B 
+P P B B 
+
+W R R W 
+X R R B 
+B W W B 
+B X B B 
+P P B B 
+
+W R R W 
+W R R B 
+B W B B 
+B X B B 
+P P X B 
+
+W R R W 
+W R R B 
+B X X B 
+B W B B 
+P P B B 
+
+R R B B 
+R R B B 
+B W W B 
+B X X B 
+W P P W 
+
+R R B B 
+R R B B 
+B X X B 
+B W W B 
+W P P W 
+
+R R B B 
+R R B B 
+B X W B 
+B X W B 
+W P P W 
+
+W R R W 
+X R R B 
+B X B B 
+B W B B 
+W P P B 
+
+W R R W 
+B R R B 
+B X B B 
+W X B B 
+W P P B 
+
+W R R W 
+B R R B 
+B X X B 
+W W B B 
+P P B B 
+
+X R R W 
+W R R B 
+B W B B 
+B X B B 
+W P P B 
+
+W R R W 
+B R R B 
+B X W B 
+W X B B 
+P P B B 
+
+W R R W 
+B R R B 
+B W W B 
+X X B B 
+P P B B 
+
+W R R W 
+W R R B 
+B W X B 
+B X B B 
+P P B B 
+
+W X X W 
+W R R B 
+B R R B 
+B W B B 
+P P B B 
+
+X R R W 
+W R R B 
+B X B B 
+B W B B 
+W P P B 
+
+W X X W 
+B R R B 
+B R R B 
+W W B B 
+P P B B 
+
+W R R W 
+W R R B 
+B X W B 
+B X B B 
+P P B B 
+
+W R R W 
+W R R B 
+B R R B 
+B W B B 
+P P B B 
+
+X W X W 
+W R R B 
+B R R B 
+B W B B 
+P P B B 
+
+W X W X 
+W R R B 
+B R R B 
+B W B B 
+P P B B 
+
+W R R W 
+B R R B 
+B R R B 
+W W B B 
+P P B B 
+
+X W X W 
+B R R B 
+B R R B 
+W W B B 
+P P B B 
+
+W X W X 
+B R R B 
+B R R B 
+W W B B 
+P P B B 
+
+W W X W 
+X R R B 
+B R R B 
+B W B B 
+P P B B 
+
+X W W X 
+W R R B 
+B R R B 
+B W B B 
+P P B B 
+
+X X W W 
+W R R B 
+B R R B 
+B W B B 
+P P B B 
+
+W W X X 
+W R R B 
+B R R B 
+B W B B 
+P P B B 
+
+W X W B 
+W R R B 
+B R R X 
+B W B B 
+P P B B 
+
+B W X W 
+B R R B 
+X R R B 
+W W B B 
+P P B B 
+
+X W W X 
+B R R B 
+B R R B 
+W W B B 
+P P B B 
+
+X X W W 
+B R R B 
+B R R B 
+W W B B 
+P P B B 
+
+W W X X 
+B R R B 
+B R R B 
+W W B B 
+P P B B 
+
+W X W B 
+B R R B 
+B R R X 
+W W B B 
+P P B B 
+
+W W W X 
+X R R B 
+B R R B 
+B W B B 
+P P B B 
+
+W X W W 
+X R R B 
+B R R B 
+B W B B 
+P P B B 
+
+W W X W 
+B R R B 
+B R R B 
+X W B B 
+P P B B 
+
+X W W B 
+W R R B 
+B R R X 
+B W B B 
+P P B B 
+
+W W X B 
+W R R B 
+B R R X 
+B W B B 
+P P B B 
+
+W X W B 
+W R R B 
+B R R B 
+B W B B 
+P P B X 
+
+B W W X 
+B R R B 
+X R R B 
+W W B B 
+P P B B 
+
+B X W W 
+B R R B 
+X R R B 
+W W B B 
+P P B B 
+
+B W X W 
+B R R B 
+W R R B 
+X W B B 
+P P B B 
+
+X W W B 
+B R R B 
+B R R X 
+W W B B 
+P P B B 
+
+W W X B 
+B R R B 
+B R R X 
+W W B B 
+P P B B 
+
+W X W B 
+B R R B 
+B R R B 
+W W B B 
+P P B X 
+
+W W W B 
+X R R B 
+B R R X 
+B W B B 
+P P B B 
+
+W W W X 
+B R R B 
+B R R B 
+X W B B 
+P P B B 
+
+X W W W 
+X R R B 
+B R R B 
+B W B B 
+P P B B 
+
+W X W W 
+B R R B 
+B R R B 
+X W B B 
+P P B B 
+
+W W X W 
+B R R B 
+B R R B 
+W X B B 
+P P B B 
+
+X W W B 
+W R R B 
+B R R B 
+B W B B 
+P P B X 
+
+W W X B 
+W R R B 
+B R R B 
+B W B B 
+P P B X 
+
+B W W B 
+B R R B 
+X R R X 
+W W B B 
+P P B B 
+
+B W W X 
+B R R B 
+W R R B 
+X W B B 
+P P B B 
+
+B X W W 
+B R R B 
+W R R B 
+X W B B 
+P P B B 
+
+B W X W 
+B R R B 
+W R R B 
+W X B B 
+P P B B 
+
+X W W B 
+B R R B 
+B R R B 
+W W B B 
+P P B X 
+
+W W X B 
+B R R B 
+B R R B 
+W W B B 
+P P B X 
+
+W W W B 
+B R R B 
+B R R X 
+X W B B 
+P P B B 
+
+W W W B 
+X R R B 
+B R R B 
+B W B B 
+P P B X 
+
+W W W X 
+B R R B 
+B R R B 
+W X B B 
+P P B B 
+
+X W W W 
+B R R B 
+B R R B 
+X W B B 
+P P B B 
+
+W X W W 
+B R R B 
+B R R B 
+W X B B 
+P P B B 
+
+B W W B 
+B R R B 
+W R R X 
+X W B B 
+P P B B 
+
+B W W B 
+B R R B 
+X R R B 
+W W B B 
+P P B X 
+
+B W W X 
+B R R B 
+W R R B 
+W X B B 
+P P B B 
+
+B X W W 
+B R R B 
+W R R B 
+W X B B 
+P P B B 
+
+W W W B 
+B R R B 
+B R R B 
+X W B B 
+P P B X 
+
+W W W B 
+B R R B 
+B R R X 
+W X B B 
+P P B B 
+
+B W W W 
+B R R B 
+X R R B 
+X W B B 
+P P B B 
+
+X W W W 
+B R R B 
+B R R B 
+W X B B 
+P P B B 
+
+B W W B 
+B R R B 
+W R R B 
+X W B B 
+P P B X 
+
+B W W B 
+B R R B 
+W R R X 
+W X B B 
+P P B B 
+
+W W W B 
+B R R B 
+B R R B 
+W X B B 
+P P B X 
+
+B W W W 
+B R R B 
+X R R B 
+W X B B 
+P P B B 
+
+B W W B 
+B R R B 
+W R R B 
+W X B B 
+P P B X 
+
+B W W W 
+B R R B 
+W R R B 
+X X B B 
+P P B B 
+
+
+ Potential Solutions:
